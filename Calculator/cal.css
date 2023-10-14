@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.cal-container{
+    margin-left: 370px;
+    margin-top: 120px;
+}
+
+.cal-container .first{
+    display: inline-block;
+}
+
+.cal-container button{
+    margin: 10px;
+    flex-shrink: 0;
+}
+
+.zero{
+    margin-left: 48px;
+}
+
+.equal{
+    margin-left: 48px;
+}
