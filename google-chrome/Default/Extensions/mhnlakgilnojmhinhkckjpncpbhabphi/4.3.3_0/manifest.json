@@ -1,0 +1,114 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "assets/USE_CHAT_GPT_AI/icons/maxai_16_normal.png",
+         "24": "assets/USE_CHAT_GPT_AI/icons/maxai_32_normal.png",
+         "32": "assets/USE_CHAT_GPT_AI/icons/maxai_32_normal.png"
+      },
+      "default_popup": "pages/popup/index.html",
+      "default_title": "MaxAI.me"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "_execute_action": {
+         "description": "Active MaxAI.me",
+         "suggested_key": {
+            "default": "Alt+J",
+            "linux": "Alt+J",
+            "mac": "Command+J",
+            "windows": "Alt+J"
+         }
+      },
+      "open-immersive-chat": {
+         "description": "Open immersive chat",
+         "suggested_key": {
+            "default": "Alt+I",
+            "linux": "Alt+I",
+            "mac": "Command+I",
+            "windows": "Alt+I"
+         }
+      },
+      "show-floating-menu": {
+         "description": "Draft new text",
+         "suggested_key": {
+            "default": "Shift+Alt+I",
+            "linux": "Shift+Alt+I",
+            "mac": "Shift+Command+I",
+            "windows": "Shift+Alt+I"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "import_minimum.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "import_content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "import_check_status.js" ],
+      "matches": [ "https://app.maxai.me/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "import_iframeDocumentEnd.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "import_contentArkoseTokenIframe.js" ],
+      "match_about_blank": true,
+      "matches": [ "https://chatgpt.com/robots.txt" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "import_searchWithAI.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "import_iframeDocumentStart.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_chatgpt",
+         "path": "rules/chatgpt.json"
+      }, {
+         "enabled": true,
+         "id": "ruleset_bing",
+         "path": "rules/bing.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "differential_fingerprint": "1.f6f200673e7cb51148f58e5c29740111b494399fa0332e9aaf5743c8d0d6d7f3",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/USE_CHAT_GPT_AI/icons/maxai_128_normal.png",
+      "16": "assets/USE_CHAT_GPT_AI/icons/maxai_16_normal.png",
+      "32": "assets/USE_CHAT_GPT_AI/icons/maxai_32_normal.png",
+      "48": "assets/USE_CHAT_GPT_AI/icons/maxai_48_normal.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuyyxq7RDB+EkT3ZiyuDJpP+OCkQnfJpSvriOupKff4ymt6bCwCBS22wZryBdK9PQcwyLxNNn+V8MeDiL6xyGWKNSg1pFNRXIRkmq90yuXcP/OCNTE7zGJ6nzgEIpykonMaEFlitHcAmGiSGzkk8zy6GIyVnrLuOfjrQhaV2XY+TmlXe3G/tp2JCiO/rBwXhT0Ac7ARhoU6vfPAIcz5dtyLH1E0jjmmbwDD6uvE+y65rqhhVBb1a1U3lRonE8gcpW6OwEPJiotafk5I+lqgdCVOTx0w7L4TzsUsToYY9mDFVPFreOAND9Bau/8NyMwqPBPKRJSkKSX3Z/DBeNp70QywIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "pages/settings/index.html"
+   },
+   "permissions": [ "tabs", "scripting", "storage", "management", "contextMenus", "clipboardRead", "clipboardWrite", "declarativeNetRequestWithHostAccess" ],
+   "short_name": "__MSG_sn__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.3.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "worker.js", "i18n/locales/*", "pages/pdf/*", "content.css", "content_style.css", "searchWithAI.css", "chunks/*.js", "assets/*", "pages/chatgpt/fileUploadServer.js", "pages/chatgpt/arkose_inject.js", "pages/*", "minimum.js", "content.js", "check_status.js", "iframeDocumentEnd.js", "contentArkoseTokenIframe.js", "searchWithAI.js", "iframeDocumentStart.js" ]
+   } ]
+}

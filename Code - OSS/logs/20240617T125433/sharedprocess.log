@@ -1,0 +1,17 @@
+2024-06-17 12:54:50.023 [info] Getting Manifest... tkw01536.git-commit-format
+2024-06-17 12:54:50.365 [info] Installing extension: tkw01536.git-commit-format vscode-userdata:/home/sus/.vscode-oss/extensions/extensions.json
+2024-06-17 12:54:52.121 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-17 12:54:52.122 [info] Extension signature verification is not done: tkw01536.git-commit-format
+2024-06-17 12:54:52.135 [info] Extracted extension to file:///home/sus/.vscode-oss/extensions/tkw01536.git-commit-format-1.3.0-universal: tkw01536.git-commit-format
+2024-06-17 12:54:52.142 [info] Renamed to /home/sus/.vscode-oss/extensions/tkw01536.git-commit-format-1.3.0-universal
+2024-06-17 12:54:52.199 [info] Extension installed successfully: tkw01536.git-commit-format vscode-userdata:/home/sus/.vscode-oss/extensions/extensions.json
+2024-06-17 12:54:52.225 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sus/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sus/.vscode-oss/extensions/extensions.json.vsctmp'
+    at c.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)

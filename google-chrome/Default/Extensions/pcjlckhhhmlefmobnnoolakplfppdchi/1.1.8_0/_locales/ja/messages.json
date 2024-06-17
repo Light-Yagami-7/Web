@@ -1,0 +1,202 @@
+{
+   "adsSkipped": {
+      "description": "広告がスキップされました",
+      "message": "広告がスキップされました"
+   },
+   "aiFeatures": {
+      "description": "AI機能",
+      "message": "AI機能"
+   },
+   "appearance": {
+      "description": "外観設定",
+      "message": "外観"
+   },
+   "askAway": {
+      "description": "質問する",
+      "message": "質問する"
+   },
+   "autoTheatreMode": {
+      "description": "自動劇場モード",
+      "message": "自動劇場モード"
+   },
+   "autoTheatreModeDescription": {
+      "description": "自動劇場モード",
+      "message": "自動劇場モード"
+   },
+   "channelDefaultTab": {
+      "description": "チャンネルのデフォルトタブ",
+      "message": "チャンネルのデフォルトタブ"
+   },
+   "channelDefaultTabDescription": {
+      "description": "チャンネルのデフォルトタブ",
+      "message": "チャンネルのデフォルトタブ"
+   },
+   "chatWithVideo": {
+      "description": "動画とチャット",
+      "message": "動画とチャット"
+   },
+   "checking": {
+      "description": "確認中...",
+      "message": "確認中..."
+   },
+   "community": {
+      "description": "コミュニティ",
+      "message": "コミュニティ"
+   },
+   "customControls": {
+      "description": "カスタムコントロール",
+      "message": "カスタムコントロール"
+   },
+   "customControlsDescription": {
+      "description": "カスタムコントロール",
+      "message": "カスタムコントロール"
+   },
+   "customTheme": {
+      "description": "カスタムテーマ",
+      "message": "カスタムテーマ"
+   },
+   "customThemeDescription": {
+      "description": "カスタムテーマ",
+      "message": "カスタムテーマ"
+   },
+   "extDescription": {
+      "description": "拡張機能の説明",
+      "message": "動画の広告を自動的に16倍速でスキップ。100％無料。広告を自動的にスキップ。広告バナーを非表示にする。自動的に広告スキップボタンをクリック。"
+   },
+   "extName": {
+      "description": "拡張機能名",
+      "message": "Ad Speedup - ビデオ広告を16倍速でスキップ"
+   },
+   "feedback": {
+      "description": "フィードバック",
+      "message": "フィードバック"
+   },
+   "general": {
+      "description": "一般設定",
+      "message": "一般"
+   },
+   "getTimestamps": {
+      "description": "タイムスタンプを取得",
+      "message": "タイムスタンプを取得"
+   },
+   "hideAds": {
+      "description": "広告を非表示",
+      "message": "広告を非表示"
+   },
+   "hideAdsDescription": {
+      "description": "動画の広告を非表示",
+      "message": "動画の広告を非表示"
+   },
+   "hideComments": {
+      "description": "コメントを非表示",
+      "message": "コメントを非表示"
+   },
+   "hideCommentsDescription": {
+      "description": "コメントを非表示",
+      "message": "コメントを非表示"
+   },
+   "hideLiveChats": {
+      "description": "ライブチャットを非表示",
+      "message": "ライブチャットを非表示"
+   },
+   "hideLiveChatsDescription": {
+      "description": "ライブチャットを非表示",
+      "message": "ライブチャットを非表示"
+   },
+   "hideRelatedVideos": {
+      "description": "関連動画を非表示",
+      "message": "関連動画を非表示"
+   },
+   "hideRelatedVideosDescription": {
+      "description": "関連動画を非表示",
+      "message": "関連動画を非表示"
+   },
+   "hideShorts": {
+      "description": "ショート動画を非表示",
+      "message": "ショート動画を非表示"
+   },
+   "hideShortsDescription": {
+      "description": "ショート動画を非表示",
+      "message": "ショート動画を非表示"
+   },
+   "loading": {
+      "description": "読み込み中...",
+      "message": "読み込み中..."
+   },
+   "miniPlayerOnScroll": {
+      "description": "スクロール時のミニプレーヤー",
+      "message": "スクロール時のミニプレーヤー"
+   },
+   "miniPlayerOnScrollDescription": {
+      "description": "スクロール時のミニプレーヤー",
+      "message": "スクロール時のミニプレーヤー"
+   },
+   "miniPlayerPosition": {
+      "description": "ミニプレーヤーの位置",
+      "message": "ミニプレーヤーの位置"
+   },
+   "miniPlayerPositionDescription": {
+      "description": "ミニプレーヤーの位置",
+      "message": "ミニプレーヤーの位置"
+   },
+   "miniPlayerSize": {
+      "description": "ミニプレーヤーサイズ",
+      "message": "ミニプレーヤーサイズ"
+   },
+   "miniPlayerSizeDescription": {
+      "description": "ミニプレーヤーサイズ",
+      "message": "ミニプレーヤーサイズ"
+   },
+   "pauseChannelTrailer": {
+      "description": "チャンネルトレーラーを一時停止",
+      "message": "チャンネルトレーラーを一時停止"
+   },
+   "pauseChannelTrailerDescription": {
+      "description": "チャンネルトレーラーを一時停止",
+      "message": "チャンネルトレーラーを一時停止"
+   },
+   "pauseOnTabSwitch": {
+      "description": "タブの切り替え時に一時停止",
+      "message": "タブの切り替え時に一時停止"
+   },
+   "pauseOnTabSwitchDescription": {
+      "description": "タブの切り替え時に一時停止",
+      "message": "タブの切り替え時に一時停止"
+   },
+   "player": {
+      "description": "ビデオプレーヤー設定",
+      "message": "プレーヤー"
+   },
+   "scrollToTopButton": {
+      "description": "トップにスクロールボタン",
+      "message": "トップにスクロールボタン"
+   },
+   "scrollToTopButtonDescription": {
+      "description": "トップにスクロールボタン",
+      "message": "トップにスクロールボタン"
+   },
+   "searchInNewTab": {
+      "description": "新しいタブで検索",
+      "message": "新しいタブで検索"
+   },
+   "searchInNewTabDescription": {
+      "description": "新しいタブで検索",
+      "message": "新しいタブで検索"
+   },
+   "signInToSummarize": {
+      "description": "要約するにはサインインしてください",
+      "message": "要約するにはサインインしてください"
+   },
+   "summarizeVideo": {
+      "description": "動画を要約",
+      "message": "動画を要約"
+   },
+   "viewFullTitles": {
+      "description": "完全なタイトルを表示",
+      "message": "完全なタイトルを表示"
+   },
+   "viewFullTitlesDescription": {
+      "description": "動画の完全なタイトルを表示",
+      "message": "動画の完全なタイトルを表示"
+   }
+}

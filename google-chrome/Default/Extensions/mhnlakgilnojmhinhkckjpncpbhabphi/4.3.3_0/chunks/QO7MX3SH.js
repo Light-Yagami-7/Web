@@ -1,0 +1,1 @@
+import{Di as r}from"./IKEUCMUK.js";import{r as n}from"./NQRP77P5.js";var _=`ON_BOARDING_1ST_ANNIVERSARY_2024_SIDEBAR_DIALOG_${n}`;var t=e=>`ON_BOARDING_EXTENSION__${e}__DIALOG_ALERT`,I=async e=>{let o=t(e);await r(o,!1)};export{_ as a,t as b,I as c};

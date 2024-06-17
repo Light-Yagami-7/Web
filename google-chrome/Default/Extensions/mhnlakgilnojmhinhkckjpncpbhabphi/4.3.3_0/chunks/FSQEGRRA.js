@@ -1,0 +1,1 @@
+import{c as n}from"./LYR5HDVD.js";import{f as u}from"./PQ35KENF.js";var r=u(n());var t=u(n()),i=typeof window<"u"?t.useLayoutEffect:t.useEffect,s=i;function m(o,e){let f=(0,r.useRef)(o);s(()=>{f.current=o},[o]),(0,r.useEffect)(()=>{if(!e&&e!==0)return;let c=setInterval(()=>f.current(),e);return()=>clearInterval(c)},[e])}var d=m;export{d as a};

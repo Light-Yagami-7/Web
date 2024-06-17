@@ -1,0 +1,202 @@
+{
+   "adsSkipped": {
+      "description": "Anuncios omitidos",
+      "message": "Anuncios omitidos"
+   },
+   "aiFeatures": {
+      "description": "Funciones de IA",
+      "message": "Funciones de IA"
+   },
+   "appearance": {
+      "description": "Configuraciones de apariencia",
+      "message": "Apariencia"
+   },
+   "askAway": {
+      "description": "Preguntar",
+      "message": "Preguntar"
+   },
+   "autoTheatreMode": {
+      "description": "Modo teatro automático",
+      "message": "Modo teatro automático"
+   },
+   "autoTheatreModeDescription": {
+      "description": "Habilitar el modo teatro automático",
+      "message": "Habilitar el modo teatro automático"
+   },
+   "channelDefaultTab": {
+      "description": "Pestaña predeterminada del canal",
+      "message": "Pestaña predeterminada del canal"
+   },
+   "channelDefaultTabDescription": {
+      "description": "Pestaña predeterminada al abrir un canal",
+      "message": "Pestaña predeterminada al abrir un canal"
+   },
+   "chatWithVideo": {
+      "description": "Chatear con el video",
+      "message": "Chatear con el video"
+   },
+   "checking": {
+      "description": "Comprobando...",
+      "message": "Comprobando..."
+   },
+   "community": {
+      "description": "Comunidad",
+      "message": "Comunidad"
+   },
+   "customControls": {
+      "description": "Controles personalizados",
+      "message": "Controles personalizados"
+   },
+   "customControlsDescription": {
+      "description": "Habilitar los controles personalizados",
+      "message": "Habilitar los controles personalizados"
+   },
+   "customTheme": {
+      "description": "Tema personalizado",
+      "message": "Tema personalizado"
+   },
+   "customThemeDescription": {
+      "description": "Habilitar el tema personalizado",
+      "message": "Habilitar el tema personalizado"
+   },
+   "extDescription": {
+      "description": "Descripción de la extensión",
+      "message": "Acelera automáticamente los anuncios 16 veces en los videos. 100% gratis. Salta automáticamente los anuncios. Oculta el banner de anuncios. Hace clic automáticamente en el botón de saltar anuncios."
+   },
+   "extName": {
+      "description": "Nombre de la extensión",
+      "message": "Ad Speedup - Salta los anuncios de video 16 veces más rápido"
+   },
+   "feedback": {
+      "description": "Comentarios",
+      "message": "Comentarios"
+   },
+   "general": {
+      "description": "Configuraciones generales",
+      "message": "General"
+   },
+   "getTimestamps": {
+      "description": "Obtener marcas de tiempo",
+      "message": "Obtener marcas de tiempo"
+   },
+   "hideAds": {
+      "description": "Ocultar anuncios",
+      "message": "Ocultar anuncios"
+   },
+   "hideAdsDescription": {
+      "description": "Ocultar anuncios en la página de inicio y en la página de visualización de videos",
+      "message": "Ocultar anuncios en la página de inicio y en la página de visualización de videos"
+   },
+   "hideComments": {
+      "description": "Ocultar comentarios",
+      "message": "Ocultar comentarios"
+   },
+   "hideCommentsDescription": {
+      "description": "Ocultar comentarios en la página de visualización de videos",
+      "message": "Ocultar comentarios en la página de visualización de videos"
+   },
+   "hideLiveChats": {
+      "description": "Ocultar chat en vivo",
+      "message": "Ocultar chat en vivo"
+   },
+   "hideLiveChatsDescription": {
+      "description": "Ocultar chat en vivo en la página de visualización de videos",
+      "message": "Ocultar chat en vivo en la página de visualización de videos"
+   },
+   "hideRelatedVideos": {
+      "description": "Ocultar vídeos relacionados",
+      "message": "Ocultar vídeos relacionados"
+   },
+   "hideRelatedVideosDescription": {
+      "description": "Ocultar vídeos relacionados en la página de visualización de videos",
+      "message": "Ocultar vídeos relacionados en la página de visualización de videos"
+   },
+   "hideShorts": {
+      "description": "Ocultar vídeos cortos",
+      "message": "Ocultar vídeos cortos"
+   },
+   "hideShortsDescription": {
+      "description": "Ocultar vídeos cortos en la página de inicio y en la página de visualización de videos",
+      "message": "Ocultar vídeos cortos en la página de inicio y en la página de visualización de videos"
+   },
+   "loading": {
+      "description": "Cargando...",
+      "message": "Cargando..."
+   },
+   "miniPlayerOnScroll": {
+      "description": "Mini reproductor al desplazar",
+      "message": "Mini reproductor al desplazar"
+   },
+   "miniPlayerOnScrollDescription": {
+      "description": "Mostrar el mini reproductor al desplazar",
+      "message": "Mostrar el mini reproductor al desplazar"
+   },
+   "miniPlayerPosition": {
+      "description": "Posición del mini reproductor",
+      "message": "Posición del mini reproductor"
+   },
+   "miniPlayerPositionDescription": {
+      "description": "Posición del mini reproductor",
+      "message": "Posición del mini reproductor"
+   },
+   "miniPlayerSize": {
+      "description": "Tamaño del mini reproductor",
+      "message": "Tamaño del mini reproductor"
+   },
+   "miniPlayerSizeDescription": {
+      "description": "Tamaño del mini reproductor",
+      "message": "Tamaño del mini reproductor"
+   },
+   "pauseChannelTrailer": {
+      "description": "Pausar tráiler del canal",
+      "message": "Pausar tráiler del canal"
+   },
+   "pauseChannelTrailerDescription": {
+      "description": "Pausar automáticamente el tráiler del canal",
+      "message": "Pausar automáticamente el tráiler del canal"
+   },
+   "pauseOnTabSwitch": {
+      "description": "Pausar al cambiar de pestaña",
+      "message": "Pausar al cambiar de pestaña"
+   },
+   "pauseOnTabSwitchDescription": {
+      "description": "Pausar el video al cambiar de pestaña",
+      "message": "Pausar el video al cambiar de pestaña"
+   },
+   "player": {
+      "description": "Configuraciones del reproductor de vídeo",
+      "message": "Reproductor"
+   },
+   "scrollToTopButton": {
+      "description": "Botón de desplazamiento superior",
+      "message": "Botón de desplazamiento superior"
+   },
+   "scrollToTopButtonDescription": {
+      "description": "Mostrar el botón de desplazamiento superior",
+      "message": "Mostrar el botón de desplazamiento superior"
+   },
+   "searchInNewTab": {
+      "description": "Buscar en nueva pestaña",
+      "message": "Buscar en nueva pestaña"
+   },
+   "searchInNewTabDescription": {
+      "description": "Abrir la página de búsqueda en una nueva pestaña",
+      "message": "Abrir la página de búsqueda en una nueva pestaña"
+   },
+   "signInToSummarize": {
+      "description": "Inicia sesión para resumir",
+      "message": "Inicia sesión para resumir"
+   },
+   "summarizeVideo": {
+      "description": "Resumir video",
+      "message": "Resumir video"
+   },
+   "viewFillTitlesDescription": {
+      "description": "Ver títulos completos en lugar de truncados",
+      "message": "Ver títulos completos en lugar de truncados"
+   },
+   "viewFullTitles": {
+      "description": "Ver títulos completos",
+      "message": "Ver títulos completos"
+   }
+}

@@ -1,0 +1,6 @@
+2024/06/16-18:22:04.824 77e Creating DB /home/sus/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb since it was missing.
+2024/06/16-18:22:04.841 77e Reusing MANIFEST /home/sus/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/16-18:22:22.234 76d Level-0 table #5: started
+2024/06/16-18:22:22.240 76d Level-0 table #5: 9973 bytes OK
+2024/06/16-18:22:22.247 76d Delete type=0 #3
+2024/06/16-18:22:22.247 76d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

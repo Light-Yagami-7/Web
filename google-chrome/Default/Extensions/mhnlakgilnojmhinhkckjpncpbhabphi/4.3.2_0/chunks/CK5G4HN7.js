@@ -1,0 +1,1 @@
+import{a as t}from"./RSA2RIWU.js";import{c as s,xa as o}from"./LYR5HDVD.js";import{f as h}from"./PQ35KENF.js";var r=h(s());var i=e=>{let{customTheme:m}=t({shadowRootElement:e.shadowRootElement});return r.default.createElement(o,{theme:m,...e})},P=i;export{P as a};

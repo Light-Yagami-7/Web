@@ -1,0 +1,1 @@
+import{eb as a}from"./IKEUCMUK.js";import{O as u,h as t}from"./LYR5HDVD.js";import{c as r}from"./PQ35KENF.js";var v=r(e=>{"use strict";"use client";var i=t();Object.defineProperty(e,"__esModule",{value:!0});e.default=void 0;var d=i(a()),l=u(),f=e.default=(0,d.default)((0,l.jsx)("path",{d:"M16 8v8H8V8zm2-2H6v12h12z"}),"StopOutlined")});export{v as a};

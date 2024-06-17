@@ -1,0 +1,1 @@
+var _="MAXAI_ARKOSE_TOKEN_GENERATOR_POST_MESSAGE_ID";export{_ as a};

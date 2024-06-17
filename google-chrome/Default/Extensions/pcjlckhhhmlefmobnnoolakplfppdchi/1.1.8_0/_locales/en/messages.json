@@ -1,0 +1,202 @@
+{
+   "adsSkipped": {
+      "description": "Ads Skipped",
+      "message": "Ads Skipped"
+   },
+   "aiFeatures": {
+      "description": "AI Features",
+      "message": "AI Features"
+   },
+   "appearance": {
+      "description": "Appearance Settings",
+      "message": "Appearance"
+   },
+   "askAway": {
+      "description": "Ask Away",
+      "message": "Ask Away"
+   },
+   "autoTheatreMode": {
+      "description": "Auto Theater Mode",
+      "message": "Auto Theater Mode"
+   },
+   "autoTheatreModeDescription": {
+      "description": "Automatically enable theater mode",
+      "message": "Automatically enable theater mode"
+   },
+   "channelDefaultTab": {
+      "description": "Channel Default Tab",
+      "message": "Channel Default Tab"
+   },
+   "channelDefaultTabDescription": {
+      "description": "Set default tab for channel page",
+      "message": "Set default tab for channel page"
+   },
+   "chatWithVideo": {
+      "description": "Chat with Video",
+      "message": "Chat with Video"
+   },
+   "checking": {
+      "description": "Checking...",
+      "message": "Checking..."
+   },
+   "community": {
+      "description": "Community",
+      "message": "Join Community"
+   },
+   "customControls": {
+      "description": "Custom Controls",
+      "message": "Custom Controls"
+   },
+   "customControlsDescription": {
+      "description": "Customize video player controls",
+      "message": "Customize video player controls"
+   },
+   "customTheme": {
+      "description": "Custom Theme",
+      "message": "Custom Theme"
+   },
+   "customThemeDescription": {
+      "description": "Customize YouTube theme",
+      "message": "Customize YouTube theme"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Automatically speed-up ads 16X on videos. 100% Free. Skip ads automatically. Hide ad banner. Clicks Skip add button automatically."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Ad Speedup - Skip Video Ads 16X Faster"
+   },
+   "feedback": {
+      "description": "Feedback",
+      "message": "Feedback"
+   },
+   "general": {
+      "description": "General Settings",
+      "message": "General"
+   },
+   "getTimestamps": {
+      "description": "Get Timestamps",
+      "message": "Get Timestamps"
+   },
+   "hideAds": {
+      "description": "Hide Ads",
+      "message": "Hide Ads"
+   },
+   "hideAdsDescription": {
+      "description": "Hide ads banners",
+      "message": "Hide ads banners"
+   },
+   "hideComments": {
+      "description": "Hide Comments",
+      "message": "Hide Comments"
+   },
+   "hideCommentsDescription": {
+      "description": "Hide comments section",
+      "message": "Hide comments section"
+   },
+   "hideLiveChats": {
+      "description": "Hide Live Chat",
+      "message": "Hide Live Chat"
+   },
+   "hideLiveChatsDescription": {
+      "description": "Hide live chat section",
+      "message": "Hide live chat section"
+   },
+   "hideRelatedVideos": {
+      "description": "Hide Related Videos",
+      "message": "Hide Related Videos"
+   },
+   "hideRelatedVideosDescription": {
+      "description": "Hide related videos section",
+      "message": "Hide related videos section"
+   },
+   "hideShorts": {
+      "description": "Hide Shorts",
+      "message": "Hide Shorts"
+   },
+   "hideShortsDescription": {
+      "description": "Hide shorts from home page",
+      "message": "Hide shorts from home page"
+   },
+   "loading": {
+      "description": "Loading...",
+      "message": "Loading..."
+   },
+   "miniPlayerOnScroll": {
+      "description": "Mini Player on Scroll",
+      "message": "Mini Player on Scroll"
+   },
+   "miniPlayerOnScrollDescription": {
+      "description": "Show mini player on scroll",
+      "message": "Show mini player on scroll"
+   },
+   "miniPlayerPosition": {
+      "description": "Mini Player Position",
+      "message": "Mini Player Position"
+   },
+   "miniPlayerPositionDescription": {
+      "description": "Set mini player position",
+      "message": "Set mini player position"
+   },
+   "miniPlayerSize": {
+      "description": "Mini Player Size",
+      "message": "Mini Player Size"
+   },
+   "miniPlayerSizeDescription": {
+      "description": "Set mini player size",
+      "message": "Set mini player size"
+   },
+   "pauseChannelTrailer": {
+      "description": "Pause Channel Trailer",
+      "message": "Pause Channel Trailer"
+   },
+   "pauseChannelTrailerDescription": {
+      "description": "Pause channel trailer automatically",
+      "message": "Pause channel trailer automatically"
+   },
+   "pauseOnTabSwitch": {
+      "description": "Pause on Tab Switch",
+      "message": "Pause on Tab Switch"
+   },
+   "pauseOnTabSwitchDescription": {
+      "description": "Pause video when switching tabs",
+      "message": "Pause video when switching tabs"
+   },
+   "player": {
+      "description": "Video Player Settings",
+      "message": "Player"
+   },
+   "scrollToTopButton": {
+      "description": "Scroll to Top Button",
+      "message": "Scroll to Top Button"
+   },
+   "scrollToTopButtonDescription": {
+      "description": "Show scroll to top button",
+      "message": "Show scroll to top button"
+   },
+   "searchInNewTab": {
+      "description": "Search in New Tab",
+      "message": "Search in New Tab"
+   },
+   "searchInNewTabDescription": {
+      "description": "Open search results in new tab",
+      "message": "Open search results in new tab"
+   },
+   "signInToSummarize": {
+      "description": "Sign in to summarize video",
+      "message": "Sign in to summarize"
+   },
+   "summarizeVideo": {
+      "description": "Summarize Video",
+      "message": "Summarize Video"
+   },
+   "viewFullTitles": {
+      "description": "View Full Titles",
+      "message": "View Full Titles"
+   },
+   "viewFullTitlesDescription": {
+      "description": "View full titles of videos",
+      "message": "View full titles of videos"
+   }
+}

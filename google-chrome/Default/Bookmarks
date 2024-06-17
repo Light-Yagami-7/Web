@@ -1,0 +1,160 @@
+{
+   "checksum": "892858d4d44258e12475c82715b31796",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338723854650219",
+            "date_last_used": "0",
+            "guid": "8f32e8fe-917b-4829-9403-0d914e171078",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Full Stack Developer Roadmap",
+            "type": "url",
+            "url": "https://roadmap.sh/full-stack"
+         }, {
+            "date_added": "13347275566923753",
+            "date_last_used": "0",
+            "guid": "13f80335-7f68-40a0-bec7-a92e4628d2d5",
+            "id": "13",
+            "name": "(154) so long nerds - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13347277651299438",
+            "date_last_used": "13350995818416380",
+            "guid": "683734fc-2994-42b9-afaf-f608bee5a846",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Livecounts.nl - Instagram Follower Count",
+            "type": "url",
+            "url": "https://livecounts.nl/instagram-realtime/?u=mrbeast&t=0&o=0"
+         }, {
+            "date_added": "13355994705638773",
+            "date_last_used": "13363089051095272",
+            "guid": "21cb2a54-4c90-4114-8cc9-9a70e02e3720",
+            "id": "15",
+            "name": "http://fkrt.it/5pJgzbuuuN",
+            "type": "url",
+            "url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdxalBpTVR1bWhhb01sN1pxTEI0Z3dQM1daUXxBQ3Jtc0tucGtlX24xa2dJUWYzX2d6MHN4UFhHVmQ5WXFRSGlZSWZwd1RMYl9MUEdEZF9TTVRIRjRJN251VUdzUU4tclY5c3hOVUxJN1d1S2FzcHI3cHRjNWhuSW55U0ZWNEhVWExieVJxOWMtaHBmYnVGUVRqNA&q=http%3A%2F%2Ffkrt.it%2F5pJgzbuuuN&v=aXYoRY5qOHE"
+         }, {
+            "date_added": "13362310057277648",
+            "date_last_used": "0",
+            "guid": "e45c2304-fa1a-4ace-99c5-e30e1e82a36b",
+            "id": "16",
+            "name": "r/Genshin_Impact - The Complete Speculative Map of Teyvat!",
+            "type": "url",
+            "url": "https://i.redd.it/1cdy9wu6krl81.jpg"
+         } ],
+         "date_added": "13362909442173349",
+         "date_last_used": "0",
+         "date_modified": "13362310057277648",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13344422377617909",
+            "date_last_used": "0",
+            "guid": "e3f3837e-1ac4-4170-8d5a-c764b56738af",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YtMp3: YouTube to MP3 Converter",
+            "type": "url",
+            "url": "https://ytmp3.nu/FcJ5/"
+         }, {
+            "date_added": "13347391949777017",
+            "date_last_used": "0",
+            "guid": "994a1e21-8d8b-488c-ba4d-4b6fb8d7a1c0",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Rock Paper Scissors Full Screen",
+            "type": "url",
+            "url": "https://www.online-stopwatch.com/chance-games/rock-paper-scissors/full-screen/"
+         }, {
+            "date_added": "13348304930555620",
+            "date_last_used": "0",
+            "guid": "e3287a99-9e0a-41a5-a14e-a48b58f87165",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FitGirl Repacks - The ONLY official site for FitGirl Repacks. Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites, which are using my name.",
+            "type": "url",
+            "url": "https://fitgirl-repacks.site/"
+         }, {
+            "date_added": "13355368316560327",
+            "date_last_used": "0",
+            "guid": "d90a6434-b4c0-406c-85ce-c938ab9e521e",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The #1 Open Source Website Builder | Odoo",
+            "type": "url",
+            "url": "https://www.odoo.com/app/website?utm_campaign=DilliKaLadka-website01&utm_source=YouTube-description&utm_medium=influ-mkt"
+         }, {
+            "date_added": "13360563944712213",
+            "date_last_used": "0",
+            "guid": "2eb2fd8d-6b37-4bb8-88dd-4d3ccc43faee",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Store · Products · Shopify",
+            "type": "url",
+            "url": "https://admin.shopify.com/store/168144-b2/products?selectedView=all"
+         }, {
+            "date_added": "13360700950732997",
+            "date_last_used": "0",
+            "guid": "f8ae2cc6-4939-43eb-94fd-b430c45154df",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Remove Background from Image for Free – remove.bg",
+            "type": "url",
+            "url": "https://www.remove.bg/"
+         }, {
+            "date_added": "13360771060111041",
+            "date_last_used": "0",
+            "guid": "55960b34-60d1-442f-ab76-ebd171e65225",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Subtitles for: Suzume 2022",
+            "type": "url",
+            "url": "https://indexsubtitle.cc/subtitles/suzume/1652153#download"
+         } ],
+         "date_added": "13362909442173351",
+         "date_last_used": "0",
+         "date_modified": "13360771060111041",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13362909442173352",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCa7Sm9wQGwYAEa7Sm9wQGwYAKRpTntwQGwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgICM1xAbBgARgICM1xAbBgApReSb3BAbBgAwgIGyvI3ihgMSACoYTks0YWx5UmN5YlJZWVdubDUyM1hSZz09SAMS6wEIBhLmAQocUmtsWUh0aVVNaWpBanpvajFPK0JpTDQzdllvPRJmWjpBRHF0QVp4bHdNSXJBdDREcmpkVEJaUXJZYzJaL2Z6YTFkeUdtT3NCczhaUTNuM21WT0ZtZWJKRTlhK0JJR0w2a2oxNFFXbjkyRkRhK3BLVVJ0MlJIK05UUlVqMWVOWTZ3QT09GAAgACgAMKXplpy5mYMDONHH3+7HMUDRx9/uxzFKHHhGdDV3KzEvM2Y2ZjJOT0FLZVRGL1ZEelg2MD1aHiIccEV4NmxwU3NtNkFjYzQyMG01T09JN2V5a3ZvPWWSxYBgEusBCA0S5gEKHFdDbGtyaHFDUFBHMm1ta2hpODdkTFpPcDNLVT0SZlo6QURxdEFaeGx3TUlyQXQ0RHJqZFRCWlFyWWMyWmhTQWozNzR3VE55Vm1zcUlRdjV1OStBU2QwajZYWWZYK3pYVFNUNnU0Zit4ZkhSRVVydy9GaWU1b1JneFY5b0dlRVRSWlE9PRgAIAAoADD1vc6WpZuFAzjNjqC3xzFAzY6gt8cxShxpVzFDVkkxOWtRTEdwYnh3WjdtVlF0bHZZUHc9Wh4iHHhDR0QrcEhlQVZqa2ZzOXhaNFJTZlY0dlg2ND1lOPk5MxLsAQgHEucBChxSc24vQyt3WTlhZFdBUjNPOVdNQmlFRyt1S1U9EmZaOkFEcXRBWnhsd01JckF0NERyamRUQlpRclljMlppcTF2cGxGOTJKTFR2aTZCY3luQk0yakIwcEk0SnVYS0dGUVJWd1pCU1ZkTjRkSUpSTzVRWFNyYnI3THp1ZEJZZDg1Y0tRPT0YACAAKAAwyof2i8y0gwM4hL6LossxQIS+i6LLMUocVWdoR1ZHZ3RwaHRUeC83OGVnVy9LRW5QYVQwPVofIh24VnI2UGxmcnBMNHdvSk5nWlIvc3dWL3Q4cDhBPWUCVqdMEusBCAUS5gEKHHU0VE5NNS96Qks4SUZvQUY0dVVWNktONmJNTT0SZlo6QURxdEFaeGx3TUlyQXQ0RHJqZFRCWlFyWWMyWlVTaFdqWGtCdEh4d0ZQUHJiT3V6dHlSR0VJMVREeERzbkkvemFHa01WeTdKaFcxQWg1NmtvMkpUaGxBSGR4enFNNU5ON0E9PRgAIAAoADDZ+oqhkcaCAziSod/mvDFAkqHf5rwxShxjU1NveTYzWmozc3hEZUwycURGL1VXRzJnVTg9Wh4iHEJ6aHc3N0tEVk1NZE1Gd3RRd3ljL0lFTG1KMD1lXYDG4hLsAQgJEucBChw1blIxTG9kUm9SWkN3L25CUTErNksrT1FBRTQ9EmZaOkFEcXRBWnhsd01JckF0NERyamRUQlpRclljMlpSVzF6cERkU0NPMEd6QWpGN3lkT1N6dUlGV28zTkZCWXYxSnlqT1UyRm1nR1hBeUhOZWlYR3I5ZGxEWnRFWi9iTW9iUjFBPT0YACAAKAAwsP/l1tyehgM4iKrS9/gxQIiq0vf4MUocWWpaV3NHakVqRG1hczdIWFVieWo3cytVZlBFPVofIh3uQm1PY1dHVWVuLys4amNVT1A3RmRaelQwVVA4PWXHDkkSEuwBCAsS5wEKHFIrUFJvSE9FQmY3d1RidUFCdXhpTkYyMEhrcz0SZlo6QURxdEFaeGx3TUlyQXQ0RHJqZFRCWlFyWWMyWnkybkxzSVRBOUdEVjRYUlEwWVR1YVNXdFZ5K0l2aE41K3pvTjZQMGZ2VUtZeHBneVA4MklrQm1xYk1CYmFPWkVFRFdJSFE9PRgAIAAoADDQw8Kj6p6GAziP07Pa+TFAj9Oz2vkxShxiTTBBdlVJM3JsVUdxNFlXY2xCOHQxb1pmYVU9Wh8iHftYT0FjS2FaQWVFaktDZlM2ZXlwREtyKzFjbFk9ZaTPSw0S7AEIDxLnAQocbWRGZ1pXSTNaTDBFajBOY2doeUYvQk5KNHJZPRJmWjpBRHF0QVp4bHdNSXJBdDREcmpkVEJaUXJZYzJaY0FqUmhLem00K2l3akhoUFArTXpSSER6L1dja3lkdk44YlY2aXk1K1RoOVVlcTRBcy9TODlIQ2FJVmtzMTBJTVR0ejFvUT09GAAgACgAMNiq8N7Kq4YDOOeN7vTnMUDnje705zFKHEEvZmxTSmd3OUROKzlrd0pib21jU2tCVHl4ND1aHyId3nlkb1FxTVlkcGUwK3pXQ1dtM1Z4aFhqMEVnYz1ld/9MGhLsAQgKEucBChxObHNSZERVbFpQdFFFa1E1WU9UVkk2czk1NzA9EmZaOkFEcXRBWnhsd01JckF0NERyamRUQlpRclljMlpCWm0rbmhaZlVvdmlCTENyaHBKcHJXb1JSRTNjeE1JT0R6dTduUmpyZXhwTWtQOEZIdVBSWUM3VXM4Q29seTNLWld3anBBPT0YACAAKAAwoaOzjeWchgM4zcH8uPkxQM3B/Lj5MUocM0RDYVkwUTZDbkFORlBxMzlha3BZSkpzMnFzPVofIh33L2RMS1MrclNUZmF0VFMrdjN3MFZYdG82VDZnPWVpwsYwEuwBCAgS5wEKHDRjdWRNQlVTZ0JBcllGOHRFTkRXei9SUHl3UT0SZlo6QURxdEFaeGx3TUlyQXQ0RHJqZFRCWlFyWWMyWjcvOHFTcDZRbEF6NUhrNURqTVJKU0pyMkdPSTd0Um80d2R3eFVnUVRaNDdyV2dTZjZjbHNnSEdJNVlwdnFPNitpY1J4YXc9PRgAIAAoADDaj6WslYKFAziQrZbK5TFAkK2WyuUxShxoelY1VVNlSEJvVXdzQ3R2ZmdDMW1JREY0WEU9Wh8iHdxGNk8xZ25hSEMyRDM0dmRzN0VpS1d2ZXVVNm89Za5cnvYSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6ZlBOc3A0S3lqRUlkR2trc1dJUll1L2pKYmMzamFCTEV1WnFQNjl6ek53VHIzb0E1bzZEeFFRL0lKdnJrZ0hYSUcrTEFjVHEvc21GTjFmaUVlbHcwQ0dsVWdVdz09GAAgACgAMJClmcmI3YYDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7AEIDhLnAQocM2JuRTJ2L3pEZVNSSnVKUEVBZzVMZHNvOEhNPRJmWjpBRHF0QVp4bHdNSXJBdDREcmpkVEJaUXJZYzJaeHhMYktubXM1Nk5ZNHFBNWU5Z0VjUXpiQnF5TnlrakZUSmlsMnA1aVVxYUJLaXE4bUNWNlB0aVNoUnY1RHBQNGZ0YmdpZz09GAAgACgAMLLMl+CstIUDOOSqn7jHMUDkqp+4xzFKHGwyYklzeW1vc2JOWHJXY3dmR1ptZWVTSnlZcz1aHyIdvG1LOUU1N0U5eXl5WU0rcTRGeS8xNUJLNG1BND1lSRPFuRLsAQgQEucBChxmRm9JWEhHRUJUMTBJMWVqOGU0T040NGlabjA9EmZaOkFEcXRBWnhsd01JckF0NERyamRUQlpRclljMlpmeDBkTmlJSVJNanViclBPNUVueFdvZDZGZ2laZU5OMHczVkNuakdGSjVyWlpReXQ1Mlpyek4rRnBrVlhRMERmWWdJd1VnPT0YACAAKAAw2Pv5oJnMhgM4vsqguP8xQL7KoLj/MUoccWhvRmdDY1NTUCtIZDBDVHgrQzgxNHBrSktzPVofIh3vNDVEdlRpVXZOWFl6QXdJVFQ2eW1rT1pSSlgwPWUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad0svQm95dXlVZHlqY1RkWldYM0UxYzNJaWxpWnhMaklyT2VVUW80eXpKdk9UYmRrcC9wYXhWQlRBcjdDUUw0YnVpMjZveBgAIAAoADCQpZnJiN2GAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEusBCAwS5gEKHC9xYjkrRmJ0Q3lVcDR6TUM5T1FDUFdSc1dxcz0SZlo6QURxdEFaeGx3TUlyQXQ0RHJqZFRCWlFyWWMyWmpVbDJjakkxUXIyRU5UWmNmQWVYMW5iMmJrdG1YYTJzcVR6cGUvYVl1enJsRVhqVFFaNWlSbTkyNXRHZlJmWTBuRGU2Y0E9PRgAIAAoADCyzJfgrLSFAzi7gr3JpzFAu4K9yacxShwzNFNoemZuSjM4QWY1aDNHZVYrY2cvNXdxaUU9Wh4iHFFsYW9SN2NzdWNJRWFmSEVKR2U2OHplaWJjbz1l+OSVUxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhOaXRnUTlkaGZIcldSRGJTVUxicnNLUzd4Y2hjRGEwWWJ1VlpCNUFDYnlhOGlxcWFSSU9DQU9sRXZyaE43bmQxcGU1SUh3RUU1RDZOUTE5TmkxNGlvZ3U4dlVBPT0YACAAKAAwkKWZyYjdhgM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

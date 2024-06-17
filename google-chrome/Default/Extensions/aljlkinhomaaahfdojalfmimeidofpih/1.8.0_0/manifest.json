@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Hide YouTube Shorts"
+   },
+   "background": {
+      "service_worker": "assets/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/mobile.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon48.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgjN6mdvm+MYPOzHj7WcWZC9UNT7kcKCS632RMo00IP7cuKGgvFodbO2mP0DttkvCSRExCqOYh4iU4uJT2H57Wuz7/0kjxjgHgxZJ9tShYvMJhJmXjEUMsAJ5cDfaqnA9DORDxwMyb5qYbZXAk3oZwT5+TpLJRKebOukirksBH8TJm+rV3c9SV7GGFpBI8IXsBifU1fdkvXnj0CdsYcbJXofUWQ+zvbnKjy7uX5olqNpW6E2T0rC1HPCdyp5osZ+KPDKRMlShqQDk2ua9Uycau0BQ6BOPEduCCXHg45iWY7RyCTaxIyYEN3cUeEso/s6wjcXychbuQUf06oLJfv+uXwIDAQAB",
+   "manifest_version": 3,
+   "name": "Hide YouTube Shorts",
+   "permissions": [ "storage", "scripting", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.0"
+}

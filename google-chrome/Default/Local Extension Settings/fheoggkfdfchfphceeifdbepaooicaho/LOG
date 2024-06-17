@@ -1,0 +1,21 @@
+2024/06/17-12:39:48.820 547 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/fheoggkfdfchfphceeifdbepaooicaho/MANIFEST-000001
+2024/06/17-12:39:48.820 547 Recovering log #4
+2024/06/17-12:39:48.822 547 Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/fheoggkfdfchfphceeifdbepaooicaho/000004.log 
+2024/06/17-14:14:02.455 547 Level-0 table #8: started
+2024/06/17-14:14:02.465 547 Level-0 table #8: 800929 bytes OK
+2024/06/17-14:14:02.473 547 Delete type=0 #4
+2024/06/17-14:18:46.748 54a Compacting 1@1 + 1@2 files
+2024/06/17-14:18:46.768 54a Generated table #9@1: 22 keys, 384650 bytes
+2024/06/17-14:18:46.768 54a Compacted 1@1 + 1@2 files => 384650 bytes
+2024/06/17-14:18:46.775 54a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/17-14:18:46.775 54a Delete type=2 #5
+2024/06/17-14:18:46.775 54a Delete type=2 #8
+2024/06/17-14:42:48.499 547 Level-0 table #11: started
+2024/06/17-14:42:48.509 547 Level-0 table #11: 775667 bytes OK
+2024/06/17-14:42:48.517 547 Delete type=0 #7
+2024/06/17-14:50:08.047 546 Compacting 1@1 + 1@2 files
+2024/06/17-14:50:08.066 546 Generated table #12@1: 22 keys, 387561 bytes
+2024/06/17-14:50:08.067 546 Compacted 1@1 + 1@2 files => 387561 bytes
+2024/06/17-14:50:08.073 546 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/17-14:50:08.073 546 Delete type=2 #11
+2024/06/17-14:50:08.074 546 Delete type=2 #9

@@ -1,0 +1,128 @@
+{
+   "Website": {
+      "message": "Webseite"
+   },
+   "blockChannelsDesc": {
+      "message": "Geben Sie einen Kanalnamen ein, um Inhalte dieses Kanals auf der Startseite, bei den Abonnements, bei den Trends und bei der Suche auszublenden"
+   },
+   "blockInputHelper": {
+      "message": "Groß- und Kleinschreibung beachten"
+   },
+   "blockPageDesc": {
+      "message": "Benutzerdefinierte Blockierungsoptionen"
+   },
+   "blockPageTitle": {
+      "message": "Blockieren"
+   },
+   "buyMeACoffee": {
+      "message": "Kauf Mir Ein Kaffee"
+   },
+   "channelPageDesc": {
+      "message": "Steuern Sie die Ansicht der Registerkarte Shorts und der Shorts-Videos auf den Kanalseiten der Benutzer"
+   },
+   "channelPageTitle": {
+      "message": "Kanalseiten"
+   },
+   "deaktiviert": {
+      "message": "Deaktiviert"
+   },
+   "disabledOne": {
+      "message": "Erweiterung deaktiviert"
+   },
+   "disabledPageDesc": {
+      "message": "Deaktiviert"
+   },
+   "disabledPageTitle": {
+      "message": "Deaktiviert"
+   },
+   "disabledThreeA": {
+      "message": "Du kannst HYS im"
+   },
+   "disabledThreeB": {
+      "message": "Einstellungsmenü"
+   },
+   "disabledTwo": {
+      "message": "Wenn HYS deaktiviert ist, sind auch alle seine Funktionen deaktiviert. Das bedeutet, dass Sie wieder Shorts-Inhalte auf YouTube sehen werden."
+   },
+   "emptyBlocklist": {
+      "message": "Keine blockierten Kanäle"
+   },
+   "enabled": {
+      "message": "Aktiviert"
+   },
+   "extDesc": {
+      "message": "Deaktivieren Sie YouTube Shorts mühelos mit dieser leistungsstarken Browser-Erweiterung"
+   },
+   "feedPageDesc": {
+      "message": "Steuern Sie die Anzeige von Shorts-Videos auf Seiten wie Home, Subscriptions und Trending"
+   },
+   "feedPageTitle": {
+      "message": "Seiten füttern"
+   },
+   "helpAndSupport": {
+      "message": "Hilfe"
+   },
+   "homeFeedLivesDesc": {
+      "message": "Live-Videos auf der Startseite ausblenden"
+   },
+   "homeFeedPremieresDesc": {
+      "message": "Premiere-Videos auf der Startseite ausblenden"
+   },
+   "homeFeedShortsDesc": {
+      "message": "Shorts-Videos auf der Startseite ausblenden"
+   },
+   "homeTabShortsDesc": {
+      "message": "Shorts-Videos im Home-Tab auf Kanalseiten ausblenden"
+   },
+   "leaveAReview": {
+      "message": "Rezension"
+   },
+   "miscPageDesc": {
+      "message": "Verschiedenes Optionen zum Ausblenden von Shorts-Elementen in ganz YouTube"
+   },
+   "miscPageTitle": {
+      "message": "Verschiedenes"
+   },
+   "notificationMenuDesc": {
+      "message": "Benachrichtigungen über Shorts im Benachrichtigungsmenü ausblenden"
+   },
+   "playInRegularModeDesc": {
+      "message": "Kurze Videos auf einer normalen Videoseite abspielen"
+   },
+   "recommendedListDesc": {
+      "message": "Shorts-Videos in der Empfehlungsliste auf Videoüberwachungsseiten ausblenden"
+   },
+   "removeAllBlocks": {
+      "message": "Alle entfernen"
+   },
+   "searchResultsDesc": {
+      "message": "Kurze Videos in den Suchergebnissen ausblenden"
+   },
+   "shortsNavigationButtonDesc": {
+      "message": "Die Schaltfläche Shorts im Navigationsbereich ausblenden"
+   },
+   "shortsTabDesc": {
+      "message": "Die Registerkarte Shorts auf den Kanalseiten ausblenden"
+   },
+   "subFeedLivesDesc": {
+      "message": "Live-Videos auf der Abonnementseite ausblenden"
+   },
+   "subFeedPremieresDesc": {
+      "message": "Premiere-Videos auf der Abonnementseite ausblenden"
+   },
+   "subFeedShortsDesc": {
+      "message": "Shorts-Videos auf der Abonnementseite ausblenden"
+   },
+   "supportOne": {
+      "message": "Stimmt etwas nicht?"
+   },
+   "supportThree": {
+      "message": "Eröffne ein Support-Ticket auf GitHub"
+   },
+   "supportTwo": {
+      "message": "Tritt dem Discord-Supportserver bei"
+   },
+   "trendingFeedShortsDesc": {
+      "message": "Shorts-Videos auf der Trending-Seite ausblenden"
+   }
+}

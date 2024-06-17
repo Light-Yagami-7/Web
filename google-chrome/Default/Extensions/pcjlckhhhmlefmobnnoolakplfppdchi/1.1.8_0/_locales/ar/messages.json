@@ -1,0 +1,202 @@
+{
+   "adsSkipped": {
+      "description": "تم تخطي الإعلانات",
+      "message": "تم تخطي الإعلانات"
+   },
+   "aiFeatures": {
+      "description": "ميزات الذكاء الاصطناعي",
+      "message": "ميزات الذكاء الاصطناعي"
+   },
+   "appearance": {
+      "description": "إعدادات المظهر",
+      "message": "المظهر"
+   },
+   "askAway": {
+      "description": "اسأل",
+      "message": "اسأل"
+   },
+   "autoTheatreMode": {
+      "description": "وضع السينما التلقائي",
+      "message": "وضع السينما التلقائي"
+   },
+   "autoTheatreModeDescription": {
+      "description": "تمكين وضع السينما تلقائيًا عند تشغيل الفيديو.",
+      "message": "تمكين وضع السينما تلقائيًا عند تشغيل الفيديو."
+   },
+   "channelDefaultTab": {
+      "description": "علامة تبويب القناة الافتراضية",
+      "message": "علامة تبويب القناة الافتراضية"
+   },
+   "channelDefaultTabDescription": {
+      "description": "تحديد علامة تبويب القناة الافتراضية (الصفحة الرئيسية، الفيديوهات، قوائم التشغيل، حول، البحث).",
+      "message": "تحديد علامة تبويب القناة الافتراضية (الصفحة الرئيسية، الفيديوهات، قوائم التشغيل، حول، البحث)."
+   },
+   "chatWithVideo": {
+      "description": "الدردشة مع الفيديو",
+      "message": "الدردشة مع الفيديو"
+   },
+   "checking": {
+      "description": "جاري الفحص...",
+      "message": "جاري الفحص..."
+   },
+   "community": {
+      "description": "المجتمع",
+      "message": "المجتمع"
+   },
+   "customControls": {
+      "description": "التحكم المخصص",
+      "message": "التحكم المخصص"
+   },
+   "customControlsDescription": {
+      "description": "تخصيص الأزرار والشريط الزمني.",
+      "message": "تخصيص الأزرار والشريط الزمني."
+   },
+   "customTheme": {
+      "description": "سمة مخصصة",
+      "message": "سمة مخصصة"
+   },
+   "customThemeDescription": {
+      "description": "تخصيص الألوان والخطوط والخلفية.",
+      "message": "تخصيص الألوان والخطوط والخلفية."
+   },
+   "extDescription": {
+      "description": "وصف الامتداد",
+      "message": "تسريع الإعلانات تلقائيًا 16 مرة في مقاطع الفيديو. 100٪ مجاني. تخطي الإعلانات تلقائيًا. إخفاء بانر الإعلانات. النقر على زر تخطي الإعلانات تلقائيًا."
+   },
+   "extName": {
+      "description": "اسم الامتداد",
+      "message": "Ad Speedup - تخطي الإعلانات الفيديو بسرعة 16 مرة"
+   },
+   "feedback": {
+      "description": "تعليقات",
+      "message": "تعليقات"
+   },
+   "general": {
+      "description": "إعدادات عامة",
+      "message": "عام"
+   },
+   "getTimestamps": {
+      "description": "الحصول على الطوابع الزمنية",
+      "message": "الحصول على الطوابع الزمنية"
+   },
+   "hideAds": {
+      "description": "إخفاء الإعلانات",
+      "message": "إخفاء الإعلانات"
+   },
+   "hideAdsDescription": {
+      "description": "إخفاء الإعلانات في الصفحة الرئيسية والصفحة الرئيسية للقناة.",
+      "message": "إخفاء الإعلانات في الصفحة الرئيسية والصفحة الرئيسية للقناة."
+   },
+   "hideComments": {
+      "description": "إخفاء التعليقات",
+      "message": "إخفاء التعليقات"
+   },
+   "hideCommentsDescription": {
+      "description": "إخفاء التعليقات في الصفحة.",
+      "message": "إخفاء التعليقات في الصفحة."
+   },
+   "hideLiveChats": {
+      "description": "إخفاء الدردشة المباشرة",
+      "message": "إخفاء الدردشة المباشرة"
+   },
+   "hideLiveChatsDescription": {
+      "description": "إخفاء الدردشة المباشرة في الصفحة.",
+      "message": "إخفاء الدردشة المباشرة في الصفحة."
+   },
+   "hideRelatedVideos": {
+      "description": "إخفاء الفيديوهات ذات الصلة",
+      "message": "إخفاء الفيديوهات ذات الصلة"
+   },
+   "hideRelatedVideosDescription": {
+      "description": "إخفاء الفيديوهات ذات الصلة في الصفحة.",
+      "message": "إخفاء الفيديوهات ذات الصلة في الصفحة."
+   },
+   "hideShorts": {
+      "description": "إخفاء الفيديوهات القصيرة",
+      "message": "إخفاء الفيديوهات القصيرة"
+   },
+   "hideShortsDescription": {
+      "description": "إخفاء الفيديوهات القصيرة في الصفحة الرئيسية والصفحة الرئيسية للقناة.",
+      "message": "إخفاء الفيديوهات القصيرة في الصفحة الرئيسية والصفحة الرئيسية للقناة."
+   },
+   "loading": {
+      "description": "جاري التحميل...",
+      "message": "جاري التحميل..."
+   },
+   "miniPlayerOnScroll": {
+      "description": "مشغل صغير عند التمرير",
+      "message": "مشغل صغير عند التمرير"
+   },
+   "miniPlayerOnScrollDescription": {
+      "description": "تمكين مشغل صغير عند التمرير لأسفل.",
+      "message": "تمكين مشغل صغير عند التمرير لأسفل."
+   },
+   "miniPlayerPosition": {
+      "description": "موقع المشغل الصغير",
+      "message": "موقع المشغل الصغير"
+   },
+   "miniPlayerPositionDescription": {
+      "description": "تحديد موقع المشغل الصغير.",
+      "message": "تحديد موقع المشغل الصغير."
+   },
+   "miniPlayerSize": {
+      "description": "حجم المشغل الصغير",
+      "message": "حجم المشغل الصغير"
+   },
+   "miniPlayerSizeDescription": {
+      "description": "تحديد حجم المشغل الصغير.",
+      "message": "تحديد حجم المشغل الصغير."
+   },
+   "pauseChannelTrailer": {
+      "description": "إيقاف تشغيل إعلان القناة",
+      "message": "إيقاف تشغيل إعلان القناة"
+   },
+   "pauseChannelTrailerDescription": {
+      "description": "إيقاف تشغيل إعلان القناة تلقائيًا.",
+      "message": "إيقاف تشغيل إعلان القناة تلقائيًا."
+   },
+   "pauseOnTabSwitch": {
+      "description": "إيقاف مؤقت عند تغيير التبويب",
+      "message": "إيقاف مؤقت عند تغيير التبويب"
+   },
+   "pauseOnTabSwitchDescription": {
+      "description": "إيقاف مؤقت الفيديو تلقائيًا عند تغيير التبويب.",
+      "message": "إيقاف مؤقت الفيديو تلقائيًا عند تغيير التبويب."
+   },
+   "player": {
+      "description": "إعدادات مشغل الفيديو",
+      "message": "المشغل"
+   },
+   "scrollToTopButton": {
+      "description": "التمرير إلى أعلى الزر",
+      "message": "التمرير إلى أعلى الزر"
+   },
+   "scrollToTopButtonDescription": {
+      "description": "إظهار زر التمرير إلى أعلى في الصفحة.",
+      "message": "إظهار زر التمرير إلى أعلى في الصفحة."
+   },
+   "searchInNewTab": {
+      "description": "البحث في علامة تبويب جديدة",
+      "message": "البحث في علامة تبويب جديدة"
+   },
+   "searchInNewTabDescription": {
+      "description": "فتح نتائج البحث في علامة تبويب جديدة بدلاً من نافذة جديدة.",
+      "message": "فتح نتائج البحث في علامة تبويب جديدة بدلاً من نافذة جديدة."
+   },
+   "signInToSummarize": {
+      "description": "قم بتسجيل الدخول للملخص",
+      "message": "قم بتسجيل الدخول للملخص"
+   },
+   "summarizeVideo": {
+      "description": "تلخيص الفيديو",
+      "message": "تلخيص الفيديو"
+   },
+   "viewFullTitles": {
+      "description": "عرض العناوين الكاملة",
+      "message": "عرض العناوين الكاملة"
+   },
+   "viewFullTitlesDescription": {
+      "description": "عرض العناوين الكاملة بدلاً من العناوين المقتصرة في الصفحة الرئيسية والصفحة الرئيسية للقناة.",
+      "message": "عرض العناوين الكاملة بدلاً من العناوين المقتصرة في الصفحة الرئيسية والصفحة الرئيسية للقناة."
+   }
+}

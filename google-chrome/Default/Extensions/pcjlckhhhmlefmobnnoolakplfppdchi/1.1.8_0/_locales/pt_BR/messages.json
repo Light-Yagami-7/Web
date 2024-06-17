@@ -1,0 +1,202 @@
+{
+   "adsSkipped": {
+      "description": "Anúncios pulados",
+      "message": "Anúncios pulados"
+   },
+   "aiFeatures": {
+      "description": "Recursos de IA",
+      "message": "Recursos de IA"
+   },
+   "appearance": {
+      "description": "Configurações de Aparência",
+      "message": "Aparência"
+   },
+   "askAway": {
+      "description": "Perguntar",
+      "message": "Perguntar"
+   },
+   "autoTheatreMode": {
+      "description": "Modo Teatro Automático",
+      "message": "Modo Teatro Automático"
+   },
+   "autoTheatreModeDescription": {
+      "description": "Ativar modo teatro automaticamente",
+      "message": "Ativar modo teatro automaticamente"
+   },
+   "channelDefaultTab": {
+      "description": "Guia Padrão do Canal",
+      "message": "Guia Padrão do Canal"
+   },
+   "channelDefaultTabDescription": {
+      "description": "Guia padrão ao abrir um canal",
+      "message": "Guia padrão ao abrir um canal"
+   },
+   "chatWithVideo": {
+      "description": "Conversar com o vídeo",
+      "message": "Conversar com o vídeo"
+   },
+   "checking": {
+      "description": "Verificando...",
+      "message": "Verificando..."
+   },
+   "community": {
+      "description": "Comunidade",
+      "message": "Comunidade"
+   },
+   "customControls": {
+      "description": "Controles Personalizados",
+      "message": "Controles Personalizados"
+   },
+   "customControlsDescription": {
+      "description": "Ativar controles personalizados",
+      "message": "Ativar controles personalizados"
+   },
+   "customTheme": {
+      "description": "Tema Personalizado",
+      "message": "Tema Personalizado"
+   },
+   "customThemeDescription": {
+      "description": "Ativar tema personalizado",
+      "message": "Ativar tema personalizado"
+   },
+   "extDescription": {
+      "description": "Descrição da extensão",
+      "message": "Acelere automaticamente os anúncios 16 vezes em vídeos. 100% grátis. Pula automaticamente os anúncios. Oculta o banner de anúncios. Clica automaticamente no botão de pular anúncios."
+   },
+   "extName": {
+      "description": "Nome da extensão",
+      "message": "Ad Speedup - Pule os anúncios em vídeos 16 vezes mais rápido"
+   },
+   "feedback": {
+      "description": "Feedback",
+      "message": "Feedback"
+   },
+   "general": {
+      "description": "Configurações Gerais",
+      "message": "Geral"
+   },
+   "getTimestamps": {
+      "description": "Obter marcas de tempo",
+      "message": "Obter marcas de tempo"
+   },
+   "hideAds": {
+      "description": "Ocultar Anúncios",
+      "message": "Ocultar Anúncios"
+   },
+   "hideAdsDescription": {
+      "description": "Ocultar anúncios em vídeos",
+      "message": "Ocultar anúncios em vídeos"
+   },
+   "hideComments": {
+      "description": "Ocultar Comentários",
+      "message": "Ocultar Comentários"
+   },
+   "hideCommentsDescription": {
+      "description": "Ocultar comentários em vídeos",
+      "message": "Ocultar comentários em vídeos"
+   },
+   "hideLiveChats": {
+      "description": "Ocultar Chat ao Vivo",
+      "message": "Ocultar Chat ao Vivo"
+   },
+   "hideLiveChatsDescription": {
+      "description": "Ocultar chat ao vivo",
+      "message": "Ocultar chat ao vivo"
+   },
+   "hideRelatedVideos": {
+      "description": "Ocultar Vídeos Relacionados",
+      "message": "Ocultar Vídeos Relacionados"
+   },
+   "hideRelatedVideosDescription": {
+      "description": "Ocultar vídeos relacionados",
+      "message": "Ocultar vídeos relacionados"
+   },
+   "hideShorts": {
+      "description": "Ocultar Curtas",
+      "message": "Ocultar Curtas"
+   },
+   "hideShortsDescription": {
+      "description": "Ocultar vídeos de curta duração",
+      "message": "Ocultar vídeos de curta duração"
+   },
+   "loading": {
+      "description": "Carregando...",
+      "message": "Carregando..."
+   },
+   "miniPlayerOnScroll": {
+      "description": "Mini Player ao Rolagem",
+      "message": "Mini Player ao Rolagem"
+   },
+   "miniPlayerOnScrollDescription": {
+      "description": "Ativar mini player ao rolar",
+      "message": "Ativar mini player ao rolar"
+   },
+   "miniPlayerPosition": {
+      "description": "Posição do Mini Player",
+      "message": "Posição do Mini Player"
+   },
+   "miniPlayerPositionDescription": {
+      "description": "Posição do mini player",
+      "message": "Posição do mini player"
+   },
+   "miniPlayerSize": {
+      "description": "Tamanho do Mini Player",
+      "message": "Tamanho do Mini Player"
+   },
+   "miniPlayerSizeDescription": {
+      "description": "Tamanho do mini player",
+      "message": "Tamanho do mini player"
+   },
+   "pauseChannelTrailer": {
+      "description": "Pausar Trailer do Canal",
+      "message": "Pausar Trailer do Canal"
+   },
+   "pauseChannelTrailerDescription": {
+      "description": "Pausar o trailer do canal automaticamente",
+      "message": "Pausar o trailer do canal automaticamente"
+   },
+   "pauseOnTabSwitch": {
+      "description": "Pausar na Mudança de Aba",
+      "message": "Pausar na Mudança de Aba"
+   },
+   "pauseOnTabSwitchDescription": {
+      "description": "Pausar o vídeo ao mudar de aba",
+      "message": "Pausar o vídeo ao mudar de aba"
+   },
+   "player": {
+      "description": "Configurações do Reprodutor de Vídeo",
+      "message": "Reprodutor"
+   },
+   "scrollToTopButton": {
+      "description": "Botão de Rolagem para o Topo",
+      "message": "Botão de Rolagem para o Topo"
+   },
+   "scrollToTopButtonDescription": {
+      "description": "Mostrar botão de rolagem para o topo",
+      "message": "Mostrar botão de rolagem para o topo"
+   },
+   "searchInNewTab": {
+      "description": "Pesquisar em Nova Aba",
+      "message": "Pesquisar em Nova Aba"
+   },
+   "searchInNewTabDescription": {
+      "description": "Abrir resultados de pesquisa em uma nova aba",
+      "message": "Abrir resultados de pesquisa em uma nova aba"
+   },
+   "signInToSummarize": {
+      "description": "Faça login para resumir",
+      "message": "Faça login para resumir"
+   },
+   "summarizeVideo": {
+      "description": "Resumir vídeo",
+      "message": "Resumir vídeo"
+   },
+   "viewFullTitles": {
+      "description": "Ver Títulos Completos",
+      "message": "Ver Títulos Completos"
+   },
+   "viewFullTitlesDescription": {
+      "description": "Mostrar títulos completos em vez de truncados",
+      "message": "Mostrar títulos completos em vez de truncados"
+   }
+}
