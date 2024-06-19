@@ -6,10 +6,10 @@
 }
 
 window#waybar {
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     border-radius: 13px;
     transition-property: background-color;
-    transition-duration: .5s;
+    transition-duration: 0.5s;
 }
 
 button {
@@ -20,15 +20,10 @@ button {
     border-radius: 0;
 }
 
-/* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
-button:hover {
-    background: inherit;
+/* Style for the active (focused) workspace button */
+#workspaces button.active {
+    background-color: rgba(0, 0, 0, 0.2);  /* Indicate the active workspace */
     box-shadow: inset 0 -3px #ffffff;
-}
-
-/* you can set a style on hover for any module like this */
-#pulseaudio:hover {
-    background-color: @surface2;
 }
 
 #workspaces button {
@@ -37,16 +32,12 @@ button:hover {
     color: #ffffff;
 }
 
-
+/* Style for hovered workspace buttons */
 #workspaces button:hover {
     background: rgba(0, 0, 0, 0.2);
 }
 
-#workspaces button.focused {
-    background-color: @lavender;
-    box-shadow: inset 0 -3px #ffffff;
-}
-
+/* Style for urgent workspace buttons */
 #workspaces button.urgent {
     background-color: #eb4d4b;
 }
@@ -62,8 +53,7 @@ button:hover {
 #memory,
 #temperature,
 #network,
-#pulseaudio
-{
+#pulseaudio {
     padding: 0 10px;
 }
 
@@ -91,10 +81,11 @@ button:hover {
     color: @rosewater;
 }
 
-.modules-right,.modules-left,.modules-center {
+.modules-right, .modules-left, .modules-center {
     background-color: @base;
     border-radius: 15px;
 }
+
 .modules-right {
     padding: 0 10px;
 }
@@ -106,6 +97,7 @@ button:hover {
 .modules-center {
     padding: 0 10px;
 }
+
 #battery.charging, #battery.plugged {
     color: @sapphire;
 }
