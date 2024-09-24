@@ -1,0 +1,15 @@
+2024/07/10-15:40:26.455 161b3 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/10-15:40:26.455 161b3 Recovering log #15
+2024/07/10-15:40:26.455 161b3 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_hianime.to_0.indexeddb.leveldb/000015.log 
+2024/07/10-16:20:39.725 161af Level-0 table #20: started
+2024/07/10-16:20:39.731 161af Level-0 table #20: 209 bytes OK
+2024/07/10-16:20:39.738 161af Delete type=0 #15
+2024/07/10-16:20:39.738 161af Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/10-16:20:39.738 161af Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 52223 : 1
+2024/07/10-16:20:39.738 161af Compacting 1@1 + 1@2 files
+2024/07/10-16:20:39.750 161af Generated table #21@1: 15493 keys, 473228 bytes
+2024/07/10-16:20:39.750 161af Compacted 1@1 + 1@2 files => 473228 bytes
+2024/07/10-16:20:39.757 161af compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/10-16:20:39.757 161af Delete type=2 #20
+2024/07/10-16:20:39.757 161af Delete type=2 #17
+2024/07/10-16:20:39.757 161af Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 52223 : 1 .. (end); will stop at (end)

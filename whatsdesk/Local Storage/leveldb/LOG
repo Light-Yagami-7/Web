@@ -1,9 +1,6 @@
-2024/06/17-12:37:34.433 45f Reusing MANIFEST /home/sus/.config/whatsdesk/Local Storage/leveldb/MANIFEST-000001
-2024/06/17-12:37:34.433 45f Recovering log #3
-2024/06/17-12:37:34.436 45f Reusing old log /home/sus/.config/whatsdesk/Local Storage/leveldb/000003.log 
-2024/06/17-13:04:35.420 c75 Level-0 table #5: started
-2024/06/17-13:04:35.434 c75 Level-0 table #5: 16545 bytes OK
-2024/06/17-13:04:35.441 c75 Delete type=0 #3
-2024/06/17-14:48:00.583 25d5 Level-0 table #7: started
-2024/06/17-14:48:00.598 25d5 Level-0 table #7: 14430 bytes OK
-2024/06/17-14:48:00.605 25d5 Delete type=0 #4
+2024/09/23-20:17:31.254 a862 Reusing MANIFEST /home/sus/.config/whatsdesk/Local Storage/leveldb/MANIFEST-000001
+2024/09/23-20:17:31.255 a862 Recovering log #42
+2024/09/23-20:17:31.255 a862 Reusing old log /home/sus/.config/whatsdesk/Local Storage/leveldb/000042.log 
+2024/09/23-20:21:32.280 c63b Level-0 table #47: started
+2024/09/23-20:21:32.295 c63b Level-0 table #47: 19102 bytes OK
+2024/09/23-20:21:32.303 c63b Delete type=0 #42

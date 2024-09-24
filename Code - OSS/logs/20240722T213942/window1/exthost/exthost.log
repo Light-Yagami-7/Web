@@ -1,0 +1,14 @@
+2024-07-22 21:39:44.623 [info] Extension host with pid 137622 started
+2024-07-22 21:39:44.623 [info] Skipping acquiring lock for /home/sus/.config/Code - OSS/User/workspaceStorage/8b502ecc534937bce8274f6884c5cd52.
+2024-07-22 21:39:44.737 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-22 21:39:44.759 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-07-22 21:39:44.813 [info] ExtensionService#_doActivateExtension anilkumarum.live-preview-server, startup: false, activationEvent: 'onLanguage:html'
+2024-07-22 21:39:45.231 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-22 21:39:45.244 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-22 21:39:45.301 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-22 21:39:45.354 [info] Eager extensions activated
+2024-07-22 21:39:45.369 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-22 21:39:45.371 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-22 21:39:45.387 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-07-22 21:42:52.403 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-22 21:42:52.408 [info] Extension host with pid 137622 exiting with code 0

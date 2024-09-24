@@ -1,0 +1,1 @@
+const open=()=>{chrome.tabs.query({active:!0,currentWindow:!0},(([e])=>{chrome.runtime.sendMessage({action:"open",tab:e},(()=>{window.close()}))}))};navigator.serviceWorker.getRegistration().then((e=>{if(e)open();else{const e=chrome.runtime.getManifest().background;navigator.serviceWorker.register(e.service_worker,{type:"classic",scope:"/"}).then((()=>{open()}))}}));

@@ -1,1 +1,0 @@
-import{db as l,g as a}from"./HIOTIRGG.js";var f="Expected a function";function g(t,n,r){var e=!0,i=!0;if(typeof t!="function")throw new TypeError(f);return a(r)&&(e="leading"in r?!!r.leading:e,i="trailing"in r?!!r.trailing:i),l(t,n,{leading:e,maxWait:n,trailing:i})}var c=g;export{c as a};

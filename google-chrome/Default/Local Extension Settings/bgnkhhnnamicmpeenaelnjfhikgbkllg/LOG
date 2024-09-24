@@ -1,52 +1,15 @@
-2024/06/17-12:39:49.016 572 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
-2024/06/17-12:39:49.016 572 Recovering log #15
-2024/06/17-12:39:49.022 572 Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000015.log 
-2024/06/17-12:39:53.408 547 Level-0 table #19: started
-2024/06/17-12:39:53.432 547 Level-0 table #19: 1713219 bytes OK
-2024/06/17-12:39:53.439 547 Delete type=0 #15
-2024/06/17-12:39:53.440 547 Compacting 4@0 + 2@1 files
-2024/06/17-12:39:53.482 547 Generated table #20@0: 3 keys, 2860204 bytes
-2024/06/17-12:39:53.506 547 Generated table #21@0: 2 keys, 2536944 bytes
-2024/06/17-12:39:53.511 547 Generated table #22@0: 2 keys, 200 bytes
-2024/06/17-12:39:53.511 547 Compacted 4@0 + 2@1 files => 5397348 bytes
-2024/06/17-12:39:53.518 547 compacted to: files[ 0 3 1 0 0 0 0 ]
-2024/06/17-12:39:53.518 547 Delete type=2 #19
-2024/06/17-12:39:53.518 547 Delete type=2 #7
-2024/06/17-12:39:53.518 547 Delete type=2 #9
-2024/06/17-12:39:53.518 547 Delete type=2 #14
-2024/06/17-12:39:53.518 547 Delete type=2 #16
-2024/06/17-12:39:53.518 547 Delete type=2 #12
-2024/06/17-12:39:53.551 547 Level-0 table #24: started
-2024/06/17-12:39:53.559 546 Current memtable full; waiting...
-2024/06/17-12:39:53.573 547 Level-0 table #24: 2520035 bytes OK
-2024/06/17-12:39:53.580 547 Delete type=0 #18
-2024/06/17-12:39:53.582 547 Level-0 table #26: started
-2024/06/17-12:39:53.604 547 Level-0 table #26: 2536329 bytes OK
-2024/06/17-12:39:53.611 547 Delete type=0 #23
-2024/06/17-13:39:55.888 547 Level-0 table #28: started
-2024/06/17-13:39:55.896 546 Current memtable full; waiting...
-2024/06/17-13:39:55.922 547 Level-0 table #28: 2861388 bytes OK
-2024/06/17-13:39:55.930 547 Delete type=0 #25
-2024/06/17-13:39:55.934 546 Level-0 table #30: started
-2024/06/17-13:39:55.960 546 Level-0 table #30: 2536685 bytes OK
-2024/06/17-13:39:55.968 546 Delete type=0 #27
-2024/06/17-13:39:55.969 546 Compacting 4@0 + 3@1 files
-2024/06/17-13:39:56.006 546 Generated table #31@0: 3 keys, 2861112 bytes
-2024/06/17-13:39:56.028 546 Generated table #32@0: 2 keys, 2538389 bytes
-2024/06/17-13:39:56.034 546 Generated table #33@0: 2 keys, 200 bytes
-2024/06/17-13:39:56.034 546 Compacted 4@0 + 3@1 files => 5399701 bytes
-2024/06/17-13:39:56.041 546 compacted to: files[ 0 3 1 0 0 0 0 ]
-2024/06/17-13:39:56.041 546 Delete type=2 #20
-2024/06/17-13:39:56.041 546 Delete type=2 #21
-2024/06/17-13:39:56.041 546 Delete type=2 #26
-2024/06/17-13:39:56.041 546 Delete type=2 #30
-2024/06/17-13:39:56.041 546 Delete type=2 #28
-2024/06/17-13:39:56.041 546 Delete type=2 #22
-2024/06/17-13:39:56.041 546 Delete type=2 #24
-2024/06/17-14:39:58.482 547 Level-0 table #35: started
-2024/06/17-14:39:58.491 546 Current memtable full; waiting...
-2024/06/17-14:39:58.522 547 Level-0 table #35: 2866680 bytes OK
-2024/06/17-14:39:58.530 547 Delete type=0 #29
-2024/06/17-14:39:58.532 547 Level-0 table #37: started
-2024/06/17-14:39:58.561 547 Level-0 table #37: 2536692 bytes OK
-2024/06/17-14:39:58.568 547 Delete type=0 #34
+2024/09/24-22:41:55.685 950 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2024/09/24-22:41:55.685 950 Recovering log #1057
+2024/09/24-22:41:55.686 950 Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/001057.log 
+2024/09/24-22:42:02.958 94f Level-0 table #1061: started
+2024/09/24-22:42:02.976 94f Level-0 table #1061: 1717339 bytes OK
+2024/09/24-22:42:02.984 94f Delete type=0 #1057
+2024/09/24-22:42:02.986 94f Compacting 4@0 + 1@1 files
+2024/09/24-22:42:03.018 94f Generated table #1062@0: 9 keys, 341768 bytes
+2024/09/24-22:42:03.018 94f Compacted 4@0 + 1@1 files => 341768 bytes
+2024/09/24-22:42:03.025 94f compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/24-22:42:03.025 94f Delete type=2 #1050
+2024/09/24-22:42:03.025 94f Delete type=2 #1061
+2024/09/24-22:42:03.025 94f Delete type=2 #1058
+2024/09/24-22:42:03.025 94f Delete type=2 #1053
+2024/09/24-22:42:03.025 94f Delete type=2 #1056

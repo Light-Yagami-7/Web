@@ -1,0 +1,1056 @@
+{
+   "alert_popup_filter_enabled_desc": {
+      "message": "%filter_name% on automaatselt aktiveeritud"
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Toimus automaatne filtri aktiveerimine"
+   },
+   "background_tab_title": {
+      "message": "Tagaplaani kaart"
+   },
+   "blocking_pages_advanced_button": {
+      "message": "Edasijõudnule"
+   },
+   "blocking_pages_btn_go_back": {
+      "message": "Mine tagasi"
+   },
+   "blocking_pages_btn_proceed": {
+      "message": "Jätka ikkagi"
+   },
+   "blocking_pages_malware": {
+      "message": "Veebileht \u003Cstrong>%host%\u003C/strong> on meile teadaolevalt pahavara levitav veebileht. Keelasime sellele ligipääsu vastavalt AdGuardi seadistusele."
+   },
+   "blocking_pages_more_info_button": {
+      "message": "Rohkem infot"
+   },
+   "blocking_pages_page_title": {
+      "message": "Ligipääs on keelatud"
+   },
+   "blocking_pages_phishing": {
+      "message": "Veebileht \u003Cstrong>%host%\u003C/strong> on meile teadaolevalt õngevõtmise veebileht. Keelasime sellele ligipääsu vastavalt AdGuardi seadistusele."
+   },
+   "blocking_pages_rule_content_title": {
+      "message": "AdGuard on takistanud selle lehe laadimist järgmise filtrireegli tõttu"
+   },
+   "blocking_pages_rule_header_title": {
+      "message": "Blokeeritud AdGuardi poolt"
+   },
+   "blocking_pages_safe_header_title": {
+      "message": "AdGuard on sellele lehele ligipääsu blokeerinud"
+   },
+   "close_button_title": {
+      "message": "Sulge"
+   },
+   "context_block_site_ads": {
+      "message": "Blokeeri sel veebilehel reklaami..."
+   },
+   "context_complaint_website": {
+      "message": "Teavita probleemist..."
+   },
+   "context_disable_protection": {
+      "message": "Peata AdGuardi kaitse"
+   },
+   "context_enable_protection": {
+      "message": "Lülita AdGuardi kaitse sisse"
+   },
+   "context_open_log": {
+      "message": "Filtreerimise logi..."
+   },
+   "context_open_settings": {
+      "message": "AdGuardi seaded..."
+   },
+   "context_security_report": {
+      "message": "Kontrolli veebilehe turvalisust..."
+   },
+   "context_site_exception": {
+      "message": "See veebileht on erandites"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard ei saa sellel domeenil töötada"
+   },
+   "context_site_filtering_off": {
+      "message": "Lülita sel veebilehel filtreerimise logi välja"
+   },
+   "context_site_filtering_on": {
+      "message": "Lülita sel veebilehel filtreerimise logi sisse"
+   },
+   "context_site_protection_disabled": {
+      "message": "AdGuardi kaitse on peatatud"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Käivita filtrite uuendamine"
+   },
+   "description": {
+      "description": "TEXT MAX LENGTH: 132",
+      "message": "Parim reklaamiblokeerija, mis blokeerib reklaame ja hüpikaknaid kõikjal, sealhulgas Facebookis ja YouTubes."
+   },
+   "filtering_clear_log_events": {
+      "message": "Tühjenda logi"
+   },
+   "filtering_log_badge_tooltip_http_req_method": {
+      "message": "HTTP päringu meetod"
+   },
+   "filtering_log_badge_tooltip_http_status_code": {
+      "message": "HTTP staatuse kood"
+   },
+   "filtering_log_badge_tooltip_third_party": {
+      "message": "Kolmanda osapoole päring"
+   },
+   "filtering_log_details_modal_back_button": {
+      "message": "Tagasi päringu juurde"
+   },
+   "filtering_log_details_modal_beautify_button": {
+      "message": "Imeline"
+   },
+   "filtering_log_details_modal_try_again": {
+      "message": "Proovi uuesti"
+   },
+   "filtering_log_filter_allowed": {
+      "message": "Lubatud"
+   },
+   "filtering_log_filter_blocked": {
+      "message": "Blokeeritud"
+   },
+   "filtering_log_filter_modified": {
+      "message": "Muudetud"
+   },
+   "filtering_log_filter_regular": {
+      "message": "Tavaline"
+   },
+   "filtering_log_filter_user_rules": {
+      "message": "Kasutaja reeglid"
+   },
+   "filtering_log_hide_referrer": {
+      "message": "Viitaja peideti kolmandate osapoolte eest"
+   },
+   "filtering_log_hide_search_queries": {
+      "message": "Otsingupäring peideti"
+   },
+   "filtering_log_in_allowlist": {
+      "message": "Sait on lubatud"
+   },
+   "filtering_log_modified_rules": {
+      "message": "Muudetud reegleid: %rules_count%"
+   },
+   "filtering_log_preserve_log_off": {
+      "message": "Talleta logi: VÄLJAS"
+   },
+   "filtering_log_preserve_log_on": {
+      "message": "Talleta logi: SEES"
+   },
+   "filtering_log_remove_client_data": {
+      "message": "X-Client-Data päis eemaldati"
+   },
+   "filtering_log_search_string": {
+      "message": "Filtreeri logikirjeid"
+   },
+   "filtering_log_search_tabs_placeholder": {
+      "message": "Otsi vahelehtedelt"
+   },
+   "filtering_log_send_not_track": {
+      "message": "Saadeti Ära jälita päis"
+   },
+   "filtering_log_status_allowed": {
+      "message": "Lubatud"
+   },
+   "filtering_log_status_blocked": {
+      "message": "Blokeeritud"
+   },
+   "filtering_log_status_modified": {
+      "message": "Muudetud"
+   },
+   "filtering_log_status_processed": {
+      "message": "Töödeldud"
+   },
+   "filtering_log_tag_tooltip_allowed": {
+      "message": "Ainult lubatud või blokeerimata päringud"
+   },
+   "filtering_log_tag_tooltip_blocked": {
+      "message": "Ainult blokeeritud päringud"
+   },
+   "filtering_log_tag_tooltip_css": {
+      "message": "Laadilehed"
+   },
+   "filtering_log_tag_tooltip_first_party": {
+      "message": "Ainult esimese osapoole päringud"
+   },
+   "filtering_log_tag_tooltip_html": {
+      "message": "Dokumendid ja alamdomeenid"
+   },
+   "filtering_log_tag_tooltip_img": {
+      "message": "Pildid"
+   },
+   "filtering_log_tag_tooltip_js": {
+      "message": "Skriptid"
+   },
+   "filtering_log_tag_tooltip_media": {
+      "message": "Meedia"
+   },
+   "filtering_log_tag_tooltip_modified": {
+      "message": "Ainult muudetud päringud"
+   },
+   "filtering_log_tag_tooltip_other": {
+      "message": "Fondid, pingid, WebRTC, WebSocketid jms."
+   },
+   "filtering_log_tag_tooltip_regular": {
+      "message": "Ainult ilma filtreerimiseta töödeldud päringud"
+   },
+   "filtering_log_tag_tooltip_third_party": {
+      "message": "Ainult kolmandate osapoolte päringud"
+   },
+   "filtering_log_tag_tooltip_user_rules": {
+      "message": "Ainult päringud, mida on muutnud kasutaja reeglid"
+   },
+   "filtering_log_tag_tooltip_xhr": {
+      "message": "XMLHttpRequests ja väljavõtte taotlused"
+   },
+   "filtering_log_title": {
+      "message": "Filtreerimise logi"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Lisa reegel"
+   },
+   "filtering_modal_add_title": {
+      "message": "Reegli lisamine"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Rakenda seda kõikidel veebilehtedel"
+   },
+   "filtering_modal_block": {
+      "message": "Blokeeri"
+   },
+   "filtering_modal_block_again": {
+      "message": "Blokeeri uuesti"
+   },
+   "filtering_modal_converted_to": {
+      "message": "Konventeeriti:"
+   },
+   "filtering_modal_cookie": {
+      "message": "Küpsis:"
+   },
+   "filtering_modal_copied": {
+      "message": "Kopeeritud"
+   },
+   "filtering_modal_copy_to_clipboard": {
+      "message": "Kopeeri lõikelauale"
+   },
+   "filtering_modal_element": {
+      "message": "Element:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Lisa erand"
+   },
+   "filtering_modal_filter": {
+      "message": "Filter:"
+   },
+   "filtering_modal_filtering_status_text_desc": {
+      "message": "Filtreerimise olek:"
+   },
+   "filtering_modal_hide_full_element": {
+      "message": "Peida täispikk element"
+   },
+   "filtering_modal_hide_full_rule": {
+      "message": "Peida täispikk reegel"
+   },
+   "filtering_modal_hide_full_url": {
+      "message": "Peida täispikk URL"
+   },
+   "filtering_modal_important": {
+      "message": "Anna reeglile kõrgem prioriteet"
+   },
+   "filtering_modal_info_title": {
+      "message": "Päringu detailid"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Ava uues vahekaardis"
+   },
+   "filtering_modal_options_desc": {
+      "message": "Valikud:"
+   },
+   "filtering_modal_patterns_desc": {
+      "message": "Mustrid:"
+   },
+   "filtering_modal_preview_request_button": {
+      "message": "Eelvaade"
+   },
+   "filtering_modal_preview_title": {
+      "message": "Eelvaade"
+   },
+   "filtering_modal_remove_allowlist": {
+      "message": "Eemalda valgest listist"
+   },
+   "filtering_modal_remove_param": {
+      "message": "Eemalda päringu parameetrid"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Kustuta reegel"
+   },
+   "filtering_modal_rule": {
+      "message": "Reegel:"
+   },
+   "filtering_modal_rule_text_desc": {
+      "message": "Reegli sisu:"
+   },
+   "filtering_modal_rules": {
+      "message": "Reeglid:"
+   },
+   "filtering_modal_show_full_element": {
+      "message": "Kuva täispikk element"
+   },
+   "filtering_modal_show_full_rule": {
+      "message": "Kuva täispikk reegel"
+   },
+   "filtering_modal_show_full_url": {
+      "message": "Kuva täispikk URL"
+   },
+   "filtering_modal_source": {
+      "message": "Allikas:"
+   },
+   "filtering_modal_status_text_desc": {
+      "message": "Staatus:"
+   },
+   "filtering_modal_status_text_error": {
+      "message": "Vastust ei tulnud"
+   },
+   "filtering_modal_status_text_loading": {
+      "message": "Laadimine..."
+   },
+   "filtering_modal_third_party": {
+      "message": "Rakenda ainult kolmanda osapoole päringutel"
+   },
+   "filtering_modal_type": {
+      "message": "Tüüp:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Eemalda blokeering"
+   },
+   "filtering_refresh_tab_short": {
+      "message": "Värskenda"
+   },
+   "filtering_table_empty_reload_page_desc": {
+      "message": "\u003Creset>Lülitage filtrid välja\u003C/reset> või \u003Crefresh>laadige uuesti lehekülg\u003C/refresh> , et näha filtreeritavaid sündmuste logisid."
+   },
+   "filtering_table_filter": {
+      "message": "Filter"
+   },
+   "filtering_table_rule": {
+      "message": "Filtreerimise reegel"
+   },
+   "filtering_table_source": {
+      "message": "Allikas"
+   },
+   "filtering_table_status": {
+      "message": "Staatus"
+   },
+   "filtering_table_type": {
+      "message": "Tüüp"
+   },
+   "filtering_type_all": {
+      "message": "Kõik"
+   },
+   "filtering_type_other": {
+      "message": "Muu"
+   },
+   "filters_download_loading": {
+      "message": "Palun oota, kuni toimub filtrite andmebaaside laadimine..."
+   },
+   "filters_download_title": {
+      "message": "Filtrite andmebaasi laadimine..."
+   },
+   "fullscreen_user_rules_title": {
+      "message": "Kasutaja reeglid"
+   },
+   "group_description_adblocking": {
+      "message": "Siin saad seadistada reklaami blokeerimisel kasutatavaid filtreid. Liiga paljude filtrite korraga kasutamine võib jõudlusele negatiivselt mõjuda"
+   },
+   "group_description_annoyances": {
+      "message": "Eemalda hüpikreklaamid ja teised tüütud teavitused nagu küpsiste bännerid."
+   },
+   "group_description_custom": {
+      "message": "Loo erinevaid filtreid, mis aitavad veebisisu veelgi paremini filtreerida."
+   },
+   "group_description_lang": {
+      "message": "Lülita sisse vajalikud keelespetsiifilised filtrid."
+   },
+   "group_description_miscellaneous": {
+      "message": "Erinevad valikud, mis võimaldavad AdGuardi veelgi rohkem seadistada."
+   },
+   "group_description_security": {
+      "message": "Kaitse end pahavara, õngevõtmise ja teiste veebiohtude eest."
+   },
+   "group_description_social": {
+      "message": "Peida soovimatuid \"Like\"/\"Share\" nuppe ja teisi sotsiaalmeedia vidinaid."
+   },
+   "group_description_stealth": {
+      "message": "Kaitse oma identiteeti ja delikaatseid isikuandmeid tuhandete onlain jälitajate eest, kes sind veebi sirvides jälgida üritavad"
+   },
+   "name": {
+      "message": "AdGuardi reklaamiblokeerija"
+   },
+   "options_about": {
+      "message": "Teave"
+   },
+   "options_about_title": {
+      "message": "AdGuard'i brauseri laiendus"
+   },
+   "options_about_version": {
+      "message": "Versioon"
+   },
+   "options_acknowledgment": {
+      "message": "Tänuavaldused"
+   },
+   "options_add_custom_filter": {
+      "message": "Lisa kohandatud filter"
+   },
+   "options_allowlist": {
+      "message": "Valge list"
+   },
+   "options_allowlist_alert_invert": {
+      "message": "Valge list on ümber pööratud. Reklaami blokeeritakse ainult alljärgnevatel lehekülgedel. \u003Ca>Muuda tagasi\u003C/a>"
+   },
+   "options_allowlist_desc": {
+      "message": "AdGuard ei filtreeri valges listis olevaid veebilehti."
+   },
+   "options_allowlist_invert": {
+      "message": "Pöördjärjesta valge list"
+   },
+   "options_allowlist_invert_desc": {
+      "message": "Lubab reklaami kõikjal, välja arvatud valges listis olevatel veebilehtedel"
+   },
+   "options_antibanner_custom_filter_already_exists": {
+      "message": "See kohandatud filter on juba lisatud"
+   },
+   "options_antibanner_custom_group": {
+      "message": "Kohandatud"
+   },
+   "options_antibanner_rules_count": {
+      "message": "Reeglite hulk filtris: %rules_count%"
+   },
+   "options_block_acceptable_ads": {
+      "message": "Blokeeri otsingureklaami ja veebilehtede reklaamikampaaniaid"
+   },
+   "options_block_acceptable_ads_desc": {
+      "message": "Vabane \u003Ca>veebilehtede endi poolt tehtavatest reklaamikampaaniatest\u003C/a>, mis ilmuvad otsingutulemustes."
+   },
+   "options_block_known_trackers_description": {
+      "message": "Sisselülitamisel blokeerib AdGuardi Tracking Protection filter tuntud jälitajaid."
+   },
+   "options_block_known_trackers_title": {
+      "message": "Blokeeri tuntud jälitajad"
+   },
+   "options_check_update": {
+      "message": "Otsi uuendusi"
+   },
+   "options_check_update_progress": {
+      "message": "Kontrollin..."
+   },
+   "options_clear_stats_confirm_modal_clear_button": {
+      "message": "Nulli"
+   },
+   "options_clear_stats_confirm_modal_title": {
+      "message": "Nulli statistika?"
+   },
+   "options_collect_hit_stats_desc": {
+      "message": "Saatke \u003Ca>anonüümne statistika reklaamifiltrite kasutamise kohta\u003C/a>, mis aitab meil neid täiustada ja optimeerida."
+   },
+   "options_collect_hit_stats_title": {
+      "message": "Osalege AdGuard filtrite arendamises"
+   },
+   "options_confirm_modal_cancel_button": {
+      "message": "Tühista"
+   },
+   "options_copyright": {
+      "message": "Kõik õigused kaitstud."
+   },
+   "options_disable_webrtc_desc": {
+      "message": "WebRTC võib teie IP-aadressi lekkida isegi siis, kui kasutate puhverserverit või VPN-i. WebRTC keelamine võib mõne veebisaidi rikkuda."
+   },
+   "options_disable_webrtc_title": {
+      "message": "Blokeeri WebRTC-d"
+   },
+   "options_discuss": {
+      "message": "Avalda arvamust"
+   },
+   "options_do_you_like_question": {
+      "message": "Sulle meeldib AdGuard?"
+   },
+   "options_editor_close_fullscreen_button_tooltip": {
+      "message": "Sulge redigeerija täisekraani režiim"
+   },
+   "options_editor_indicator_saved": {
+      "message": "Salvesta"
+   },
+   "options_editor_indicator_saving": {
+      "message": "Salvestamine..."
+   },
+   "options_editor_open_fullscreen_button_tooltip": {
+      "message": "Ava redigeerija täisekraani režiimis"
+   },
+   "options_editor_save": {
+      "message": "Salvesta"
+   },
+   "options_empty_custom_filter": {
+      "message": "Vabandame, aga sul ei ole hetkel ühtegi kohandatud filtrit"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Aktiveeri automaatselt sobivad filtrid"
+   },
+   "options_enable_autodetect_filter_desc": {
+      "message": "Külastatava veebilehe keelele vastavad filtrid aktiveeritakse automaatselt."
+   },
+   "options_export_settings": {
+      "message": "Seadete eksportimine"
+   },
+   "options_filters": {
+      "message": "Filtrid"
+   },
+   "options_filters_annoyances_consent_description": {
+      "message": "Olete lubamas üht või mitut häirimisfiltrit. Need blokeerivad elemente, mis ei ole veebisaidi sisuga seotud või on teie kasutuskogemusega seotud, kuid häirivad. Veebisaitide omanikud võivad pidada neid elemente kohustuslikuks: kui te need blokeerite, võite rikkuda nende tingimusi; mõned veebisaitide funktsioonid ei pruugi olla saadaval või ei pruugi korralikult töötada. Mõistate ja nõustute, et vastutate ainuisikuliselt külastatavate veebisaitide kasutustingimuste järgimise eest ja AdGuard ei vastuta külastatavate veebisaitide kasutustingimuste järgimise eest."
+   },
+   "options_filters_annoyances_consent_enable_button": {
+      "message": "Lubama"
+   },
+   "options_filters_annoyances_consent_filter_policy": {
+      "message": "Üksikasjad AdGuardi häirimisfiltrite blokeeritud sisu kohta leiate \u003Ca>Filterpoliitika\u003C/a> alt"
+   },
+   "options_filters_annoyances_consent_question": {
+      "message": "Kas lubada need filtrid?"
+   },
+   "options_filters_empty_title": {
+      "message": "Tulemusi ei leitud"
+   },
+   "options_filters_enabled": {
+      "message": "Sisselülitatud:"
+   },
+   "options_filters_enabled_and_last": {
+      "message": "%enabled% ja %last%"
+   },
+   "options_filters_enabled_and_more": {
+      "message": "%enabled% ja veel %more%"
+   },
+   "options_filters_filter_link": {
+      "message": "Mine kodulehele"
+   },
+   "options_filters_filter_trusted_tag_desc": {
+      "message": "Otsustasid, et usaldad seda filtrit"
+   },
+   "options_filters_filter_updated": {
+      "message": "uuendatud:"
+   },
+   "options_filters_filter_version": {
+      "message": "versioon:"
+   },
+   "options_filters_list_search_display_option_all_filters": {
+      "message": "Kõik filtrid"
+   },
+   "options_filters_list_search_display_option_disabled": {
+      "message": "Väljalülitatud"
+   },
+   "options_filters_list_search_display_option_enabled": {
+      "message": "Sisselülitatud"
+   },
+   "options_filters_no_enabled": {
+      "message": "Filtreid pole sisse lülitatud"
+   },
+   "options_filters_search": {
+      "message": "Otsing"
+   },
+   "options_first_party_desc": {
+      "message": "Limiteeri esimeste osapoolte küpsiste eluiga (minutites)."
+   },
+   "options_first_party_title": {
+      "message": "Isehävinevad esimeste osapoolte küpsised (ei ole soovituslik)"
+   },
+   "options_footer_like_us_cta": {
+      "message": "Jäta hinnang!"
+   },
+   "options_general_settings": {
+      "message": "Üldine"
+   },
+   "options_github": {
+      "message": "GitHub"
+   },
+   "options_hide_referrer_desc": {
+      "message": "Takistab kolmandatel osapooltel teada saada, milliseid veebilehti külastad."
+   },
+   "options_hide_referrer_title": {
+      "message": "Peidab kolmandate osapoolte eest Viitaja"
+   },
+   "options_hide_search_queries_desc": {
+      "message": "Lehtede eest, mida otsingumootori kaudu külastad"
+   },
+   "options_hide_search_queries_title": {
+      "message": "Peida tehtavad otsingupäringud"
+   },
+   "options_import_settings": {
+      "message": "Seadete importimine"
+   },
+   "options_leave_feedback": {
+      "message": "Anna tagasisidet"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Täiendavad seaded"
+   },
+   "options_modified_first_party_cookie": {
+      "message": "Esimese osapoole küpsis on muudetud"
+   },
+   "options_modified_third_party_cookie": {
+      "message": "Kolmanda osapoole küpsis on muudetud"
+   },
+   "options_nav_better_than_extension": {
+      "message": "Miks on AdGuardi programm parem kui brauseri laiendus?"
+   },
+   "options_nav_compare": {
+      "message": "Võrdle"
+   },
+   "options_open_changelog": {
+      "message": "Muudatuste logi"
+   },
+   "options_open_log": {
+      "message": "Ava filtreerimise logi"
+   },
+   "options_popup_call_to_action": {
+      "message": "Lisa filtri URL või asukoht ülemisse kasti."
+   },
+   "options_popup_check_false_description": {
+      "message": "Valikulise filtri lisamisel ilmes viga."
+   },
+   "options_popup_check_false_title": {
+      "message": "Tõrge"
+   },
+   "options_popup_checking_filter": {
+      "message": "Filtri kontrollimine"
+   },
+   "options_popup_description": {
+      "message": "Jätkates tellid selle filtri."
+   },
+   "options_popup_filter_description": {
+      "message": "Kirjeldus:"
+   },
+   "options_popup_filter_homepage": {
+      "message": "Koduleht:"
+   },
+   "options_popup_filter_rules_count": {
+      "message": "Reeglite hulk:"
+   },
+   "options_popup_filter_title": {
+      "message": "Pealkiri:"
+   },
+   "options_popup_filter_url": {
+      "message": "URL:"
+   },
+   "options_popup_filter_version": {
+      "message": "Versioon:"
+   },
+   "options_popup_import_error_file_description": {
+      "message": "Midagi läks valesti."
+   },
+   "options_popup_import_error_title": {
+      "message": "Seadistuste importimisel ilmnes viga"
+   },
+   "options_popup_import_settings_wrong_file_ext": {
+      "message": "Faili laiendus peab olema %extension%"
+   },
+   "options_popup_import_success_title": {
+      "message": "Seadistused on edukalt imporditud"
+   },
+   "options_popup_next_button": {
+      "message": "Edasi"
+   },
+   "options_popup_subscribe_button": {
+      "message": "Telli"
+   },
+   "options_popup_title_placeholder": {
+      "message": "Sisesta filtri nimi"
+   },
+   "options_popup_trusted_filter_description": {
+      "message": "Usaldusväärseks märgistatud filtrid saavad kasutada võimsaid filtrireeglite modifikaatoreid, mis võivad valedes kätes pahandust tekitada. Ära märgista seda kasti enne, kui usaldad selle autorit 100%."
+   },
+   "options_popup_trusted_filter_title": {
+      "message": "Usaldatud"
+   },
+   "options_popup_try_again_button": {
+      "message": "Proovi uuesti"
+   },
+   "options_popup_update_error": {
+      "message": "Uuendamine nurjus. Proovi hiljem uuesti."
+   },
+   "options_popup_update_filter": {
+      "message": "on uuendatud."
+   },
+   "options_popup_update_filters": {
+      "message": "on uuendatud."
+   },
+   "options_popup_update_not_found": {
+      "message": "Uuendusi ei leitud"
+   },
+   "options_popup_update_title_error": {
+      "message": "Filtrite uuendamisel ilmes viga"
+   },
+   "options_popup_url_placeholder": {
+      "message": "Sisesta URL või asukoht"
+   },
+   "options_popup_url_title": {
+      "message": "Uue filtri tellimine"
+   },
+   "options_popup_version_update_changelog_text": {
+      "message": "Mis selles versioonis uut on?"
+   },
+   "options_popup_version_update_description_major": {
+      "message": "See on suurem uuendus, mis toob endaga kaasa uusi funktsioone ja täiustusi."
+   },
+   "options_popup_version_update_description_minor": {
+      "message": "See versioon toob endaga veaparandusi ja teisi väiksemaid täiustusi."
+   },
+   "options_popup_version_update_disable_notification": {
+      "message": "Lülita teavitused välja"
+   },
+   "options_popup_version_update_offer": {
+      "message": "Kas teadsid, et AdGuardi võimalused ei piirdu ainult brauserilaiendusega?"
+   },
+   "options_popup_version_update_offer_button_text": {
+      "message": "ROHKEM TEAVET"
+   },
+   "options_popup_version_update_title_text": {
+      "message": "AdGuardi brauserilisa on uuendatud versioonile %current_version%"
+   },
+   "options_privacy_desc": {
+      "message": "Blokeeri laialt kasutatavad jälitamise meetodid ning kaitse oma identiteeti ja isiklikke andmeid tuhandete onlain jälitajate eest."
+   },
+   "options_privacy_policy": {
+      "message": "Privaatsuspoliitika"
+   },
+   "options_remove_client_data_desc": {
+      "message": "Blokeerib Google Chrome'i, et see ei saaks Google domeenidele oma versiooni ja muudatuste andmeid saata."
+   },
+   "options_remove_client_data_title": {
+      "message": "Eemalda X-Client-Data päis"
+   },
+   "options_remove_filter_confirm_modal_ok_button": {
+      "message": "Eemalda"
+   },
+   "options_remove_filter_confirm_modal_title": {
+      "message": "Eemalda see filter?"
+   },
+   "options_report_bug": {
+      "message": "Teavita veast"
+   },
+   "options_reset_settings": {
+      "message": "Taasta seadistused"
+   },
+   "options_reset_settings_confirm_modal_clear_button": {
+      "message": "Lähtesta"
+   },
+   "options_reset_settings_confirm_modal_title": {
+      "message": "Lähtesta seadistused?"
+   },
+   "options_reset_settings_done": {
+      "message": "Seadistus on taastatud"
+   },
+   "options_reset_settings_error": {
+      "message": "Seadete taastamisel ilmnes tõrge"
+   },
+   "options_reset_stats": {
+      "message": "Nulli statistika"
+   },
+   "options_reset_stats_done": {
+      "message": "Statistika on nullitud"
+   },
+   "options_rule_limits": {
+      "message": "Reegli piirangud"
+   },
+   "options_rule_limits_description_link": {
+      "message": "Lisateave Manifest V3 kohta"
+   },
+   "options_rule_limits_dynamic": {
+      "message": "Dünaamilised reeglid"
+   },
+   "options_rule_limits_dynamic_user_rules": {
+      "message": "Kasutaja poolt lisatud reeglid, näiteks kasutaja reeglid ja kohandatud filtrid"
+   },
+   "options_rule_limits_static_rules": {
+      "message": "Staatilised reeglid"
+   },
+   "options_rule_limits_static_rulesets": {
+      "message": "Staatilised reeglistikud"
+   },
+   "options_rule_limits_warning_actions_title": {
+      "message": "Teie võimalikud tegevused"
+   },
+   "options_rule_limits_warning_explanation_description": {
+      "message": "Aktiivsete sisseehitatud reeglite arv ületati pärast uuendamist või uue laienduse lisamist. Manifest V3 kohaselt reageeris teie Chrome'i brauser, lülitades välja kõik laienduse sisseehitatud filtrid, välja arvatud vaikimisi filtrid."
+   },
+   "options_rule_limits_warning_explanation_title": {
+      "message": "Mis juhtus?"
+   },
+   "options_rule_limits_warning_list_enabled_before_title": {
+      "message": "Enne uuendamist aktiveeritud filtrid"
+   },
+   "options_rule_limits_warning_list_enabled_now_title": {
+      "message": "Filtrid on nüüd lubatud"
+   },
+   "options_rule_limits_warning_title": {
+      "message": "Brauser on muutnud aktiivsete filtrite nimekirja"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Õngevõtmine ja pahavara kaitse"
+   },
+   "options_safebrowsing_enabled_desc": {
+      "message": "Lubage AdGuardi Sirvimise Turvamoodul, mis tuvastab potentsiaalselt pahatahtlikud ja andmepüügisaidid, kontrollides neid veebiandmebaasi alusel. \u003Ca>Loe edasi\u003C/a>"
+   },
+   "options_select_theme": {
+      "message": "Välimus"
+   },
+   "options_select_update_period_12h": {
+      "message": "12 tunni tagant"
+   },
+   "options_select_update_period_1h": {
+      "message": "1 tunni tagant"
+   },
+   "options_select_update_period_24h": {
+      "message": "24 tunni tagant"
+   },
+   "options_select_update_period_48h": {
+      "message": "48 tunni tagant"
+   },
+   "options_select_update_period_6h": {
+      "message": "6 tunni tagant"
+   },
+   "options_select_update_period_default": {
+      "message": "Vaikeseade"
+   },
+   "options_select_update_period_disabled": {
+      "message": "Väljalülitatud"
+   },
+   "options_send_not_track_desc": {
+      "message": "Saatke külastatavatele veebisaitidele signaalid \u003Cgpc>Globaalne privaatsuskontroll\u003C/gpc> ja \u003Cdnt>Ära jälgi\u003C/dnt>."
+   },
+   "options_send_not_track_title": {
+      "message": "Saada Do-Not-Track päis"
+   },
+   "options_set_update_interval": {
+      "message": "Filtrite uuendamise sagedus"
+   },
+   "options_set_update_interval_desc": {
+      "message": "Efektiivsemaks blokeerimiseks peab filtreid regulaarselt uuendama."
+   },
+   "options_settings": {
+      "message": "AdGuardi seaded"
+   },
+   "options_show_adguard_full_version_title": {
+      "message": "Näita teavitust AdGuardi täisversiooni kohta"
+   },
+   "options_show_app_updated_notification": {
+      "message": "Teavita mind AdGuardi brauserilisa uuendustest"
+   },
+   "options_show_blocked_ads_count_title": {
+      "message": "Kuva AdGuardi ikoonil blokeeritud reklaami arvu"
+   },
+   "options_show_context_menu_title": {
+      "message": "Lisa AdGuard brauseri parema kliki menüüsse"
+   },
+   "options_site": {
+      "message": "Meie koduleht"
+   },
+   "options_stealth_cookies_title": {
+      "message": "Küpsised"
+   },
+   "options_stealth_general_title": {
+      "message": "Üldine"
+   },
+   "options_stealth_miscellaneous_title": {
+      "message": "Mitmesugust"
+   },
+   "options_strip_tracking_params_description": {
+      "message": "Sisselülitades kasutatakse jälitusparameetrite eemaldamiseks AdGuard URL Tracking filtrit."
+   },
+   "options_strip_tracking_params_title": {
+      "message": "Eemalda jälitamise parameetrid"
+   },
+   "options_stripped_tracking_parameters": {
+      "message": "Eemaldatakse jälitamise parameetrid"
+   },
+   "options_theme_selector_dark": {
+      "message": "Tume"
+   },
+   "options_theme_selector_light": {
+      "message": "Hele"
+   },
+   "options_theme_selector_system": {
+      "message": "Süsteem"
+   },
+   "options_third_party_desc": {
+      "message": "Limiteeri kolmandate osapoolte küpsiste eluiga (minutites)."
+   },
+   "options_third_party_title": {
+      "message": "Isehävinevad kolmandate osapoolte küpsised"
+   },
+   "options_update_antibanner_filters": {
+      "message": "Käivita filtrite uuendamine"
+   },
+   "options_use_optimized_filters": {
+      "message": "Kasuta optimeeritud filtreid"
+   },
+   "options_use_optimized_filters_desc": {
+      "message": "Liikluse säästmiseks kasutab filtrite lühemaid versioone ainult kõige populaarsemate reeglitega. Sobib paremini mobiilibrauseritele"
+   },
+   "options_user_rules_editor_stub_go_to_editor_button": {
+      "message": "Ava redigeerija"
+   },
+   "options_user_rules_editor_stub_title": {
+      "message": "Redigeeria on juba avatud"
+   },
+   "options_userfilter": {
+      "message": "Kasutaja reeglid"
+   },
+   "options_userfilter_description_key": {
+      "message": "Siia saab lisada enda reegleid. Soovitatav kasutajatele, kes on tuttavad HTML/CSS-iga. Rohkema info saamiseks tutvu \u003Ca>filtri loomise abilisega\u003C/a>."
+   },
+   "options_userfilter_export": {
+      "message": "Ekspordi"
+   },
+   "options_userfilter_import": {
+      "message": "Impordi"
+   },
+   "options_userfilter_line_break_off": {
+      "message": "Rea murdmine: VÄLJAS"
+   },
+   "options_userfilter_line_break_on": {
+      "message": "Rea murdmine: SEES"
+   },
+   "popup_abuse_site": {
+      "message": "Teata probleemist"
+   },
+   "popup_adguard_for_android": {
+      "message": "AdGuard Androidile"
+   },
+   "popup_adguard_for_ios": {
+      "message": "AdGuard for iOS"
+   },
+   "popup_block_site_ads_option": {
+      "message": "Blokeeri sellel veebisaidil reklaami"
+   },
+   "popup_header_update_filters": {
+      "message": "Käivita filtrite uuendamine"
+   },
+   "popup_open_filtering_log": {
+      "message": "Ava filtreerimise logi"
+   },
+   "popup_security_report": {
+      "message": "Kontrolli veebilehe turvalisust"
+   },
+   "popup_site_exception_information": {
+      "message": "Filtreerimine on keelatud, sest see võib antud veebilehe funktsionaalsust häirida."
+   },
+   "popup_site_filtering_state_disabled": {
+      "message": "Kaitse on väljalülitatud"
+   },
+   "popup_site_filtering_state_enabled": {
+      "message": "Kaitse on sisselülitatud"
+   },
+   "popup_site_filtering_state_paused": {
+      "message": "Kaitse on peatatud"
+   },
+   "popup_site_filtering_state_secure_page": {
+      "message": "Turvaline leht"
+   },
+   "popup_site_filtering_state_subtitle_all_websites": {
+      "message": "kõikidele veebilehtedele"
+   },
+   "popup_statistics_months_apr": {
+      "message": "Apr"
+   },
+   "popup_statistics_months_aug": {
+      "message": "Aug"
+   },
+   "popup_statistics_months_dec": {
+      "message": "Dets"
+   },
+   "popup_statistics_months_feb": {
+      "message": "Veeb"
+   },
+   "popup_statistics_months_jan": {
+      "message": "Jaan"
+   },
+   "popup_statistics_months_jul": {
+      "message": "Juuli"
+   },
+   "popup_statistics_months_jun": {
+      "message": "Juuni"
+   },
+   "popup_statistics_months_mar": {
+      "message": "Märts"
+   },
+   "popup_statistics_months_may": {
+      "message": "Mai"
+   },
+   "popup_statistics_months_nov": {
+      "message": "Nov"
+   },
+   "popup_statistics_months_oct": {
+      "message": "Okt"
+   },
+   "popup_statistics_months_sep": {
+      "message": "Sept"
+   },
+   "popup_statistics_time_day": {
+      "message": "Viimane päev"
+   },
+   "popup_statistics_time_month": {
+      "message": "Viimane kuu"
+   },
+   "popup_statistics_time_week": {
+      "message": "Viimane nädal"
+   },
+   "popup_statistics_time_year": {
+      "message": "Viimane aasta"
+   },
+   "popup_statistics_total": {
+      "message": "Kokku"
+   },
+   "popup_statistics_week_days_fri": {
+      "message": "Ree"
+   },
+   "popup_statistics_week_days_mon": {
+      "message": "Esm"
+   },
+   "popup_statistics_week_days_sat": {
+      "message": "Lau"
+   },
+   "popup_statistics_week_days_sun": {
+      "message": "Püh"
+   },
+   "popup_statistics_week_days_thu": {
+      "message": "Nel"
+   },
+   "popup_statistics_week_days_tue": {
+      "message": "Tei"
+   },
+   "popup_statistics_week_days_wed": {
+      "message": "Kol"
+   },
+   "popup_switch_button": {
+      "message": "Kaitse lüliti"
+   },
+   "popup_tab_actions": {
+      "message": "Tegevused"
+   },
+   "popup_tab_blocked_all_count": {
+      "message": "Kokku: %num%"
+   },
+   "popup_tab_blocked_count": {
+      "message": "Blokeeritud: %num%"
+   },
+   "popup_tab_statistics": {
+      "message": "Statistika"
+   },
+   "short_name": {
+      "message": "AdGuard"
+   },
+   "text_collapser_hide_default": {
+      "message": "Peida täispikk tekst"
+   },
+   "text_collapser_show_default": {
+      "message": "Kuva täispikk tekst"
+   }
+}

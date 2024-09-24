@@ -1,0 +1,6 @@
+2024/06/23-23:45:14.780 3fc7 Creating DB /home/sus/.config/google-chrome/Default/IndexedDB/https_uploadhaven.com_0.indexeddb.leveldb since it was missing.
+2024/06/23-23:45:14.802 3fc7 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_uploadhaven.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/23-23:45:50.784 3faa Level-0 table #5: started
+2024/06/23-23:45:50.790 3faa Level-0 table #5: 817 bytes OK
+2024/06/23-23:45:50.797 3faa Delete type=0 #3
+2024/06/23-23:45:50.798 3faa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/128.png",
+         "16": "img/16.png",
+         "32": "img/32.png",
+         "48": "img/48.png",
+         "512": "img/512.png",
+         "64": "img/64.png"
+      },
+      "default_title": "Analyze on Lichess"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Analyze your chess.com games on lichess for free. ",
+   "host_permissions": [ "https://www.chess.com/*", "https://lichess.org/*" ],
+   "icons": {
+      "128": "img/128.png",
+      "512": "img/512.png",
+      "64": "img/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3dcRLmXzZPM40YNarSJHPhLkgaD2fg1AtMjBe+/CdID95T/E65M0tkuBT58ihI07FRwoNRDIa18B8A0bnMOBVQaodTffc/ftz7dBkCB6BU1LID0bANs7+Ed9/JwKTeQd593vmdDv3gAQL/9Bx3jE86VsUFUQuC6TSW5efEIlB01A1VhUNMyeYTsJYhluxYEqLF4pAMhAlqqW8uMuxRejo+huaaaob3wrV/H4nlHERBiHyD6JRhmJYtpTCEmcMpV3c7XAykd53bpdT8O6rXI5zou51mo3Qrdregxh05UFOkLFz1QHEjqIWKT2nI0jZrqVxUqeDEawelFmLgFa+aCBZwIDAQAB",
+   "manifest_version": 3,
+   "name": "Free Chess Analysis",
+   "permissions": [ "declarativeContent", "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.5"
+}

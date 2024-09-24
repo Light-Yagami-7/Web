@@ -1,0 +1,7 @@
+{
+    "git.enableSmartCommit": true,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "vscode-neovim.neovimExecutablePaths.linux": "bin/nvim"
+}

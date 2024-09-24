@@ -1,3 +1,24 @@
-2024/06/16-17:27:28.534 77f Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
-2024/06/16-17:27:28.535 77f Recovering log #3
-2024/06/16-17:27:28.537 77f Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000003.log 
+2024/09/23-22:29:24.860 5dd8b Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/09/23-22:29:24.861 5dd8b Recovering log #1449
+2024/09/23-22:29:24.861 5dd8b Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/001449.log 
+2024/09/23-22:29:32.959 5dd77 Level-0 table #1453: started
+2024/09/23-22:29:32.973 5dd77 Level-0 table #1453: 1724538 bytes OK
+2024/09/23-22:29:32.980 5dd77 Delete type=0 #1449
+2024/09/23-22:29:32.982 5dd77 Compacting 4@0 + 1@1 files
+2024/09/23-22:29:32.995 5dd77 Generated table #1454@0: 5 keys, 175101 bytes
+2024/09/23-22:29:32.995 5dd77 Compacted 4@0 + 1@1 files => 175101 bytes
+2024/09/23-22:29:33.002 5dd77 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/23-22:29:33.002 5dd77 Delete type=2 #1448
+2024/09/23-22:29:33.002 5dd77 Delete type=2 #1444
+2024/09/23-22:29:33.002 5dd77 Delete type=2 #1450
+2024/09/23-22:29:33.003 5dd77 Delete type=2 #1453
+2024/09/23-22:29:33.003 5dd77 Delete type=2 #1446
+2024/09/23-22:29:37.460 5dd76 Level-0 table #1456: started
+2024/09/23-22:29:37.476 5dd76 Level-0 table #1456: 1728366 bytes OK
+2024/09/23-22:29:37.485 5dd76 Delete type=0 #1452
+2024/09/23-22:38:30.423 5dd77 Level-0 table #1458: started
+2024/09/23-22:38:30.437 5dd77 Level-0 table #1458: 1731807 bytes OK
+2024/09/23-22:38:30.451 5dd77 Delete type=0 #1455
+2024/09/23-22:40:30.431 5dd76 Level-0 table #1460: started
+2024/09/23-22:40:30.452 5dd76 Level-0 table #1460: 1728931 bytes OK
+2024/09/23-22:40:30.459 5dd76 Delete type=0 #1457

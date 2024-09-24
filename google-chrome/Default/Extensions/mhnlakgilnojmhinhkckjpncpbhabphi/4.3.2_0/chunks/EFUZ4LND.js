@@ -1,1 +1,0 @@
-function c(u,i,e){var f=-1,l=u.length;i<0&&(i=-i>l?0:l+i),e=e>l?l:e,e<0&&(e+=l),l=i>e?0:e-i>>>0,i>>>=0;for(var h=Array(l);++f<l;)h[f]=u[f+i];return h}var g=c;export{g as a};

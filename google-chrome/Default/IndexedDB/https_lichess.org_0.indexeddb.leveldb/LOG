@@ -1,0 +1,7 @@
+2024/07/06-18:13:23.134 ec9f Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/06-18:13:23.134 ec9f Recovering log #3
+2024/07/06-18:13:23.134 ec9f Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/000003.log 
+2024/07/06-18:16:02.865 ec82 Level-0 table #5: started
+2024/07/06-18:16:02.871 ec82 Level-0 table #5: 1277 bytes OK
+2024/07/06-18:16:02.878 ec82 Delete type=0 #3
+2024/07/06-18:16:02.878 ec82 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

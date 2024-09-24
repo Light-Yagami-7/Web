@@ -2,11 +2,17 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/sus/Web": "__default__profile__"
+            "file:///home/sus/Documents": "__default__profile__",
+            "file:///home/sus/Web/.git": "__default__profile__",
+            "file:///home/sus/.config/kitty": "__default__profile__",
+            "file:///home/sus/.config/mako": "__default__profile__",
+            "file:///home/sus/.config/hypr": "__default__profile__",
+            "file:///home/sus/Web": "__default__profile__",
+            "file:///home/sus/Web/Chat": "__default__profile__",
+            "file:///home/sus/Web/RTC": "__default__profile__",
+            "file:///home/sus/.config/waybar": "__default__profile__"
         },
-        "emptyWindows": {
-            "1718542580159": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -15,25 +21,24 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/sus/Web"
+                "folderUri": "file:///home/sus/Web/RTC"
+            },
+            {
+                "folderUri": "file:///home/sus/.config/waybar"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1718542580159"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sus/Web",
-            "backupPath": "/home/sus/.config/Code - OSS/Backups/a6b601e7b4a339ca8d2c022c8a9b193a",
+            "folder": "file:///home/sus/.config/waybar",
+            "backupPath": "/home/sus/.config/Code - OSS/Backups/14b60e1b4feb5a81e1dd0211a3c5bf47",
             "uiState": {
                 "mode": 1,
                 "x": 12,
-                "y": 47,
+                "y": 82,
                 "width": 1896,
-                "height": 1021
+                "height": 986
             }
         },
         "openedWindows": []
@@ -53,6 +58,18 @@
                     {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
+                    },
+                    {
+                        "id": "submenuitem.OpenProfile",
+                        "label": "New Window with Profile",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.profiles.actions.createProfile",
+                                    "label": "New Profile..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -86,6 +103,39 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/sus/.config/waybar",
+                                        "path": "/home/sus/.config/waybar",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/Web/RTC",
+                                        "path": "/home/sus/Web/RTC",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Web/RTC"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/Web/Chat",
+                                        "path": "/home/sus/Web/Chat",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Web/Chat"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/sus/Web",
                                         "path": "/home/sus/Web",
                                         "scheme": "file"
@@ -94,40 +144,62 @@
                                     "label": "~/Web"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/hypr",
+                                        "path": "/home/sus/.config/hypr",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/hypr"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/mako",
+                                        "path": "/home/sus/.config/mako",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/mako"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/kitty",
+                                        "path": "/home/sus/.config/kitty",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/kitty"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/Web/.git",
+                                        "path": "/home/sus/Web/.git",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Web/.git"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/Documents",
+                                        "path": "/home/sus/Documents",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sus/.ssh/id_ed25519.pub",
-                                        "path": "/home/sus/.ssh/id_ed25519.pub",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.ssh/id_ed25519.pub"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sus/.config/waybar/config",
-                                        "path": "/home/sus/.config/waybar/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/waybar/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sus/.config/waybar/style.css",
-                                        "path": "/home/sus/.config/waybar/style.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/waybar/style.css"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -144,34 +216,100 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/sus/.config/kitty/kitty.conf",
-                                        "path": "/home/sus/.config/kitty/kitty.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/kitty/kitty.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sus/.config/waybar/macchiato.css",
-                                        "path": "/home/sus/.config/waybar/macchiato.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/waybar/macchiato.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/sus/.config/hypr/hyprland.conf",
                                         "path": "/home/sus/.config/hypr/hyprland.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config/hypr/hyprland.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/hyprland/conf/hyprland.conf",
+                                        "path": "/home/sus/hyprland/conf/hyprland.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/hyprland/conf/hyprland.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/Documents/Address%20mayby%20%3F%3F",
+                                        "path": "/home/sus/Documents/Address mayby ??",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Address mayby ??"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/wofi/launch_wofi.sh",
+                                        "path": "/home/sus/.config/wofi/launch_wofi.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/wofi/launch_wofi.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/wofi/style.css",
+                                        "path": "/home/sus/.config/wofi/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/wofi/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/wofi/config",
+                                        "path": "/home/sus/.config/wofi/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/wofi/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/mako/volume_notify.sh",
+                                        "path": "/home/sus/.config/mako/volume_notify.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/mako/volume_notify.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/mako/config.c",
+                                        "path": "/home/sus/.config/mako/config.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/mako/config.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sus/.config/hypr/conf",
+                                        "path": "/home/sus/.config/hypr/conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/hypr/conf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -239,10 +377,6 @@
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
-                                },
-                                {
-                                    "id": "workbench.profiles.actions.importProfile",
-                                    "label": "Import Profile..."
                                 }
                             ]
                         }
@@ -260,47 +394,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "submenuitem.Profiles",
-                                    "label": "Profile (Default)",
-                                    "submenu": {
-                                        "items": [
-                                            {
-                                                "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                                "label": "Default",
-                                                "checked": true
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Profile Contents"
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.createProfile",
-                                                "label": "Create Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.deleteProfile",
-                                                "label": "Delete Profile...",
-                                                "enabled": false
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.exportProfile",
-                                                "label": "Export Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.importProfile",
-                                                "label": "Import Profile..."
-                                            }
-                                        ]
-                                    }
+                                    "id": "workbench.profiles.actions.manageProfiles",
+                                    "label": "&&Profiles"
                                 },
                                 {
                                     "id": "workbench.action.openSettings",
@@ -316,11 +411,11 @@
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
-                                    "label": "Configure User Snippets"
+                                    "label": "Configure Snippets"
                                 },
                                 {
                                     "id": "workbench.action.tasks.openUserTasks",
-                                    "label": "User Tasks"
+                                    "label": "Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -619,9 +714,8 @@
                                     "submenu": {
                                         "items": [
                                             {
-                                                "id": "workbench.action.positionPanelBottom",
-                                                "label": "Bottom",
-                                                "checked": true
+                                                "id": "workbench.action.positionPanelTop",
+                                                "label": "Top"
                                             },
                                             {
                                                 "id": "workbench.action.positionPanelLeft",
@@ -630,6 +724,11 @@
                                             {
                                                 "id": "workbench.action.positionPanelRight",
                                                 "label": "Right"
+                                            },
+                                            {
+                                                "id": "workbench.action.positionPanelBottom",
+                                                "label": "Bottom",
+                                                "checked": true
                                             }
                                         ]
                                     }
@@ -895,8 +994,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1398,8 +1496,9 @@
                 "userSettingsLabel": "ctrl+k ctrl+t"
             },
             "workbench.action.closeActiveEditor": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Ctrl+W Q",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+w q"
             },
             "workbench.action.closeFolder": {
                 "label": "Ctrl+K F",
@@ -1553,6 +1652,16 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorDown": {
+                "label": "Ctrl+W S",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+w s"
+            },
+            "workbench.action.splitEditorRight": {
+                "label": "Ctrl+W V",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+w v"
+            },
             "workbench.action.splitEditorInGroup": {
                 "label": "Ctrl+K Ctrl+Shift+\\",
                 "isNative": false,
@@ -1654,6 +1763,11 @@
             "workbench.action.focusFifthEditorGroup": {
                 "label": "Ctrl+5",
                 "userSettingsLabel": "ctrl+5"
+            },
+            "workbench.action.focusNextGroup": {
+                "label": "Ctrl+W Ctrl+W",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+w ctrl+w"
             },
             "workbench.action.focusLeftGroup": {
                 "label": "Ctrl+K Ctrl+LeftArrow",

@@ -1,2 +1,3 @@
-2024/06/17-12:44:42.235 546 Creating DB /home/sus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2024/06/17-12:44:42.263 546 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-14:20:24.095 64088 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-14:20:24.095 64088 Recovering log #7
+2024/09/17-14:20:24.098 64088 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 

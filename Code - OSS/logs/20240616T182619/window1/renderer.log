@@ -1,3 +1,0 @@
-2024-06-16 18:26:20.114 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/sus/.config/waybar/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-06-16 18:26:20.575 [info] Started local extension host with pid 5727.
-2024-06-16 18:26:23.239 [info] [perf] Render performance baseline is 25ms

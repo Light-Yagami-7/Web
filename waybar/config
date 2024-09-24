@@ -14,6 +14,7 @@
         "network",
         "temperature",
         "battery",
+        "custom/brightness",
         "clock"
     ],
     "hyprland/window": {
@@ -28,25 +29,44 @@
         "format": "{icon} ",
         "on-click": "activate",
         "format-icons": {
-            "1": "\uf268",  
-            "2": "\uf113",  
-            "3": "\uf120"   
+            "1": "\uf268",
+            "2": "\uf113",
+            "3": "\uf120"
         },
         "sort-by-number": true,
         "persistent-workspaces": {
-            "*": 4,
+            "*": 3,
             "HDMI-A-1": 3
         }
     },
     "clock": {
-        "format": "{:%I:%M %p}",  
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>\n<big>{:%I:%M %p}</big>",
-        "format-alt": "{:%Y-%m-%d %I:%M %p}"  
+        "format": "{:%I:%M %p}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>\n<big>{:%I:%M %p}</big>"
     },
+    
+    "custom/brightness": {
+    "format": "{icon} {percent}%",
+    "format-alt": "{percent}%",
+    "on-click": "brightnessctl set +10%", 
+    "on-scroll-up": "brightnessctl set +5%", 
+    "on-scroll-down": "brightnessctl set 5%-", 
+    "tooltip": false, 
+    "format-icons": {
+        "low": "",    
+        "medium": "", 
+        "high": ""    
+    }
+},
+
+    
     "temperature": {
         "critical-threshold": 80,
         "format": "{icon} {temperatureC}°C",
-        "format-icons": ["", "", ""]
+        "format-icons": [
+            "",
+            "",
+            ""
+        ]
     },
     "battery": {
         "states": {
@@ -58,7 +78,13 @@
         "format-charging": " {capacity}%",
         "format-plugged": " {capacity}%",
         "format-alt": "{time} {icon}",
-        "format-icons": ["", "", "", "", ""]
+        "format-icons": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     "network": {
         "format-wifi": " {signalStrength}%",
@@ -80,7 +106,11 @@
             "phone": "",
             "portable": "",
             "car": "",
-            "default": ["", "", ""]
+            "default": [
+                "",
+                "",
+                ""
+            ]
         },
         "on-click": "pavucontrol"
     }
