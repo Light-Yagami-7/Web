@@ -1,9 +1,6 @@
-2024/09/23-22:29:25.091 5dd75 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
-2024/09/23-22:29:25.091 5dd75 Recovering log #1052
-2024/09/23-22:29:25.098 5dd75 Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/001052.log 
-2024/09/23-22:29:25.427 5dd89 Level-0 table #1056: started
-2024/09/23-22:29:25.443 5dd89 Level-0 table #1056: 1381524 bytes OK
-2024/09/23-22:29:25.450 5dd89 Delete type=0 #1052
-2024/09/23-22:29:30.863 5dd77 Level-0 table #1058: started
-2024/09/23-22:29:30.885 5dd77 Level-0 table #1058: 1705637 bytes OK
-2024/09/23-22:29:30.899 5dd77 Delete type=0 #1055
+2024/09/25-15:31:43.762 29fdf Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2024/09/25-15:31:43.763 29fdf Recovering log #1060
+2024/09/25-15:31:43.773 29fdf Reusing old log /home/sus/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/001060.log 
+2024/09/25-15:31:50.082 29fdf Level-0 table #1065: started
+2024/09/25-15:31:50.121 29fdf Level-0 table #1065: 1717527 bytes OK
+2024/09/25-15:31:50.141 29fdf Delete type=0 #1060

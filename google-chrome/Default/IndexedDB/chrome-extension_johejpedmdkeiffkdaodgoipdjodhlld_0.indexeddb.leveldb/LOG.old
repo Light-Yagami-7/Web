@@ -1,14 +1,14 @@
-2024/09/24-23:28:31.073 962 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/chrome-extension_johejpedmdkeiffkdaodgoipdjodhlld_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/24-23:28:31.076 962 Recovering log #7721
-2024/09/24-23:28:31.076 962 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/chrome-extension_johejpedmdkeiffkdaodgoipdjodhlld_0.indexeddb.leveldb/007721.log 
-2024/09/24-23:28:31.076 962 Delete type=2 #7719
-2024/09/24-23:28:31.104 962 Level-0 table #7726: started
-2024/09/24-23:28:31.110 962 Level-0 table #7726: 992 bytes OK
-2024/09/24-23:28:31.118 962 Delete type=0 #7721
-2024/09/24-23:28:31.118 950 Manual compaction at level-0 from ' \x9b\x07\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x9c\x07\x00\x00\x00' @ 0 : 0; will stop at ' \x9b\x07\x00\x00\x05' @ 64968 : 1
-2024/09/24-23:28:31.118 950 Compacting 1@0 + 1@1 files
-2024/09/24-23:28:31.125 950 Generated table #7727@0: 14 keys, 704 bytes
-2024/09/24-23:28:31.125 950 Compacted 1@0 + 1@1 files => 704 bytes
-2024/09/24-23:28:31.132 950 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/09/24-23:28:31.133 950 Delete type=2 #7726
-2024/09/24-23:28:31.133 950 Manual compaction at level-0 from ' \x9b\x07\x00\x00\x05' @ 64968 : 1 .. ' \x9c\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/25-21:30:06.496 952 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/chrome-extension_johejpedmdkeiffkdaodgoipdjodhlld_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/25-21:30:06.497 952 Recovering log #7926
+2024/09/25-21:30:06.497 952 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/chrome-extension_johejpedmdkeiffkdaodgoipdjodhlld_0.indexeddb.leveldb/007926.log 
+2024/09/25-21:30:06.497 952 Delete type=2 #7924
+2024/09/25-21:30:06.540 952 Level-0 table #7931: started
+2024/09/25-21:30:06.548 952 Level-0 table #7931: 992 bytes OK
+2024/09/25-21:30:06.558 952 Delete type=0 #7926
+2024/09/25-21:30:06.559 952 Manual compaction at level-0 from ' \xcf\x07\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xd0\x07\x00\x00\x00' @ 0 : 0; will stop at ' \xcf\x07\x00\x00\x05' @ 66696 : 1
+2024/09/25-21:30:06.559 952 Compacting 1@0 + 1@1 files
+2024/09/25-21:30:06.567 952 Generated table #7932@0: 37 keys, 1740 bytes
+2024/09/25-21:30:06.567 952 Compacted 1@0 + 1@1 files => 1740 bytes
+2024/09/25-21:30:06.577 952 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/25-21:30:06.577 952 Delete type=2 #7931
+2024/09/25-21:30:06.578 952 Manual compaction at level-0 from ' \xcf\x07\x00\x00\x05' @ 66696 : 1 .. ' \xd0\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

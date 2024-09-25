@@ -1,6 +1,6 @@
-2024/09/24-22:41:54.977 950 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/09/24-22:41:54.981 950 Recovering log #243
-2024/09/24-22:41:54.982 950 Reusing old log /home/sus/.config/google-chrome/Default/Sync Data/LevelDB/000243.log 
-2024/09/24-22:41:57.410 961 Level-0 table #247: started
-2024/09/24-22:41:57.421 961 Level-0 table #247: 102285 bytes OK
-2024/09/24-22:41:57.434 961 Delete type=0 #243
+2024/09/25-18:55:05.436 951 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/25-18:55:05.440 951 Recovering log #249
+2024/09/25-18:55:05.441 951 Reusing old log /home/sus/.config/google-chrome/Default/Sync Data/LevelDB/000249.log 
+2024/09/25-19:44:43.426 951 Level-0 table #254: started
+2024/09/25-19:44:43.435 951 Level-0 table #254: 102877 bytes OK
+2024/09/25-19:44:43.446 951 Delete type=0 #249
