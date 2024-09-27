@@ -1,3 +1,15 @@
-2024/09/17-14:24:44.690 64087 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/17-14:24:44.690 64087 Recovering log #7
-2024/09/17-14:24:44.691 64087 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000007.log 
+2024/09/26-21:24:43.425 95a Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/26-21:24:43.425 95a Recovering log #7
+2024/09/26-21:24:43.426 95a Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_www.flipkart.com_0.indexeddb.leveldb/000007.log 
+2024/09/26-21:29:49.525 95b Level-0 table #12: started
+2024/09/26-21:29:49.532 95b Level-0 table #12: 190631 bytes OK
+2024/09/26-21:29:49.539 95b Delete type=0 #7
+2024/09/26-21:29:49.540 95b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/26-21:29:49.540 95b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x14\x00c\x00l\x00i\x00e\x00n\x00t\x00S\x00e\x00s\x00s\x00i\x00o\x00n\x00D\x00e\x00s\x00k\x00t\x00o\x00p' @ 1283 : 1
+2024/09/26-21:29:49.540 95b Compacting 1@1 + 1@2 files
+2024/09/26-21:29:49.547 95b Generated table #13@1: 99 keys, 110352 bytes
+2024/09/26-21:29:49.547 95b Compacted 1@1 + 1@2 files => 110352 bytes
+2024/09/26-21:29:49.554 95b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/26-21:29:49.554 95b Delete type=2 #9
+2024/09/26-21:29:49.554 95b Delete type=2 #12
+2024/09/26-21:29:49.554 95b Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x14\x00c\x00l\x00i\x00e\x00n\x00t\x00S\x00e\x00s\x00s\x00i\x00o\x00n\x00D\x00e\x00s\x00k\x00t\x00o\x00p' @ 1283 : 1 .. (end); will stop at (end)

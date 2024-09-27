@@ -1,22 +1,24 @@
-2024/09/25-15:31:42.204 4 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/09/25-15:31:42.213 4 Recovering log #862
-2024/09/25-15:31:42.216 4 Level-0 table #865: started
-2024/09/25-15:31:42.228 4 Level-0 table #865: 89407 bytes OK
-2024/09/25-15:31:42.229 4 Recovering log #864
-2024/09/25-15:31:42.229 4 Reusing old log /home/sus/.config/google-chrome/Default/Local Storage/leveldb/000864.log 
-2024/09/25-15:31:42.242 4 Delete type=0 #862
-2024/09/25-15:31:42.243 5 Compacting 4@0 + 1@1 files
-2024/09/25-15:31:42.304 5 Generated table #866@0: 978 keys, 905789 bytes
-2024/09/25-15:31:42.304 5 Compacted 4@0 + 1@1 files => 905789 bytes
-2024/09/25-15:31:42.325 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/09/25-15:31:42.327 5 Delete type=2 #858
-2024/09/25-15:31:42.327 5 Delete type=2 #865
-2024/09/25-15:31:42.327 5 Delete type=2 #856
-2024/09/25-15:31:42.327 5 Delete type=2 #863
-2024/09/25-15:31:42.327 5 Delete type=2 #860
-2024/09/25-15:31:54.431 5 Level-0 table #868: started
-2024/09/25-15:31:54.449 5 Level-0 table #868: 75777 bytes OK
-2024/09/25-15:31:54.467 5 Delete type=0 #864
-2024/09/25-15:33:46.525 5 Level-0 table #870: started
-2024/09/25-15:33:46.546 5 Level-0 table #870: 78179 bytes OK
-2024/09/25-15:33:46.559 5 Delete type=0 #867
+2024/09/26-21:15:13.920 4 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/26-21:15:13.926 4 Recovering log #879
+2024/09/26-21:15:13.926 4 Reusing old log /home/sus/.config/google-chrome/Default/Local Storage/leveldb/000879.log 
+2024/09/26-21:15:41.766 4 Level-0 table #883: started
+2024/09/26-21:15:41.776 4 Level-0 table #883: 81730 bytes OK
+2024/09/26-21:15:41.788 4 Delete type=0 #879
+2024/09/26-21:32:12.214 5 Level-0 table #885: started
+2024/09/26-21:32:12.224 5 Level-0 table #885: 75774 bytes OK
+2024/09/26-21:32:12.236 5 Delete type=0 #882
+2024/09/26-21:32:12.236 5 Compacting 4@0 + 1@1 files
+2024/09/26-21:32:12.263 5 Generated table #886@0: 982 keys, 891969 bytes
+2024/09/26-21:32:12.264 5 Compacted 4@0 + 1@1 files => 891969 bytes
+2024/09/26-21:32:12.274 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/26-21:32:12.275 5 Delete type=2 #876
+2024/09/26-21:32:12.275 5 Delete type=2 #885
+2024/09/26-21:32:12.275 5 Delete type=2 #883
+2024/09/26-21:32:12.275 5 Delete type=2 #880
+2024/09/26-21:32:12.275 5 Delete type=2 #878
+2024/09/26-21:33:40.662 5 Level-0 table #888: started
+2024/09/26-21:33:40.682 5 Level-0 table #888: 65024 bytes OK
+2024/09/26-21:33:40.694 5 Delete type=0 #884
+2024/09/26-22:58:27.327 5 Level-0 table #890: started
+2024/09/26-22:58:27.352 5 Level-0 table #890: 23951 bytes OK
+2024/09/26-22:58:27.364 5 Delete type=0 #887

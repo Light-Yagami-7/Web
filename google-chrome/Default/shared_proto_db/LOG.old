@@ -1,3 +1,12 @@
-2024/09/25-15:31:42.275 29ff1 Reusing MANIFEST /home/sus/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2024/09/25-15:31:42.275 29ff1 Recovering log #17
-2024/09/25-15:31:42.280 29ff1 Reusing old log /home/sus/.config/google-chrome/Default/shared_proto_db/000017.log 
+2024/09/26-21:15:13.985 95c Reusing MANIFEST /home/sus/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2024/09/26-21:15:13.985 95c Recovering log #17
+2024/09/26-21:15:13.988 95c Reusing old log /home/sus/.config/google-chrome/Default/shared_proto_db/000017.log 
+2024/09/26-21:26:36.603 95b Level-0 table #22: started
+2024/09/26-21:26:36.617 95b Level-0 table #22: 127457 bytes OK
+2024/09/26-21:26:36.624 95b Delete type=0 #17
+2024/09/26-22:40:16.652 95b Compacting 1@1 + 1@2 files
+2024/09/26-22:40:16.660 95b Generated table #23@1: 245 keys, 12779 bytes
+2024/09/26-22:40:16.661 95b Compacted 1@1 + 1@2 files => 12779 bytes
+2024/09/26-22:40:16.671 95b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/26-22:40:16.671 95b Delete type=2 #19
+2024/09/26-22:40:16.671 95b Delete type=2 #22

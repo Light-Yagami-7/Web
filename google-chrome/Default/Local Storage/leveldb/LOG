@@ -1,18 +1,24 @@
-2024/09/25-18:55:05.447 4 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/09/25-18:55:05.451 4 Recovering log #869
-2024/09/25-18:55:05.452 4 Reusing old log /home/sus/.config/google-chrome/Default/Local Storage/leveldb/000869.log 
-2024/09/25-18:55:20.463 4 Level-0 table #873: started
-2024/09/25-18:55:20.470 4 Level-0 table #873: 85451 bytes OK
-2024/09/25-18:55:20.477 4 Delete type=0 #869
-2024/09/25-19:37:29.004 5 Level-0 table #875: started
-2024/09/25-19:37:29.013 5 Level-0 table #875: 22557 bytes OK
-2024/09/25-19:37:29.025 5 Delete type=0 #872
-2024/09/25-19:37:29.025 5 Compacting 4@0 + 1@1 files
-2024/09/25-19:37:29.048 5 Generated table #876@0: 981 keys, 914744 bytes
-2024/09/25-19:37:29.048 5 Compacted 4@0 + 1@1 files => 914744 bytes
-2024/09/25-19:37:29.059 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/09/25-19:37:29.059 5 Delete type=2 #866
-2024/09/25-19:37:29.059 5 Delete type=2 #870
-2024/09/25-19:37:29.059 5 Delete type=2 #868
-2024/09/25-19:37:29.059 5 Delete type=2 #875
-2024/09/25-19:37:29.059 5 Delete type=2 #873
+2024/09/27-20:54:57.559 4 Reusing MANIFEST /home/sus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/27-20:54:57.564 4 Recovering log #889
+2024/09/27-20:54:57.564 4 Reusing old log /home/sus/.config/google-chrome/Default/Local Storage/leveldb/000889.log 
+2024/09/27-20:55:17.402 4 Level-0 table #893: started
+2024/09/27-20:55:17.418 4 Level-0 table #893: 64020 bytes OK
+2024/09/27-20:55:17.425 4 Delete type=0 #889
+2024/09/27-21:22:58.691 5 Level-0 table #895: started
+2024/09/27-21:22:58.705 5 Level-0 table #895: 35484 bytes OK
+2024/09/27-21:22:58.713 5 Delete type=0 #892
+2024/09/27-21:22:58.713 5 Compacting 4@0 + 1@1 files
+2024/09/27-21:22:58.739 5 Generated table #896@0: 983 keys, 908430 bytes
+2024/09/27-21:22:58.739 5 Compacted 4@0 + 1@1 files => 908430 bytes
+2024/09/27-21:22:58.746 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/27-21:22:58.747 5 Delete type=2 #888
+2024/09/27-21:22:58.747 5 Delete type=2 #893
+2024/09/27-21:22:58.747 5 Delete type=2 #890
+2024/09/27-21:22:58.747 5 Delete type=2 #886
+2024/09/27-21:22:58.747 5 Delete type=2 #895
+2024/09/27-21:39:58.690 5 Level-0 table #898: started
+2024/09/27-21:39:58.705 5 Level-0 table #898: 17725 bytes OK
+2024/09/27-21:39:58.712 5 Delete type=0 #894
+2024/09/27-21:45:32.583 5 Level-0 table #900: started
+2024/09/27-21:45:32.599 5 Level-0 table #900: 14878 bytes OK
+2024/09/27-21:45:32.607 5 Delete type=0 #897

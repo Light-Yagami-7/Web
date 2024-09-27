@@ -1,0 +1,1222 @@
+{
+   "alert_popup_filter_enabled_desc": {
+      "message": "%filter_name% تم تنشيطه تلقائيًا."
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "التفعيل التلقائي للتصفيات"
+   },
+   "background_tab_title": {
+      "message": "علامة تبويب الخلفية"
+   },
+   "blocking_pages_advanced_button": {
+      "message": "إعدادات متقدمة"
+   },
+   "blocking_pages_btn_go_back": {
+      "message": "الرجوع للخلف"
+   },
+   "blocking_pages_btn_proceed": {
+      "message": "المتابعة على أية حال"
+   },
+   "blocking_pages_malware": {
+      "message": "تم الإبلاغ عن صفحة الويب هذه الموجودة في \u003Cstrong>%host%\u003C/strong> كصفحة برامج ضارة وتم حظرها استنادًا إلى تفضيلات الأمان الخاصة بك."
+   },
+   "blocking_pages_more_info_button": {
+      "message": "المزيد من المعلومات"
+   },
+   "blocking_pages_page_title": {
+      "message": "تم رفض الوصول"
+   },
+   "blocking_pages_phishing": {
+      "message": "تم الإبلاغ عن صفحة الويب هذه الموجودة على \u003Cstrong>%host%\u003C/strong> كصفحة تصيد احتيالي وتم حظرها استنادًا إلى تفضيلات الأمان الخاصة بك."
+   },
+   "blocking_pages_rule_content_title": {
+      "message": "منع AdGuard تحميل هذه الصفحة بسبب قاعدة التصفية التالية"
+   },
+   "blocking_pages_rule_header_title": {
+      "message": "تم حظره بواسطة AdGuard"
+   },
+   "blocking_pages_safe_header_title": {
+      "message": "قام AdGuard بحظر الوصول إلى هذه الصفحة"
+   },
+   "close_button_title": {
+      "message": "إغلاق"
+   },
+   "context_block_site_ads": {
+      "message": "حظر الإعلانات على هذا الموقع..."
+   },
+   "context_complaint_website": {
+      "message": "التبليغ عن مشكلة..."
+   },
+   "context_disable_protection": {
+      "message": "إيقاف حماية AdGuard مؤقتاً"
+   },
+   "context_enable_protection": {
+      "message": "استئناف حماية AdGuard"
+   },
+   "context_open_log": {
+      "message": "سجل التصفية..."
+   },
+   "context_open_settings": {
+      "message": "إعدادات AdGuard..."
+   },
+   "context_security_report": {
+      "message": "التحقق من أمان الموقع..."
+   },
+   "context_site_exception": {
+      "message": "هذا الموقع في الاستثناءات"
+   },
+   "context_site_filtering_disabled": {
+      "message": "لا يمكن تشغيل AdGuard على هذا النطاق"
+   },
+   "context_site_filtering_off": {
+      "message": "تعطيل التصفية على هذا الموقع"
+   },
+   "context_site_filtering_on": {
+      "message": "تمكين التصفية على هذا الموقع"
+   },
+   "context_site_protection_disabled": {
+      "message": "تم إيقاف حماية AdGuard مؤقتاً"
+   },
+   "context_update_antibanner_filters": {
+      "message": "التحقق من وجود تحديثات للتصفية"
+   },
+   "description": {
+      "description": "TEXT MAX LENGTH: 132",
+      "message": "ملحق يقوم بحظر الإعلانات لا مثيل له ضد الإعلانات والنوافذ المنبثقة. يحظر الإعلانات على فيسبوك ويوتيوب وجميع مواقع الويب الأخرى."
+   },
+   "filtering_clear_log_events": {
+      "message": "محو السجل"
+   },
+   "filtering_log_assumed_rule_description": {
+      "description": "\u003Cdot>\u003C/dot> is a placeholder for red-dot, do not insert text there - it will be ignored.",
+      "message": "\u003Cdot>\u003C/dot> يعني القاعدة المقصودة، اقرأ المزيد في \u003Ca>الوثائق\u003C/a>"
+   },
+   "filtering_log_badge_tooltip_http_req_method": {
+      "message": "طريقة طلب HTTP"
+   },
+   "filtering_log_badge_tooltip_http_status_code": {
+      "message": "رمز حالة HTTP"
+   },
+   "filtering_log_badge_tooltip_third_party": {
+      "message": "طلب الطرف الثالث"
+   },
+   "filtering_log_details_modal_back_button": {
+      "message": "العودة إلى الطلب"
+   },
+   "filtering_log_details_modal_beautify_button": {
+      "message": "تجميل"
+   },
+   "filtering_log_details_modal_try_again": {
+      "message": "حاول مرة أخرى"
+   },
+   "filtering_log_filter_allowed": {
+      "message": "المسموح به"
+   },
+   "filtering_log_filter_blocked": {
+      "message": "محظور"
+   },
+   "filtering_log_filter_modified": {
+      "message": "تم التعديل"
+   },
+   "filtering_log_filter_regular": {
+      "message": "عادي"
+   },
+   "filtering_log_filter_user_rules": {
+      "message": "قواعد المستخدم"
+   },
+   "filtering_log_hide_referrer": {
+      "message": "إخفاء المرجع عن جهات الطرف الثالث"
+   },
+   "filtering_log_hide_search_queries": {
+      "message": "نتائج البحث الخاصة بك مخفية"
+   },
+   "filtering_log_in_allowlist": {
+      "message": "الموقع مسموح به"
+   },
+   "filtering_log_modified_rules": {
+      "message": "القواعد المعدلة: %rules_count%"
+   },
+   "filtering_log_preserve_log_off": {
+      "message": "حفظ السجل: إيقاف"
+   },
+   "filtering_log_preserve_log_on": {
+      "message": "حفظ السجل: تشغيل"
+   },
+   "filtering_log_privacy_applied_rules": {
+      "message": "تم تطبيق الحماية من التتبع"
+   },
+   "filtering_log_remove_client_data": {
+      "message": "تمت إزالة رأس X-Client-Data"
+   },
+   "filtering_log_search_string": {
+      "message": "تصفية سجلات السجل"
+   },
+   "filtering_log_search_tabs_placeholder": {
+      "message": "البحث في علامات التبويب"
+   },
+   "filtering_log_send_not_track": {
+      "message": "عدم تعقب رأس المرسلة"
+   },
+   "filtering_log_status_allowed": {
+      "message": "المسموح به"
+   },
+   "filtering_log_status_blocked": {
+      "message": "محظور"
+   },
+   "filtering_log_status_modified": {
+      "message": "تم تعديله"
+   },
+   "filtering_log_status_processed": {
+      "message": "تم معالجته"
+   },
+   "filtering_log_stealth_rules": {
+      "message": "قواعد الحماية من التتبع: %rules_count%"
+   },
+   "filtering_log_tag_tooltip_allowed": {
+      "message": "الطلبات المسموح بها وغير المحظورة فقط"
+   },
+   "filtering_log_tag_tooltip_blocked": {
+      "message": "الطلبات المحظورة فقط"
+   },
+   "filtering_log_tag_tooltip_css": {
+      "message": "أوراق الأنماط"
+   },
+   "filtering_log_tag_tooltip_first_party": {
+      "message": "طلبات الطرف الأول فقط"
+   },
+   "filtering_log_tag_tooltip_html": {
+      "message": "المستندات والمستندات الفرعية"
+   },
+   "filtering_log_tag_tooltip_img": {
+      "message": "الصور"
+   },
+   "filtering_log_tag_tooltip_js": {
+      "message": "البرامج النصية"
+   },
+   "filtering_log_tag_tooltip_media": {
+      "message": "الوسائط"
+   },
+   "filtering_log_tag_tooltip_modified": {
+      "message": "الطلبات المعدلة فقط"
+   },
+   "filtering_log_tag_tooltip_other": {
+      "message": "الخطوط، و pings، و WebRTC، و WebSocket، إلخ."
+   },
+   "filtering_log_tag_tooltip_regular": {
+      "message": "الطلبات التي تتم معالجتها فقط دون تصفية"
+   },
+   "filtering_log_tag_tooltip_third_party": {
+      "message": "طلبات الطرف الثالث فقط"
+   },
+   "filtering_log_tag_tooltip_user_rules": {
+      "message": "الطلبات التي تم تغييرها بواسطة قواعد المستخدم فقط"
+   },
+   "filtering_log_tag_tooltip_xhr": {
+      "message": "XMLHttpRequests وطلبات الجلب"
+   },
+   "filtering_log_title": {
+      "message": "سجل التصفية"
+   },
+   "filtering_modal_add_rule": {
+      "message": "أضف قاعدة"
+   },
+   "filtering_modal_add_title": {
+      "message": "إضافة قاعدة"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "تطبيق القاعدة على جميع المواقع"
+   },
+   "filtering_modal_block": {
+      "message": "حظر"
+   },
+   "filtering_modal_block_again": {
+      "message": "حظر مرة أخرى"
+   },
+   "filtering_modal_converted_to": {
+      "message": "تحول إلى:"
+   },
+   "filtering_modal_cookie": {
+      "message": "ملفات تعريف الارتباط:"
+   },
+   "filtering_modal_copied": {
+      "message": "تم النسخ"
+   },
+   "filtering_modal_copy_to_clipboard": {
+      "message": "نسخ إلى الحافظة"
+   },
+   "filtering_modal_declarative_rule": {
+      "message": "قاعدة DNR:"
+   },
+   "filtering_modal_element": {
+      "message": "عنصر:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "إضافة استثناء"
+   },
+   "filtering_modal_filter": {
+      "message": "التصفية:"
+   },
+   "filtering_modal_filtering_status_text_desc": {
+      "message": "حالة التصفية:"
+   },
+   "filtering_modal_hide_full_element": {
+      "message": "إخفاء العنصر بالكامل"
+   },
+   "filtering_modal_hide_full_rule": {
+      "message": "إخفاء القاعدة بالكامل"
+   },
+   "filtering_modal_hide_full_url": {
+      "message": "إخفاء URL الكامل"
+   },
+   "filtering_modal_important": {
+      "message": "إعطاء الأولوية للقاعدة الأعلى"
+   },
+   "filtering_modal_info_title": {
+      "message": "تفاصيل الطلب"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "فتح في علامة تبويب جديدة"
+   },
+   "filtering_modal_options_desc": {
+      "message": "الخيارات:"
+   },
+   "filtering_modal_patterns_desc": {
+      "message": "الأنماط:"
+   },
+   "filtering_modal_preview_request_button": {
+      "message": "معاينة"
+   },
+   "filtering_modal_preview_title": {
+      "message": "معاينة"
+   },
+   "filtering_modal_privacy": {
+      "message": "الحماية من التتبع:"
+   },
+   "filtering_modal_remove_allowlist": {
+      "message": "إزالة من القائمة البيضاء"
+   },
+   "filtering_modal_remove_param": {
+      "message": "إزالة علامة الاستفهام في المعلمات"
+   },
+   "filtering_modal_remove_user": {
+      "message": "حذف القاعدة"
+   },
+   "filtering_modal_rule": {
+      "message": "قاعدة:"
+   },
+   "filtering_modal_rule_text_desc": {
+      "message": "نص القاعدة:"
+   },
+   "filtering_modal_rules": {
+      "message": "القواعد:"
+   },
+   "filtering_modal_show_full_element": {
+      "message": "إظهار العنصر بالكامل"
+   },
+   "filtering_modal_show_full_rule": {
+      "message": "عرض القاعدة بالكامل"
+   },
+   "filtering_modal_show_full_url": {
+      "message": "إظهار URL كامل"
+   },
+   "filtering_modal_source": {
+      "message": "المصدر:"
+   },
+   "filtering_modal_status_text_desc": {
+      "message": "الحالة:"
+   },
+   "filtering_modal_status_text_error": {
+      "message": "فشل في تحميل المعاينة. يرجى المحاولة مرة أخرى"
+   },
+   "filtering_modal_status_text_loading": {
+      "message": "جار التحميل..."
+   },
+   "filtering_modal_third_party": {
+      "message": "تنطبق على طلبات الطرف الثالث فقط"
+   },
+   "filtering_modal_type": {
+      "message": "نوع:"
+   },
+   "filtering_modal_unblock": {
+      "message": "إلغاء الحظر"
+   },
+   "filtering_refresh_tab_short": {
+      "message": "إعادة تحميل"
+   },
+   "filtering_table_empty_reload_page_desc": {
+      "message": "لم يتم العثور على شيء. \u003Creset>تعطيل التصفيات\u003C/reset> أو \u003Crefresh>إعادة تحميل الصفحة\u003C/refresh> لعرض سجلات."
+   },
+   "filtering_table_filter": {
+      "message": "التصفية"
+   },
+   "filtering_table_rule": {
+      "message": "قاعدة التصفية"
+   },
+   "filtering_table_source": {
+      "message": "المصدر"
+   },
+   "filtering_table_status": {
+      "message": "الحالة"
+   },
+   "filtering_table_type": {
+      "message": "النوع"
+   },
+   "filtering_type_all": {
+      "message": "الكل"
+   },
+   "filtering_type_other": {
+      "message": "أخرى"
+   },
+   "filters_download_loading": {
+      "message": "يرجى الانتظار أثناء تحميل قاعدة بيانات التصفيات..."
+   },
+   "filters_download_title": {
+      "message": "جاري تحميل قاعدة بيانات التصفيات..."
+   },
+   "fullscreen_user_rules_title": {
+      "message": "قواعد المستخدم"
+   },
+   "group_description_adblocking": {
+      "message": "قم بضبط حظر الإعلانات للتعامل مع اللافتات المزعجة والنوافذ المنبثقة والإعلانات التي في شكل فيديو الفيديو وأنواع اخرى، مرة واحدة وإلى الأبد."
+   },
+   "group_description_annoyances": {
+      "message": "قم بإزالة النوافذ المنبثقة والإشعارات المزعجة الأخرى مثل إشعارات ملفات تعريف الارتباط"
+   },
+   "group_description_custom": {
+      "message": "قم بإنشاء عوامل التصفية الخاصة بك لضبط تصفية الويب حسب تفضيلاتك."
+   },
+   "group_description_lang": {
+      "message": "لا تقيد نفسك - احظر الإعلانات على مواقع الويب بأي لغة."
+   },
+   "group_description_miscellaneous": {
+      "message": "المزيد من الإعدادات لضبط تصفح الويب الخاص بك باستخدام AdGuard بشكل أكبر."
+   },
+   "group_description_security": {
+      "message": "احم نفسك من البرمجيات الخبيثة والتصيد الاحتيالي والتهديدات الأخرى عبر الإنترنت."
+   },
+   "group_description_social": {
+      "message": "إخفاء الأزرار غير المرغوب فيها مثل (أعجبني والمشاركة) وأدوات اخرى في مواقع التواصل الاجتماعي."
+   },
+   "group_description_stealth": {
+      "message": "قم بحماية هويتك ومعلوماتك الشخصية الحساسة من آلاف المتتبعين عبر الإنترنت عن طريق حظر جميع طرق التتبع الشائعة المعروفة"
+   },
+   "name": {
+      "message": "مانع الإعلانات AdGuard"
+   },
+   "options_about": {
+      "message": "حول"
+   },
+   "options_about_title": {
+      "message": "ملحق متصفح AdGuard"
+   },
+   "options_about_version": {
+      "message": "الإصدار"
+   },
+   "options_acknowledgment": {
+      "message": "شكر وتقدير"
+   },
+   "options_add_custom_filter": {
+      "message": "إضافة تصفية مخصصة"
+   },
+   "options_add_custom_filter_modal_add_button": {
+      "message": "إضافة"
+   },
+   "options_add_custom_filter_modal_checking_filter": {
+      "message": "جاري التحقق من التصفية الخاص بك..."
+   },
+   "options_add_custom_filter_modal_error_subtitle": {
+      "message": "يرجى المحاولة مرة أخرى أو اتصل بالدعم"
+   },
+   "options_add_custom_filter_modal_error_title": {
+      "message": "فشل في إضافة تصفية مخصصة"
+   },
+   "options_add_custom_filter_modal_filter_name": {
+      "message": "اسم التصفية:"
+   },
+   "options_add_custom_filter_modal_filter_trusted": {
+      "message": "موثوق به"
+   },
+   "options_add_custom_filter_modal_filter_trusted_description": {
+      "message": "بعض قواعد التصفيات يمكن أن تغير بشكل كبير تجربة تصفحك وتعرض خصوصيتك للخطر. تأكد من استخدام تصفيات من المطورين تثق بهم"
+   },
+   "options_add_custom_filter_modal_title": {
+      "message": "إضافة تصفية مخصصة"
+   },
+   "options_all_limits_exceeded_warning": {
+      "message": "لقد وصلت إلى الحد الأقصى للقواعد المضمنة النشطة. لقد قام متصفحك بتعديل قائمة عوامل التصفية المضمنة النشطة. تم تغيير عدد المرشحات التي تعمل الان من %expected% إلى %current%."
+   },
+   "options_allowlist": {
+      "message": "القائمة البيضاء"
+   },
+   "options_allowlist_alert_invert": {
+      "message": "تم عكس القائمة البيضاء. يتم حظر الإعلانات فقط على المواقع المضافة إليها. \u003Ca>تعطيل\u003C/a>"
+   },
+   "options_allowlist_desc": {
+      "message": "لن يقوم AdGuard بحظر الإعلانات في المواقع المضافة إلي القائمة البيضاء."
+   },
+   "options_allowlist_invert": {
+      "message": "عكس القائمة البيضاء"
+   },
+   "options_allowlist_invert_desc": {
+      "message": "إلغاء حظر الإعلانات في كل مكان باستثناء القائمة البيضاء."
+   },
+   "options_antibanner_custom_filter_already_exists": {
+      "message": "تمت إضافة هذه التصفية المخصصة بالفعل"
+   },
+   "options_antibanner_custom_group": {
+      "message": "مخصص"
+   },
+   "options_antibanner_rules_count": {
+      "message": "عدد قواعد التصفية: %rules_count%"
+   },
+   "options_block_acceptable_ads": {
+      "message": "منع إعلانات البحث والترويج الذاتي لمواقع الويب"
+   },
+   "options_block_acceptable_ads_desc": {
+      "message": "تخلص من \u003Ca>الترويج الذاتي للمواقع الإلكترونية والإعلانات المستندة إلى السياق\u003C/a> التي تظهر في نتائج البحث."
+   },
+   "options_block_known_trackers_description": {
+      "message": "حظر أدوات التتبع وأدوات تحليلات الويب باستخدام تصفية AdGuard للحماية من التتبع."
+   },
+   "options_block_known_trackers_title": {
+      "message": "حظر المتتبعين"
+   },
+   "options_check_update": {
+      "message": "تحقق وجود تحديثات"
+   },
+   "options_check_update_progress": {
+      "message": "التحقق من..."
+   },
+   "options_clear_stats_confirm_modal_clear_button": {
+      "message": "مسح"
+   },
+   "options_clear_stats_confirm_modal_title": {
+      "message": "مسح الإحصائيات؟"
+   },
+   "options_collect_hit_stats_desc": {
+      "message": "أرسل \u003Ca>إحصائيات مجهولة المصدر حول استخدام تصفيات الإعلانات\u003C/a> والتي ستساعدنا على تحسينها."
+   },
+   "options_collect_hit_stats_title": {
+      "message": "المساعدة في تطوير تصفيات AdGuard"
+   },
+   "options_coming_soon": {
+      "message": "قريباً"
+   },
+   "options_confirm_modal_cancel_button": {
+      "message": "إلغاء"
+   },
+   "options_copyright": {
+      "message": "جميع الحقوق محفوظة."
+   },
+   "options_disable_webrtc_desc": {
+      "message": "يمكن أن يسرب WebRTC عنوان IP الخاص بك حتى إذا كنت تستخدم بروكسي أو VPN. قد يؤدي تعطيل WebRTC إلى تعطيل بعض المواقع الإلكترونية."
+   },
+   "options_disable_webrtc_title": {
+      "message": "تعطيل WebRTC"
+   },
+   "options_discuss": {
+      "message": "ناقش AdGuard"
+   },
+   "options_do_you_like_question": {
+      "message": "هل يعجبك AdGuard؟"
+   },
+   "options_editor_close_fullscreen_button_tooltip": {
+      "message": "الخروج من وضع النافذة"
+   },
+   "options_editor_indicator_saved": {
+      "message": "تم الحفظ"
+   },
+   "options_editor_indicator_saving": {
+      "message": "حفظ..."
+   },
+   "options_editor_open_fullscreen_button_tooltip": {
+      "message": "فتح المحرر في علامة تبويب جديدة"
+   },
+   "options_editor_save": {
+      "message": "حفظ"
+   },
+   "options_empty_custom_filter": {
+      "message": "ليس لديك أي تصفيات مخصصة حتى الآن"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "تفعيل التصفيات الأكثر ملائمة تلقائياً"
+   },
+   "options_enable_autodetect_filter_desc": {
+      "message": "سيتم تشغيل عوامل التصفية الخاصة باللغة بناءً على لغة الموقع"
+   },
+   "options_export_settings": {
+      "message": "تصدير الإعدادات"
+   },
+   "options_filters": {
+      "message": "التصفيات"
+   },
+   "options_filters_annoyances_consent_description": {
+      "message": "أنت على وشك تمكين واحد أو أكثر من تصفيات اللافتات أو الإزعاج. فهي تحظر العناصر التي لا علاقة لها بمحتوى الموقع الإلكتروني أو ذات الصلة ولكنها مزعجة لتجربة المستخدم. قد يعتبر أصحاب مواقع الويب أن هذه العناصر إلزامية: إذا قمت بحظرها، فقد تنتهك شروطهم؛ وقد لا تتوفر بعض وظائف مواقع الويب أو قد لا تعمل بشكل صحيح. أنت تدرك وتوافق على أنك وحدك المسؤول عن الامتثال لشروط استخدام المواقع الإلكترونية التي تزورها وأن AdGuard ليس مسؤولاً عن امتثالك لشروطهم."
+   },
+   "options_filters_annoyances_consent_enable_button": {
+      "message": "تمكين"
+   },
+   "options_filters_annoyances_consent_filter_policy": {
+      "message": "للحصول على تفاصيل حول ما تحظره تصفية اللافتات من AdGuard، راجع \u003Ca>سياسة التصفية\u003C/a>"
+   },
+   "options_filters_annoyances_consent_question": {
+      "message": "تمكين هذه التصفيات؟"
+   },
+   "options_filters_annoyances_consent_title": {
+      "message": "يرجى القراءة بعناية قبل تفعيل تصفيات اللافتات"
+   },
+   "options_filters_empty_title": {
+      "message": "لم يتم العثور على شيء"
+   },
+   "options_filters_enabled": {
+      "message": "قيد التشغيل:"
+   },
+   "options_filters_enabled_and_last": {
+      "message": "%enabled% و %last%"
+   },
+   "options_filters_enabled_and_more": {
+      "message": "%enabled% و %more% أكثر"
+   },
+   "options_filters_filter_link": {
+      "message": "انتقل إلى الصفحة الرئيسية"
+   },
+   "options_filters_filter_trusted_tag_desc": {
+      "message": "لقد اخترت الوثوق بهذه التصفية."
+   },
+   "options_filters_filter_updated": {
+      "message": "تم تحديثه في:"
+   },
+   "options_filters_filter_version": {
+      "message": "الإصدار:"
+   },
+   "options_filters_info_mv3_total_rules": {
+      "message": "إجمالي القواعد: %num%"
+   },
+   "options_filters_list_search_display_option_all_filters": {
+      "message": "جميع التصفيات"
+   },
+   "options_filters_list_search_display_option_disabled": {
+      "message": "قيد الإيقاف"
+   },
+   "options_filters_list_search_display_option_enabled": {
+      "message": "قيد التشغيل"
+   },
+   "options_filters_no_enabled": {
+      "message": "لا توجد تصفيات مفعلة"
+   },
+   "options_filters_search": {
+      "message": "بحث"
+   },
+   "options_first_party_desc": {
+      "message": "تحديد مدة صلاحية ملفات تعريف الارتباط الخاصة بالطرف الأول (بالدقائق)."
+   },
+   "options_first_party_title": {
+      "message": "التدمير الذاتي لملفات تعريف ارتباط الطرف الأول (غير مستحسن)"
+   },
+   "options_footer_like_us_cta": {
+      "message": "قُم بتقييمه!"
+   },
+   "options_general_settings": {
+      "message": "عام"
+   },
+   "options_github": {
+      "message": "GitHub"
+   },
+   "options_hide_referrer_desc": {
+      "message": "منع تطبيقات الطرف الثالث من معرفة موقع الويب التي تزورها."
+   },
+   "options_hide_referrer_title": {
+      "message": "إخفاء المرجع من برامج الطرف الثالث"
+   },
+   "options_hide_search_queries_desc": {
+      "message": "إخفاء طلبات البحث عن مواقع الويب التي تتم زيارتها من محرك البحث"
+   },
+   "options_hide_search_queries_title": {
+      "message": "إخفاء استعلامات البحث الخاصة بك"
+   },
+   "options_import_settings": {
+      "message": "استيراد الإعدادات"
+   },
+   "options_leave_feedback": {
+      "message": "أرسل ملاحظاتك"
+   },
+   "options_limits_warning_dynamic_regex_rules": {
+      "message": "لقد وصلت إلى الحد الأقصى لقواعد regex المضافة من قبل المستخدم. %maximum% من %current% تم تمكين قواعد regex."
+   },
+   "options_limits_warning_dynamic_rules": {
+      "message": "لقد وصلت إلى الحد الأقصى للقواعد المضافة من قبل المستخدم. %maximum% من قواعد %current% ممكّنة."
+   },
+   "options_limits_warning_static_filters": {
+      "message": "لقد وصلت إلى الحد الأقصى للتصفيات المضمنة النشطة. %maximum% من %current% تم تمكين المتصيفات. لتنشيط القواعد الجديدة، قم بتعطيل بعض التصفيات المضمنة."
+   },
+   "options_limits_warning_static_regex_rules": {
+      "message": "لقد وصلت إلى الحد الأقصى من القواعد العادية المضمنة المفعلة. %maximum% من %current% تم تفعيل قواعد regex. لتنشيط قواعد جديدة، قم بتعطيل بعض التصفيات المضمنة."
+   },
+   "options_limits_warning_static_rules": {
+      "message": "لقد وصلت إلى الحد الأقصى للقواعد المضمنة النشطة. %maximum% من قواعد %current% ممكّنة. لتفعيل قواعد جديدة، قم بتعطيل بعض الفلاتر المضمنة."
+   },
+   "options_loader_applying_changes": {
+      "message": "جاري تطبيق التغييرات..."
+   },
+   "options_miscellaneous_settings": {
+      "message": "إعدادات إضافية"
+   },
+   "options_modified_first_party_cookie": {
+      "message": "تم تعديل ملف تعريف ارتباط الطرف الأول"
+   },
+   "options_modified_third_party_cookie": {
+      "message": "تم تعديل ملف تعريف الارتباط الخاص بطرف ثالث"
+   },
+   "options_nav_better_than_extension": {
+      "message": "لماذا يعتبر تطبيق AdGuard أفضل من الإضافة؟"
+   },
+   "options_nav_compare": {
+      "message": "قارن"
+   },
+   "options_open_changelog": {
+      "message": "سجل التغييرات"
+   },
+   "options_open_log": {
+      "message": "فتح سجل التصفية"
+   },
+   "options_popup_call_to_action": {
+      "message": "أدخل عنوان URL أو مسار الملف الخاص بالتصفية في هذا الحقل."
+   },
+   "options_popup_check_false_description": {
+      "message": "حدث خطأ أثناء إضافة التصفية المخصصة."
+   },
+   "options_popup_check_false_title": {
+      "message": "خطأ"
+   },
+   "options_popup_checking_filter": {
+      "message": "جاري التحقق من التصفية الخاص بك"
+   },
+   "options_popup_description": {
+      "message": "سوف تكون مشترك في هذه التصفية."
+   },
+   "options_popup_filter_description": {
+      "message": "الوصف:"
+   },
+   "options_popup_filter_homepage": {
+      "message": "الصفحة الرئيسية:"
+   },
+   "options_popup_filter_rules_count": {
+      "message": "عدد القواعد:"
+   },
+   "options_popup_filter_title": {
+      "message": "العنوان:"
+   },
+   "options_popup_filter_url": {
+      "message": "عنوان URL:"
+   },
+   "options_popup_filter_version": {
+      "message": "الإصدار:"
+   },
+   "options_popup_import_error_file_description": {
+      "message": "حدث خطأ ما."
+   },
+   "options_popup_import_error_required_privacy_permission": {
+      "message": "لاستيراد ملف الإعدادات هذا، اسمح لـ AdGuard بتغيير الإعدادات المتعلقة بالخصوصية."
+   },
+   "options_popup_import_error_title": {
+      "message": "خطأ في استيراد الإعدادات"
+   },
+   "options_popup_import_settings_wrong_file_ext": {
+      "message": "يجب أن يكون امتداد الملف %extension%"
+   },
+   "options_popup_import_success_title": {
+      "message": "تم استيراد الإعدادات بنجاح"
+   },
+   "options_popup_next_button": {
+      "message": "التالي"
+   },
+   "options_popup_subscribe_button": {
+      "message": "اشترك"
+   },
+   "options_popup_title_placeholder": {
+      "message": "أدخل اسم التصفية"
+   },
+   "options_popup_trusted_filter_description": {
+      "message": "يمكن أن تستخدم التصفيات الموثوق بها قواعد تصفية قوية يمكن أن تكون خطيرة في الأيدي الخطأ. لا تحدد هذا المربع إلا إذا كنت تثق به تمامًا."
+   },
+   "options_popup_trusted_filter_title": {
+      "message": "الوثوق بها"
+   },
+   "options_popup_try_again_button": {
+      "message": "حاول مرة أخرى"
+   },
+   "options_popup_update_error": {
+      "message": "فشل الحصول على التحديثات. يرجى المحاولة مرة أخرى لاحقاً."
+   },
+   "options_popup_update_filter": {
+      "message": "تم تحديثه."
+   },
+   "options_popup_update_filters": {
+      "message": "تم تحديثها."
+   },
+   "options_popup_update_not_found": {
+      "message": "لم يتم العثور على تحديثات"
+   },
+   "options_popup_update_title_error": {
+      "message": "خطأ في تحديث التصفيات"
+   },
+   "options_popup_url_placeholder": {
+      "message": "أدخل عنوان URL أو مسار الملف"
+   },
+   "options_popup_url_title": {
+      "message": "اشتراك تصفية جديدة"
+   },
+   "options_popup_version_update_changelog_text": {
+      "message": "ما الجديد في هذا الإصدار؟"
+   },
+   "options_popup_version_update_description_major": {
+      "message": "هذه ترقية رئيسية للملحق تجلب الكثير من الميزات والتحسينات الجديدة."
+   },
+   "options_popup_version_update_description_minor": {
+      "message": "يحتوي هذا الإصدار في الغالب على إصلاحات للأخطاء وتحسينات طفيفة."
+   },
+   "options_popup_version_update_disable_notification": {
+      "message": "تعطيل الإشعارات"
+   },
+   "options_popup_version_update_offer": {
+      "message": "هل تعلم أن إمكانيات AdGuard لا تقتصر على هذا المتصفح؟"
+   },
+   "options_popup_version_update_offer_button_text": {
+      "message": "التعرف على المزيد"
+   },
+   "options_popup_version_update_title_text": {
+      "message": "تم تحديث ملحق AdGuard إلى الإصدار %current_version%"
+   },
+   "options_privacy": {
+      "message": "الحماية من التتبع"
+   },
+   "options_privacy_desc": {
+      "message": "قم بحماية هويتك ومعلوماتك الشخصية الحساسة من آلاف أدوات التتبع عبر الإنترنت من خلال حظر أكثر طرق التتبع شيوعًا."
+   },
+   "options_privacy_policy": {
+      "message": "سياسة الخصوصية"
+   },
+   "options_privacy_title": {
+      "message": "الحماية من التتبع"
+   },
+   "options_remove_client_data_desc": {
+      "message": "منع جوجل كروم من إرسال معلومات الإصدار والتعديلات الخاصة به إلى نطاقات جوجل."
+   },
+   "options_remove_client_data_title": {
+      "message": "إزالة رأس X-Client-Data"
+   },
+   "options_remove_filter_confirm_modal_ok_button": {
+      "message": "إزالة"
+   },
+   "options_remove_filter_confirm_modal_title": {
+      "message": "إزالة هذه التصفيات؟"
+   },
+   "options_report_bug": {
+      "message": "الإبلاغ عن خطأ"
+   },
+   "options_reset_settings": {
+      "message": "إعادة تعيين الإعدادات"
+   },
+   "options_reset_settings_confirm_modal_clear_button": {
+      "message": "إعادة تعيين"
+   },
+   "options_reset_settings_confirm_modal_title": {
+      "message": "إعادة تعيين الإعدادات؟"
+   },
+   "options_reset_settings_done": {
+      "message": "تمت إعادة تعيين الإعدادات"
+   },
+   "options_reset_settings_error": {
+      "message": "خطأ أثناء إعادة تعيين الإعدادات"
+   },
+   "options_reset_stats": {
+      "message": "إعادة تعيين الإحصائيات"
+   },
+   "options_reset_stats_done": {
+      "message": "تمت إعادة تعيين الإحصائيات"
+   },
+   "options_rule_limits": {
+      "message": "حدود القواعد"
+   },
+   "options_rule_limits_description": {
+      "message": "يحد متصفح كروم من عدد القواعد التي يمكن تطبيقها"
+   },
+   "options_rule_limits_dynamic": {
+      "message": "القواعد الديناميكية"
+   },
+   "options_rule_limits_dynamic_regex": {
+      "message": "قواعد Regex - مضمنة في ما سبق"
+   },
+   "options_rule_limits_dynamic_user_rules": {
+      "message": "القواعد المضافة بواسطة المستخدم، مثل \u003Cuser_rules>قواعد المستخدم\u003C/user_rules>و \u003Callowlist>القائمة البيضاء\u003C/allowlist> و \u003Ccustom_filters>التصفيات المخصصة\u003C/custom_filters>"
+   },
+   "options_rule_limits_numbers": {
+      "message": "%current% من %maximum%"
+   },
+   "options_rule_limits_static_rules": {
+      "message": "القواعد الثابتة"
+   },
+   "options_rule_limits_static_rules_all": {
+      "message": "قواعد من \u003Ca>التصفيات المدمجة\u003C/a>"
+   },
+   "options_rule_limits_static_rules_regex": {
+      "message": "قواعد Regex - مضمنة في ما سبق"
+   },
+   "options_rule_limits_static_rulesets": {
+      "message": "مجموعات القواعد الثابتة"
+   },
+   "options_rule_limits_static_rulesets_builtin": {
+      "message": "\u003Ca>تصفيات مدمجة،\u003C/a> مثل حظر اللافتات أو التصفيات الخاصة باللغة"
+   },
+   "options_rule_limits_warning_actions_close_warning_multiple_filters": {
+      "message": "الخيار 3. إذا كنت راضيًا عن التصفيات الافتراضي الذي تم تفعيلها ألان، \u003Ca>أغلق هذا التحذير.\u003C/a>"
+   },
+   "options_rule_limits_warning_actions_close_warning_one_filter": {
+      "message": "الخيار 3. إذا كنت راضيًا عن التصفية الافتراضي الذي تم تفعيلها ألان، \u003Ca>أغلق هذا التحذير.\u003C/a>"
+   },
+   "options_rule_limits_warning_actions_delete_filters": {
+      "message": "الخيار 1. احذف ملحقات حظر الإعلانات غير الضرورية من متصفحك. لإعادة تنشيط عوامل التصفية المذكورة في قسم \"تمكين عوامل التصفية قبل التحديث\"، انقر فوق \u003Ca>إعادة تنشيط عوامل التصفية.\u003C/a>"
+   },
+   "options_rule_limits_warning_actions_install_app": {
+      "message": "الخيار 2. تثبيت تطبيق AdGuard Ad Blocker: ليس لديه أي قيود على قواعد التصفية. \u003Ca>احصل على تطبيق AdGuard\u003C/a>"
+   },
+   "options_rule_limits_warning_actions_title": {
+      "message": "إجراءاتك المحتملة"
+   },
+   "options_rule_limits_warning_explanation_description": {
+      "message": "تم تجاوز حد القواعد المضمنة النشطة بعد إجراء تحديث أو إضافة امتداد جديد. وفقًا لـ Manifest V3، استجاب متصفح كروم بتعطيل جميع التصفيات المضمنة في الإضافة باستثناء التصفيات الافتراضية."
+   },
+   "options_rule_limits_warning_explanation_title": {
+      "message": "ماذا حدث؟"
+   },
+   "options_rule_limits_warning_list_enabled_before_title": {
+      "message": "تم تمكين التصفيات قبل التحديث"
+   },
+   "options_rule_limits_warning_list_enabled_now_title": {
+      "message": "تم تمكين التصفيات الان"
+   },
+   "options_rule_limits_warning_title": {
+      "message": "قام المتصفح بتعديل قائمة التصفيات النشطة"
+   },
+   "options_rule_syntax": {
+      "message": "بناء جملة القاعدة"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "الحماية من التصيد الاحتيالي والبرامج الضارة"
+   },
+   "options_safebrowsing_enabled_desc": {
+      "message": "قم بتفعيل AdGuard Browsing Security التي تكتشف المواقع الخبيثة ومواقع التصيد الاحتيالي عن طريق التحقق منها مقابل قاعدة بيانات على الإنترنت. \u003Ca> اقرأ المزيد \u003C/a>"
+   },
+   "options_select_theme": {
+      "message": "المظهر"
+   },
+   "options_select_update_period_12h": {
+      "message": "12 ساعة"
+   },
+   "options_select_update_period_1h": {
+      "message": "1 ساعة"
+   },
+   "options_select_update_period_24h": {
+      "message": "24 ساعة"
+   },
+   "options_select_update_period_48h": {
+      "message": "48 ساعة"
+   },
+   "options_select_update_period_6h": {
+      "message": "6 ساعة"
+   },
+   "options_select_update_period_default": {
+      "message": "افتراضي"
+   },
+   "options_select_update_period_disabled": {
+      "message": "تعطيل"
+   },
+   "options_send_not_track_desc": {
+      "message": "إرسال إشارات \u003Cgpc>التحكم في الخصوصية العالمية\u003C/gpc> وإشارات \u003Cdnt>عدم التعقب\u003C/dnt> إلى مواقع الويب التي تزورها."
+   },
+   "options_send_not_track_title": {
+      "message": "اطلب من المواقع الإلكترونية عدم تتبعك"
+   },
+   "options_set_update_interval": {
+      "message": "تحديث - تلقائي للتصفيات"
+   },
+   "options_set_update_interval_desc": {
+      "message": "للحصول على حظر أكثر فعالية، يجب تحديث التصفيات بانتظام."
+   },
+   "options_settings": {
+      "message": "إعدادات AdGuard"
+   },
+   "options_show_adguard_full_version_title": {
+      "message": "عرض المعلومات عن النسخة الكاملة من AdGuard"
+   },
+   "options_show_app_updated_notification": {
+      "message": "إشعار بشأن تحديثات الملحق"
+   },
+   "options_show_blocked_ads_count_title": {
+      "message": "إظهار عدد الإعلانات المحظورة على أيقونة AdGuard"
+   },
+   "options_show_context_menu_title": {
+      "message": "أضف عنصر AdGuard إلى قائمة سياق المتصفح"
+   },
+   "options_site": {
+      "message": "الموقع الرسمي"
+   },
+   "options_stealth_cookies_title": {
+      "message": "ملفات تعريف الارتباط"
+   },
+   "options_stealth_general_title": {
+      "message": "عام"
+   },
+   "options_stealth_miscellaneous_title": {
+      "message": "متنوع"
+   },
+   "options_strip_tracking_params_description": {
+      "message": "إزالة المعلمات من طلبات الويب باستخدام تصفية تتبع عنوان URL الخاص بـ AdGuard."
+   },
+   "options_strip_tracking_params_title": {
+      "message": "إزالة معلمات التتبع"
+   },
+   "options_stripped_tracking_parameters": {
+      "message": "تم أزاله معلمات التتبع"
+   },
+   "options_theme_selector_dark": {
+      "message": "داكن"
+   },
+   "options_theme_selector_light": {
+      "message": "فاتح"
+   },
+   "options_theme_selector_system": {
+      "message": "النظام الافتراضي"
+   },
+   "options_third_party_desc": {
+      "message": "تحديد مدة صلاحية ملفات تعريف الارتباط التابعة لجهات خارجية (بالدقائق)."
+   },
+   "options_third_party_title": {
+      "message": "التدمير الذاتي لملفات تعريف الارتباط الخاصة بطرف ثالث"
+   },
+   "options_update_antibanner_filters": {
+      "message": "التحقق من وجود تحديث للتصفيات"
+   },
+   "options_use_optimized_filters": {
+      "message": "استخدام التصفيات المحسنة"
+   },
+   "options_use_optimized_filters_desc": {
+      "message": "يستخدم إصدارات أقصر من التصفيات مع القواعد الأكثر شيوعًا فقط لتوفير حركة المرور. أكثر ملاءمة لمتصفحات الجوال"
+   },
+   "options_user_rules_editor_stub_go_to_editor_button": {
+      "message": "اذهب إلى المحرر"
+   },
+   "options_user_rules_editor_stub_title": {
+      "message": "تم فتح المحرر بالفعل"
+   },
+   "options_userfilter": {
+      "message": "قواعد المستخدم"
+   },
+   "options_userfilter_description_key": {
+      "message": "يمكنك إضافة قواعدك الخاصة هنا. يُنصح بهذا الخيار للمستخدمين المتقدمين الذين لديهم خبرة في HTML/CSS. اقرأ البرنامج التعليمي \u003Ca>لقواعد التصفية\u003C/a> لمعرفة كيفية كتابة قواعد التصفية الخاصة بك."
+   },
+   "options_userfilter_export": {
+      "message": "تصدير"
+   },
+   "options_userfilter_import": {
+      "message": "استيراد"
+   },
+   "options_userfilter_line_break_off": {
+      "message": "فاصل الأسطر: معطل"
+   },
+   "options_userfilter_line_break_on": {
+      "message": "فاصل الأسطر: مفعل"
+   },
+   "options_userfilter_subtitle_key": {
+      "message": "قم بضبط حظر الإعلانات باستخدام قواعد التصفية الخاصة بك."
+   },
+   "popup_abuse_site": {
+      "message": "الإبلاغ عن مشكلة"
+   },
+   "popup_adguard_footer_title": {
+      "message": "احمي هاتفك"
+   },
+   "popup_adguard_for_android": {
+      "message": "AdGuard لنظام Android"
+   },
+   "popup_adguard_for_ios": {
+      "message": "AdGuard لنظام iOS"
+   },
+   "popup_block_site_ads_option": {
+      "message": "حظر الإعلانات على هذا الموقع"
+   },
+   "popup_header_cta_link": {
+      "message": "كيفية تعزيز الحماية"
+   },
+   "popup_header_update_filters": {
+      "message": "التحقق من وجود تحديث للتصفيات"
+   },
+   "popup_limits_exceeded_warning": {
+      "message": "قام المتصفح بتعديل قائمة المرشحات المدمجة النشطة"
+   },
+   "popup_open_filtering_log": {
+      "message": "فتح سجل التصفية"
+   },
+   "popup_reset_page_user_rules": {
+      "message": "مسح كل قواعد المستخدم لهذا الموقع"
+   },
+   "popup_resume_protection_button": {
+      "message": "استئناف"
+   },
+   "popup_security_report": {
+      "message": "تحقق من أمان الموقع"
+   },
+   "popup_site_exception_information": {
+      "message": "تم تعطيل التصفية لأنها قد تتداخل مع تشغيل هذا الموقع."
+   },
+   "popup_site_filtering_state_disabled": {
+      "message": "الحماية قيد الإيقاف"
+   },
+   "popup_site_filtering_state_disabling": {
+      "message": "جاري إيقاف الحماية..."
+   },
+   "popup_site_filtering_state_enabled": {
+      "message": "الحماية قيد التشغيل"
+   },
+   "popup_site_filtering_state_enabling": {
+      "message": "جاري تفعيل الحماية..."
+   },
+   "popup_site_filtering_state_loading": {
+      "message": "جار التحميل..."
+   },
+   "popup_site_filtering_state_paused": {
+      "message": "الحماية متوقفة مؤقتاً"
+   },
+   "popup_site_filtering_state_pausing": {
+      "message": "جاري إيقاف الحماية مؤقتًا..."
+   },
+   "popup_site_filtering_state_resuming": {
+      "message": "جاري إعادة تفعيل الحماية..."
+   },
+   "popup_site_filtering_state_secure_page": {
+      "message": "صفحة آمنة"
+   },
+   "popup_site_filtering_state_subtitle_all_websites": {
+      "message": "لكافة المواقع"
+   },
+   "popup_statistics_all_categories": {
+      "message": "الكل"
+   },
+   "popup_statistics_category_advertising": {
+      "message": "الإعلانات"
+   },
+   "popup_statistics_category_cdn": {
+      "message": "CDN"
+   },
+   "popup_statistics_category_other": {
+      "message": "أخرى"
+   },
+   "popup_statistics_category_social_media": {
+      "message": "وسائل التواصل الإجتماعي"
+   },
+   "popup_statistics_category_trackers": {
+      "message": "التتبع"
+   },
+   "popup_statistics_months_apr": {
+      "message": "أبريل"
+   },
+   "popup_statistics_months_aug": {
+      "message": "أغسطس"
+   },
+   "popup_statistics_months_dec": {
+      "message": "ديسمبر"
+   },
+   "popup_statistics_months_feb": {
+      "message": "فبراير"
+   },
+   "popup_statistics_months_jan": {
+      "message": "يناير"
+   },
+   "popup_statistics_months_jul": {
+      "message": "يوليو"
+   },
+   "popup_statistics_months_jun": {
+      "message": "يونيو"
+   },
+   "popup_statistics_months_mar": {
+      "message": "مارس"
+   },
+   "popup_statistics_months_may": {
+      "message": "مايو"
+   },
+   "popup_statistics_months_nov": {
+      "message": "نوفمبر"
+   },
+   "popup_statistics_months_oct": {
+      "message": "أكتوبر"
+   },
+   "popup_statistics_months_sep": {
+      "message": "سبتمبر"
+   },
+   "popup_statistics_time_day": {
+      "message": "الأمس"
+   },
+   "popup_statistics_time_month": {
+      "message": "الشهر الماضي"
+   },
+   "popup_statistics_time_week": {
+      "message": "الأسبوع الماضي"
+   },
+   "popup_statistics_time_year": {
+      "message": "العام الماضي"
+   },
+   "popup_statistics_total": {
+      "message": "المجموع"
+   },
+   "popup_statistics_week_days_fri": {
+      "message": "الجمعة"
+   },
+   "popup_statistics_week_days_mon": {
+      "message": "الإثنين"
+   },
+   "popup_statistics_week_days_sat": {
+      "message": "السبت"
+   },
+   "popup_statistics_week_days_sun": {
+      "message": "الأحد"
+   },
+   "popup_statistics_week_days_thu": {
+      "message": "الخميس"
+   },
+   "popup_statistics_week_days_tue": {
+      "message": "الثلاثاء"
+   },
+   "popup_statistics_week_days_wed": {
+      "message": "الأربعاء"
+   },
+   "popup_switch_button": {
+      "message": "مفتاح الحماية"
+   },
+   "popup_tab_actions": {
+      "message": "الإجراءات"
+   },
+   "popup_tab_blocked_all_count": {
+      "message": "المجموع: %num%"
+   },
+   "popup_tab_blocked_count": {
+      "message": "محظور: %num%"
+   },
+   "popup_tab_statistics": {
+      "message": "الإحصائيات"
+   },
+   "post_install_loading": {
+      "message": "جاري التحميل الامتداد..."
+   },
+   "short_name": {
+      "message": "AdGuard"
+   },
+   "snack_on_websites_limits_exceeded_warning": {
+      "message": "تم تجاوز حد القاعدة في ملحق AdGuard الخاص بالمتصفح. يرجى التحقق من التصفيات وقم بتعطيل التي لا تحتاجها"
+   },
+   "text_collapser_hide_default": {
+      "message": "إخفاء النص بالكامل"
+   },
+   "text_collapser_show_default": {
+      "message": "إظهار النص بالكامل"
+   }
+}

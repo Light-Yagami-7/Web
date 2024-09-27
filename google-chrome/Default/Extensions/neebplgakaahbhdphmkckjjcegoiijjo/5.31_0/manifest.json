@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": {
+         "32": "icons/i32.png",
+         "48": "icons/i48.png"
+      },
+      "default_title": "Keepa automatically loads on Amazon product pages."
+   },
+   "author": "Keepa GmbH",
+   "background": {
+      "service_worker": "keepa.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "*://*.keepa.com/*", "*://*.amzn.com/*", "*://*.amazon.com/*", "*://*.amazon.ca/*", "*://*.amazon.com.mx/*", "*://*.amazon.co.uk/*", "*://*.amazon.de/*", "*://*.amazon.fr/*", "*://*.amazon.it/*", "*://*.amazon.es/*", "*://*.amazon.co.jp/*", "*://*.amazon.in/*", "*://*.amazon.com.br/*", "*://*.amazon.nl/*", "*://*.amazon.com.au/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Adds price history charts and the option to be alerted on price drops to all supported Amazon sites.",
+   "differential_fingerprint": "1.eb29d1955e60b1e9ba46b37a5ae7e9724affa32c8c4c335e06bff676b33dc4d0",
+   "homepage_url": "https://keepa.com",
+   "host_permissions": [ "*://*.keepa.com/*", "*://*.amazon.com/*", "*://*.amzn.com/*", "*://*.amazon.co.uk/*", "*://*.amazon.de/*", "*://*.amazon.fr/*", "*://*.amazon.it/*", "*://*.amazon.ca/*", "*://*.amazon.com.mx/*", "*://*.amazon.es/*", "*://*.amazon.co.jp/*", "*://*.amazon.in/*", "*://*.amazon.com.br/*", "*://*.amazon.nl/*", "*://*.amazon.com.au/*" ],
+   "icons": {
+      "128": "icons/i128.png",
+      "16": "icons/i16.png",
+      "32": "icons/i32.png",
+      "48": "icons/i48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD1oAEkEvui5bB9DFRUZX/gxvpP6iHPPl6rcOuEfG0RGaJe3zbNhjVrX2cCRiCMwVI5utJxQ20+Nzsy0QlHWv4XLe2UWI7p1Yt+2jQuIFM4GhXpqofqem7Nlzm5bq9E7BKRQeg5N+ngwSIaZNHVOhB3CgEtrGXYOC9HuS8PV0XcQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "120",
+   "name": "Keepa - Amazon Price Tracker",
+   "optional_permissions": [  ],
+   "options_page": "options.html",
+   "permissions": [ "alarms", "storage", "declarativeNetRequestWithHostAccess", "cookies", "contextMenus", "offscreen", "webRequest" ],
+   "short_name": "Keepa",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.31",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.amzn.com/*", "*://*.amazon.com/*", "*://*.amazon.ca/*", "*://*.amazon.com.mx/*", "*://*.amazon.co.uk/*", "*://*.amazon.de/*", "*://*.amazon.fr/*", "*://*.amazon.it/*", "*://*.amazon.es/*", "*://*.amazon.co.jp/*", "*://*.amazon.in/*", "*://*.amazon.com.br/*", "*://*.amazon.nl/*", "*://*.amazon.com.au/*" ],
+      "resources": [ "selectionHook.js" ]
+   } ]
+}
