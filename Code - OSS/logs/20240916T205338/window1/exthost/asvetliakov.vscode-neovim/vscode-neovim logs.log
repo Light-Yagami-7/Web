@@ -1,2 +1,0 @@
-2024-09-16 20:53:41.170 [info] MainController: Starting nvim: /sus/bin/nvim -N --embed --cmd source /home/sus/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.8-universal/runtime/vscode-neovim.vim
-2024-09-16 20:54:28.844 [info] MainController: Starting nvim: /sus/bin/nvim -N --embed --cmd source /home/sus/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.11-universal/runtime/vscode-neovim.vim

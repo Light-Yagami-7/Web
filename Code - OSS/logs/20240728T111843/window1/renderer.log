@@ -1,3 +1,0 @@
-2024-07-28 11:18:44.900 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/sus/.config/hypr/hyprland.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-07-28 11:18:45.463 [info] Started local extension host with pid 591789.
-2024-07-28 11:18:48.852 [info] [perf] Render performance baseline is 75ms
