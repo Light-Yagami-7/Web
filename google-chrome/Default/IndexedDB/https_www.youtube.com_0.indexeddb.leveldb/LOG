@@ -1,9 +1,0 @@
-2024/10/01-19:44:21.984 16a22 Reusing MANIFEST /home/sus/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/01-19:44:21.984 16a22 Recovering log #305
-2024/10/01-19:44:21.984 16a22 Reusing old log /home/sus/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000305.log 
-2024/10/01-19:44:26.310 16a34 Compacting 1@1 + 1@2 files
-2024/10/01-19:44:26.322 16a34 Generated table #308@1: 1217 keys, 78368 bytes
-2024/10/01-19:44:26.322 16a34 Compacted 1@1 + 1@2 files => 78368 bytes
-2024/10/01-19:44:26.342 16a34 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/01-19:44:26.342 16a34 Delete type=2 #303
-2024/10/01-19:44:26.342 16a34 Delete type=2 #306

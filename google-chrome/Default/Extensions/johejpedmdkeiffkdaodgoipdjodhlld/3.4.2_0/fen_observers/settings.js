@@ -1,1 +1,0 @@
-export const FEN_ELEMENT_ID="chessvision-fen";

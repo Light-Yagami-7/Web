@@ -1,3 +1,0 @@
-/* @license
- * adspeedup@gmail.com . All rights reserved.
- */
