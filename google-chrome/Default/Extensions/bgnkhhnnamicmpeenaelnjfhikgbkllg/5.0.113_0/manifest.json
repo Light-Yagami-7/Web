@@ -1,0 +1,250 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "assets/icons/on-19.png",
+         "38": "assets/icons/on-38.png"
+      },
+      "default_popup": "pages/popup.html",
+      "default_title": "__MSG_name__"
+   },
+   "author": "Adguard Software Ltd",
+   "background": {
+      "service_worker": "pages/background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "pages/content-script-start.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "pages/content-script-end.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "pages/thankyou.js" ],
+      "matches": [ "*://*.adguard.com/*/thankyou.html*", "*://*.adguard.info/*/thankyou.html*", "*://*.adguard.app/*/thankyou.html*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": false,
+         "id": "ruleset_1",
+         "path": "filters/declarative/ruleset_1/ruleset_1.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_10",
+         "path": "filters/declarative/ruleset_10/ruleset_10.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_103",
+         "path": "filters/declarative/ruleset_103/ruleset_103.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_105",
+         "path": "filters/declarative/ruleset_105/ruleset_105.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_108",
+         "path": "filters/declarative/ruleset_108/ruleset_108.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_109",
+         "path": "filters/declarative/ruleset_109/ruleset_109.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_11",
+         "path": "filters/declarative/ruleset_11/ruleset_11.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_110",
+         "path": "filters/declarative/ruleset_110/ruleset_110.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_111",
+         "path": "filters/declarative/ruleset_111/ruleset_111.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_112",
+         "path": "filters/declarative/ruleset_112/ruleset_112.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_120",
+         "path": "filters/declarative/ruleset_120/ruleset_120.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_13",
+         "path": "filters/declarative/ruleset_13/ruleset_13.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_16",
+         "path": "filters/declarative/ruleset_16/ruleset_16.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_17",
+         "path": "filters/declarative/ruleset_17/ruleset_17.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_18",
+         "path": "filters/declarative/ruleset_18/ruleset_18.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_19",
+         "path": "filters/declarative/ruleset_19/ruleset_19.json"
+      }, {
+         "enabled": true,
+         "id": "ruleset_2",
+         "path": "filters/declarative/ruleset_2/ruleset_2.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_20",
+         "path": "filters/declarative/ruleset_20/ruleset_20.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_202",
+         "path": "filters/declarative/ruleset_202/ruleset_202.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_203",
+         "path": "filters/declarative/ruleset_203/ruleset_203.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_208",
+         "path": "filters/declarative/ruleset_208/ruleset_208.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_21",
+         "path": "filters/declarative/ruleset_21/ruleset_21.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_214",
+         "path": "filters/declarative/ruleset_214/ruleset_214.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_216",
+         "path": "filters/declarative/ruleset_216/ruleset_216.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_218",
+         "path": "filters/declarative/ruleset_218/ruleset_218.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_22",
+         "path": "filters/declarative/ruleset_22/ruleset_22.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_224",
+         "path": "filters/declarative/ruleset_224/ruleset_224.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_227",
+         "path": "filters/declarative/ruleset_227/ruleset_227.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_23",
+         "path": "filters/declarative/ruleset_23/ruleset_23.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_233",
+         "path": "filters/declarative/ruleset_233/ruleset_233.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_235",
+         "path": "filters/declarative/ruleset_235/ruleset_235.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_238",
+         "path": "filters/declarative/ruleset_238/ruleset_238.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_243",
+         "path": "filters/declarative/ruleset_243/ruleset_243.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_249",
+         "path": "filters/declarative/ruleset_249/ruleset_249.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_252",
+         "path": "filters/declarative/ruleset_252/ruleset_252.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_253",
+         "path": "filters/declarative/ruleset_253/ruleset_253.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_254",
+         "path": "filters/declarative/ruleset_254/ruleset_254.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_255",
+         "path": "filters/declarative/ruleset_255/ruleset_255.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_256",
+         "path": "filters/declarative/ruleset_256/ruleset_256.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_257",
+         "path": "filters/declarative/ruleset_257/ruleset_257.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_3",
+         "path": "filters/declarative/ruleset_3/ruleset_3.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_4",
+         "path": "filters/declarative/ruleset_4/ruleset_4.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_5",
+         "path": "filters/declarative/ruleset_5/ruleset_5.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_6",
+         "path": "filters/declarative/ruleset_6/ruleset_6.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_7",
+         "path": "filters/declarative/ruleset_7/ruleset_7.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_8",
+         "path": "filters/declarative/ruleset_8/ruleset_8.json"
+      }, {
+         "enabled": false,
+         "id": "ruleset_9",
+         "path": "filters/declarative/ruleset_9/ruleset_9.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "devtools_page": "pages/devtools.html",
+   "differential_fingerprint": "1.cf2f1047a278a1dec1eb9a51d60a23237df4d6149527d9bad1ffbff4273b8413",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/icons/on-128.png",
+      "16": "assets/icons/on-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqbVb+sEr07ot5230yBVcrxQpANd89AacNmD3Ut7To6kk2gL6ri8SWHids1CZ4bOhG9NAd6Iqz4/8aAuNQgMKCk34uRn0oSbmW+YDwkGTU14VqlWqr0+ikFKM0UTrEX4o3dvKPeV6lRPlHeLznV/TiV22NSB+8xfGRSvJenSWumJnos2WM2HQoS32q4Rcbwfy1rBrWoDwUK6maRKvE0tvfKl+3j5s+16b/BDdUvdYWADqzBUxDxHHwTuQ6K49th2Tg5nM6GPzCFLqoC6NHtaayVFd4W0J8z6+MUrJHJO7plRxLeOCbKAQCE1NhYDt93BTlsSX2Ohxs5nW/GDG0oh6zwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "118.0",
+   "name": "__MSG_name__",
+   "optional_permissions": [ "privacy" ],
+   "options_page": "pages/options.html",
+   "permissions": [ "tabs", "webRequest", "webNavigation", "storage", "unlimitedStorage", "contextMenus", "cookies", "declarativeNetRequest", "declarativeNetRequestFeedback", "scripting" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.113",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "web-accessible-resources/*" ],
+      "use_dynamic_url": true
+   } ]
+}
