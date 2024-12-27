@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# But not these specific files/folders
+!/.gitignore
+!/waybar
+!/wofi
+!/auto_push.sh
+!/autin
+!/hypr
+!/kitty
+
