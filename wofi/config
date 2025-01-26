@@ -17,4 +17,4 @@ no_actions=true
 prompt=
 
 [style]
-window-background=rgba(0, 0, 0, 0.7)  # Adjust the transparency as needed
+window-background=rgba(0, 0, 0, 0.5)  # Adjust the transparency as needed
