@@ -1,10 +1,10 @@
 show=drun
 allow_images=true
 allow_markup=true
-term=alacritty
+term=kitty
 matching=contains
-width=800
-height=400
+width=450
+height=470
 always_parse_args=true
 show_all=true
 print_command=true
@@ -17,4 +17,4 @@ no_actions=true
 prompt=
 
 [style]
-window-background=rgba(0, 0, 0, 0.5)  # Adjust the transparency as needed
+ window-background=rgba(0, 0, 0, 0.5)  # Adjust the transparency as needed
