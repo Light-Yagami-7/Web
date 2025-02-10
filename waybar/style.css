@@ -2,7 +2,7 @@
 
 * {
     font-family: "JetBrainsMono Nerd Font", Roboto, Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 window#waybar {
@@ -20,17 +20,29 @@ button {
     border-radius: 0;
 }
 
-/* Style for the active (focused) workspace button */
-#workspaces button.active {
-    background-color: rgba(0, 0, 0, 0.2);  /* Indicate the active workspace */
-    box-shadow: inset 0 -3px #ffffff;
-}
+
 
 #workspaces button {
-    padding: 0 5px;
-    background-color: transparent;
-    color: #ffffff;
+  color: #7a95c9;
+  box-shadow: inset 0 -3px transparent;
+
+  padding-right: 3px;
+  padding-left: 4px;
+
+  margin-left: 0.1em;
+  margin-right: 0em;
+  transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.68);
 }
+
+#workspaces button.active {
+  color: #ecd3a0;
+  padding-left: 1px;
+  padding-right: 12px;
+  margin-left: 0em;
+  margin-right: 0em;
+  transition: all 0.5s cubic-bezier(0.55, -0.68, 0.48, 1.68);
+}
+
 
 /* Style for hovered workspace buttons */
 #workspaces button:hover {
@@ -84,7 +96,7 @@ background-color: rgba(0, 0, 0, 0);
 
 .modules-right, .modules-left, .modules-center {
     background-color: @base;
-    border-radius: 15px;
+    border-radius: 7.5px;
 }
 
 .modules-right {

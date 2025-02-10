@@ -12,7 +12,6 @@
     "modules-right": [
         "pulseaudio",
         "network",
-        "temperature",
         "battery",
         "custom/brightness",
         "clock"
