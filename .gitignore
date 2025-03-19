@@ -5,6 +5,7 @@
 !/.gitignore
 !/waybar
 !/wofi
+!/fuzzel
 !/auto_push.sh
 !/autin
 !/hypr
