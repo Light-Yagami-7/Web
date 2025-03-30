@@ -3,7 +3,7 @@
 # Define variables
 GITHUB_REPO="https://github.com/Light-Yagami-7/Web.git"
 CONFIG_DIR="$HOME/.config"  # User's config directory
-PACKAGES="waybar"  # Add other packages you want to install here
+PACKAGES="waybar swaybg alacritty"  # Add other packages you want to install here
 
 # Clone the GitHub repo containing your new config files from the master branch
 echo "Cloning config files from GitHub (master branch)..."
