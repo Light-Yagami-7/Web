@@ -28,6 +28,9 @@ atuin init
 echo "Installing yazi (a TUI file manager)"
 sudo pacman -S yazi
 
+#Replacing the zshrc file
+cp -f ~/.config/.zshrc ~/.zshrc
+
 # Clean up
 echo "Cleaning up temporary files..."
 rm -rf "$CONFIG_DIR/your-config-repo"
