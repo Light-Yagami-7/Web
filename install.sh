@@ -2,42 +2,47 @@
 
 # Define variables
 GITHUB_REPO="https://github.com/Light-Yagami-7/Web.git"
-CONFIG_DIR="$HOME/.config"  # User's config directory
-PACKAGES="waybar swaybg alacritty"  # Add other packages you want to install here
+CONFIG_DIR="$HOME/.config"
+REPO_DIR="$CONFIG_DIR/your-config-repo"
+PACKAGES="waybar swaybg alacritty yazi zoxide neovim"
 
-# Clone the GitHub repo containing your new config files from the master branch
-echo "Cloning config files from GitHub (master branch)..."
-git clone --branch master --single-branch "$GITHUB_REPO" "$CONFIG_DIR/your-config-repo"
+# Clone GitHub repo
+echo "Cloning config files from GitHub..."
+git clone --branch master --single-branch "$GITHUB_REPO" "$REPO_DIR" || { echo "Failed to clone repo. Exiting."; exit 1; }
 
-echo "Installing Zsh"
-sudo pacman -S zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# Copy .zshrc before polluting the repo into .config
+cp "$REPO_DIR/.zshrc" ~/.zshrc
 
-# Replace current config files with the ones from the GitHub repo
-echo "Replacing current config files with the ones from GitHub..."
-cp -r "$CONFIG_DIR/your-config-repo"/* "$CONFIG_DIR/"
+# Copy configs
+echo "Replacing configs..."
+cp -r "$REPO_DIR"/* "$CONFIG_DIR/"
 
-# Install necessary packages (like Waybar)
+# Install packages
 echo "Installing packages: $PACKAGES..."
 sudo pacman -Syu --noconfirm $PACKAGES
 
-echo "Setting up atuin..."
-yay -S atuin
-atuin init
+# Install atuin if yay exists
+if command -v yay >/dev/null 2>&1; then
+    echo "Installing atuin..."
+    yay -S --noconfirm atuin
+    atuin init
+else
+    echo "⚠️ yay not found, skipping atuin install."
+fi
 
-echo "Installing yazi (a TUI file manager)"
-sudo pacman -S yazi
-
-#Replacing the zshrc file
-cp -f ~/.config/.zshrc ~/.zshrc
-
-# Clean up
-echo "Cleaning up temporary files..."
-rm -rf "$CONFIG_DIR/your-config-repo"
-
-echo "Done! Your config files have been replaced and the necessary packages installed."
-
-echo "Everything is almost done now setting up the lock manger..."
+# Lock screen setup
+echo "Setting up SDDM lockscreen theme..."
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"
 
+# Install Zsh and oh-my-zsh at the very end
+echo "Installing Zsh + oh-my-zsh..."
+sudo pacman -S --noconfirm zsh git
 
+git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
+chsh -s "$(which zsh)"
+
+# Clean up
+echo "Cleaning up..."
+rm -rf "$REPO_DIR"
+
+echo "✅ Done. Reboot or relog to start using Zsh!"
