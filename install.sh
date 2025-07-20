@@ -4,7 +4,7 @@
 GITHUB_REPO="https://github.com/Light-Yagami-7/Web.git"
 CONFIG_DIR="$HOME/.config"
 REPO_DIR="$CONFIG_DIR/your-config-repo"
-PACKAGES="waybar swaybg alacritty yazi zoxide neovim"
+PACKAGES="waybar swaybg yazi zoxide neovim kitty fuzzel"
 
 # Clone GitHub repo
 echo "Cloning config files from GitHub..."
